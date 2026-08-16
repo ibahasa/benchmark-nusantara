@@ -3,6 +3,7 @@ message: "If you use this data, please cite it pinned to the commit you actually
 title: "Benchmark Nusantara"
 type: dataset
 version: "unreleased"
+date-released: "2026-08-17"
 authors:
   - family-names: "Huda"
     given-names: "M. Khoirul"
@@ -17,12 +18,19 @@ keywords:
   - language model evaluation
   - low-resource languages
 abstract: >
-  Benchmark data for Indonesian and Javanese language models. Six sets covering
-  slang comprehension, text normalisation, spelling correction, Javanese speech
-  levels, and Javanese word meanings. Open items
-  are graded by a native speaker under a published rubric. Four sets withhold
-  roughly 30 per cent of their items from publication so that figures remain
-  defensible against training-set contamination; the two sets that publish their
-  full answer keys say so, carry a contamination canary, and are backed by a
-  separate control set that is never published. See README.md for the limits of
-  each set and CONTRIBUTING.md for how to dispute a figure.
+    Benchmark data for Indonesian and Javanese language models, covering slang
+    comprehension, text normalisation, spelling correction, Javanese speech
+    levels, and Javanese word meanings. Open-ended items are graded by a native
+    speaker under a published rubric.
+
+    Most sets withhold part of their items from publication so that figures stay
+    defensible against training-set contamination. The held-back slice lives
+    inside the set it belongs to and runs on the same pass as the published part,
+    so the gap between the two measures leakage rather than drift. Its scores are
+    reported; its keys are not. Sets that publish an answer key say so and carry a
+    contamination canary.
+
+    Counts move as sets grow, so read them from the data rather than from this
+    abstract. Each dataset folder carries a PROVENANCE file stating what is
+    published, what is withheld, and what the figures cannot show. See README.md
+    for the limits of each set and CONTRIBUTING.md for how to dispute a figure.

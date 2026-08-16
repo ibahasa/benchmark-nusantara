@@ -56,9 +56,15 @@ item accepts several equivalents.
 
 ## Held-out slices, and where we did not have one
 
-Four sets withhold roughly 30 per cent of their items from publication. Those
+Most sets withhold roughly 30 per cent of their items from publication. Those
 items exist so that a score can still be defended a year from now: if a model
 scores well on the public part and poorly on the withheld part, it read the data.
+
+The withheld slice lives inside the set it belongs to and runs on the same pass
+as the published part, so the gap between the two measures leakage rather than
+weight drift between two dates.
+
+Counts as of 2026-08-17, and they grow as sets grow:
 
 | Set | Withheld |
 |---|---:|
@@ -66,6 +72,11 @@ scores well on the public part and poorly on the withheld part, it read the data
 | `id-N` | 20 of 69 |
 | `id-W` | 16 of 54 |
 | `jv-A` | 13 of 46 |
+| `jv-B` | 64 of 199 |
+
+A gap only means something if it is large enough. On slices this size, anything
+under roughly twenty percentage points cannot be told apart from noise, and each
+set's PROVENANCE states its own threshold.
 
 Two sets have no withheld slice, and we would rather say so plainly than let you
 discover it.
