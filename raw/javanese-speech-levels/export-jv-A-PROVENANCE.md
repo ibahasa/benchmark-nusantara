@@ -1,7 +1,7 @@
 # Tingkat tutur bahasa Jawa: ringkasan per model
 
 **Tanggal:** 2026-08-15 · **Penulis:** Benchmark Team · **Lisensi:** CC BY 4.0
-**Berkas:** `ringkas-model.csv`
+**Berkas:** `ringkas-model.csv`, `per-item.csv`
 **Sumber:** set jv-A milik kami, 20 baris hasil dari 13 model
 
 ## In English
@@ -136,3 +136,36 @@ menerbitkan soalnya berarti model berikutnya melatihnya.
 | `latensi_median_ms` | untuk baris lokal ia mengukur mesin kami, tidak sebanding |
 | `tokens_in` / `tokens_out` | kosong berarti TIDAK TERCATAT, bukan nol |
 | `versi_soal` / `versi_kunci` | sidik bentuk dataset saat run. Skor lintas versi kunci berbeda tidak sebanding |
+
+## Kolom `per-item.csv`
+
+Satu baris per butir per model, pada **irisan publik saja**. Berkas ini ada supaya
+angka di `ringkas-model.csv` dapat dihitung ulang, bukan dipercaya begitu saja:
+jumlahkan `benar` per model lalu bulatkan, dan hasilnya wajib sama dengan kolom
+`benar` di sana.
+
+| Kolom | Arti |
+|---|---|
+| `item_id` | penanda butir, buram. Kalimat soalnya tidak terbit |
+| `model` | slug kanon, sama dengan `semua-hasil.csv` |
+| `tugas` | `pilihan-ganda` atau `terbuka`. Keduanya TIDAK boleh dijumlahkan |
+| `penilai` | cara vonis diperoleh, mis. `mcq-py1` atau `open-py1` |
+| `benar` | vonis butir itu. Bulat untuk pilihan ganda, dapat pecahan untuk rubrik |
+| `latensi_ms`, `tokens_out`, `cap_token` | jejak jalan |
+| `biaya_usd` | kosong berarti model dijalankan di perangkat kami, bukan nol |
+| `dijalankan_pada` | waktu panggilan itu terjadi |
+
+**Yang sengaja TIDAK ada.** Kalimat soal, kunci jawaban, teks jawaban model, dan
+opsi yang dipilih model.
+
+Kolom terakhir itu yang paling menentukan pada tugas pilihan ganda. Opsi pilihan
+model yang terbit bersama vonis membocorkan kuncinya seketika: satu baris berskor
+1 sudah cukup untuk tahu opsi mana yang benar. Pemeriksa ekspor kami menolak
+berkas apa pun yang memuat kolom semacam itu pada set pilihan ganda.
+
+**Baris irisan tertahan juga tidak ada.** Agregat irisan publik sudah dapat
+dihitung ulang tanpanya, sementara menerbitkannya berarti menyebutkan butir mana
+yang jadi cadangan beserta vonis tiap model di atasnya.
+
+Karena soal dan kuncinya ditahan, berkas ini cukup untuk memeriksa **aritmetika**
+kami, bukan **penilaian** kami. Vonis tiap baris tetap harus dipercaya.

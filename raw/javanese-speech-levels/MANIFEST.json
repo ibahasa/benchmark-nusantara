@@ -1,12 +1,13 @@
 {
   "slug": "javanese-speech-levels",
-  "title": "Javanese speech levels (tingkat tutur), 13 AI models on 46 items split into two abilities that are never summed: 38 machine-scored multiple-choice items for recognising the right register, and 8 open items graded one by one by a native speaker under a weighted rubric. Includes three models quantised to 4 bits and run on local hardware, whose cost is blank rather than zero. Items and key withheld, figures only. See PROVENANCE",
-  "published_at": "2026-08-16T16:52:58Z",
-  "source_commit": "3b79e64e",
-  "fingerprint": "f0ccc981eacb5f8e",
+  "title": "Javanese speech levels (tingkat tutur), AI models on items split into two abilities that are never summed. Per-item verdicts for the public slice, so the per-model summary can be recomputed rather than trusted: 38 machine-scored multiple-choice items for recognising the right register, and 8 open items graded one by one by a native speaker under a weighted rubric. Includes three models quantised to 4 bits and run on local hardware, whose cost is blank rather than zero. Items and key withheld, figures only. See PROVENANCE",
+  "published_at": "2026-08-16T20:37:42Z",
+  "source_commit": "5e2af3f5",
+  "fingerprint": "1e68be6958dbf0f4",
   "license": "CC BY 4.0",
   "files": [
     { "file": "export-jv-A-ringkas-model.csv", "source": "export/jv-A/ringkas-model.csv", "bytes": 3676, "sha256": "e83cb207f68aeadb7498fcae865a78951a0a59cc79fe9146199bf4101b40b9fb" },
-    { "file": "export-jv-A-PROVENANCE.md", "source": "export/jv-A/PROVENANCE.md", "bytes": 7177, "sha256": "5c28579637691e6c60cdd541f3078c051c138feb5d7ee67882a3ed8f1c928fa1" }
+    { "file": "export-jv-A-per-item.csv", "source": "export/jv-A/per-item.csv", "bytes": 38660, "sha256": "1244003b297cd2811a99d8521fadaeff17fcb20f5e0679049cd06fcff843da86" },
+    { "file": "export-jv-A-PROVENANCE.md", "source": "export/jv-A/PROVENANCE.md", "bytes": 8838, "sha256": "31e398b12d34ca7a4240f95c25b7a36adad76069aa0bf0a6e02a82ceddae3c50" }
   ]
 }

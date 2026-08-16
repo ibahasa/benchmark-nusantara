@@ -1,7 +1,7 @@
 # Koreksi ejaan Indonesia: ringkasan per model
 
 **Tanggal:** 2026-08-14 · **Penulis:** Benchmark Team · **Lisensi:** CC BY 4.0
-**Berkas:** `ringkas-model.csv`
+**Berkas:** `ringkas-model.csv`, `per-item.csv`
 **Sumber:** set id-W milik kami, 9 baris hasil
 
 Berkas ini dihasilkan `core/ekspor_riset.py` dan memuat ANGKA saja: tidak ada
@@ -87,3 +87,36 @@ model dengan berkas ini.
 | `menunggu_vonis` | menjawab semuanya, sebagian jawabannya belum divonis penutur |
 | `beku` | soalnya berubah sesudah run ini, skor tersimpan yang dipakai |
 | `tokens_in` / `tokens_out` | kosong berarti TIDAK TERCATAT, bukan nol |
+
+## Kolom `per-item.csv`
+
+Satu baris per butir per model, pada **irisan publik saja**. Berkas ini ada supaya
+angka di `ringkas-model.csv` dapat dihitung ulang, bukan dipercaya begitu saja:
+jumlahkan `benar` per model lalu bulatkan, dan hasilnya wajib sama dengan kolom
+`benar` di sana.
+
+| Kolom | Arti |
+|---|---|
+| `item_id` | penanda butir, buram. Kalimat soalnya tidak terbit |
+| `model` | slug kanon, sama dengan `semua-hasil.csv` |
+| `tugas` | `pilihan-ganda` atau `terbuka`. Keduanya TIDAK boleh dijumlahkan |
+| `penilai` | cara vonis diperoleh, mis. `mcq-py1` atau `open-py1` |
+| `benar` | vonis butir itu. Bulat untuk pilihan ganda, dapat pecahan untuk rubrik |
+| `latensi_ms`, `tokens_out`, `cap_token` | jejak jalan |
+| `biaya_usd` | kosong berarti model dijalankan di perangkat kami, bukan nol |
+| `dijalankan_pada` | waktu panggilan itu terjadi |
+
+**Yang sengaja TIDAK ada.** Kalimat soal, kunci jawaban, teks jawaban model, dan
+opsi yang dipilih model.
+
+Kolom terakhir itu yang paling menentukan pada tugas pilihan ganda. Opsi pilihan
+model yang terbit bersama vonis membocorkan kuncinya seketika: satu baris berskor
+1 sudah cukup untuk tahu opsi mana yang benar. Pemeriksa ekspor kami menolak
+berkas apa pun yang memuat kolom semacam itu pada set pilihan ganda.
+
+**Baris irisan tertahan juga tidak ada.** Agregat irisan publik sudah dapat
+dihitung ulang tanpanya, sementara menerbitkannya berarti menyebutkan butir mana
+yang jadi cadangan beserta vonis tiap model di atasnya.
+
+Karena soal dan kuncinya ditahan, berkas ini cukup untuk memeriksa **aritmetika**
+kami, bukan **penilaian** kami. Vonis tiap baris tetap harus dipercaya.
