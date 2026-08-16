@@ -1,4 +1,6 @@
-# benchmark-runs: 28 jalan benchmark, 2026-07-25 sampai 2026-08-06
+# benchmark-runs-archived: 28 jalan benchmark, 2026-07-25 sampai 2026-08-06
+
+**ARSIP.** Kumpulan ini tidak bertambah lagi.
 
 **Lisensi:** CC BY 4.0 · **Berkas:** satu `meta.json` dan satu `summary.md` per jalan
 

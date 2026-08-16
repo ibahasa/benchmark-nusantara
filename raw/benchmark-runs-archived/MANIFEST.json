@@ -1,12 +1,12 @@
 {
-  "slug": "benchmark-runs",
-  "title": "Exported benchmark runs: per-model metadata and per-run summaries",
-  "published_at": "2026-08-16T05:58:59Z",
+  "slug": "benchmark-runs-archived",
+  "title": "ARCHIVED. Run reports from the launch pipeline retired on 2026-08-06, covering 2026-07-25 to 2026-08-06 only. Current results live in the per-set datasets",
+  "published_at": "2026-08-16T06:07:05Z",
   "source_commit": "3b79e64e",
-  "fingerprint": "d8c81e6015a8113f",
+  "fingerprint": "1b7da5b069025881",
   "license": "CC BY 4.0",
   "files": [
-    { "file": "runs-PROVENANCE.md", "source": "runs/PROVENANCE.md", "bytes": 3821, "sha256": "de33d620979b443635a6dff8b6bfadc92744b7dccf52d0506c3575c985f56399" },
+    { "file": "runs-PROVENANCE.md", "source": "runs/PROVENANCE.md", "bytes": 3877, "sha256": "99ce3eb44a778cb00264e7f268197e4133100326d4b20b61311377beb768466f" },
     { "file": "runs-2026-07-25-jv-A-gate-meta.json", "source": "runs/2026-07-25-jv-A-gate/meta.json", "bytes": 1374, "sha256": "d0fb368538e761d5fce4c162520f5f18285842459222800508242e57b416ce07" },
     { "file": "runs-2026-07-25-jv-A-procurement-meta.json", "source": "runs/2026-07-25-jv-A-procurement/meta.json", "bytes": 1611, "sha256": "5434e0fae01ed4367928b12fd08d6787a4b2813e2712f79bd36800f1096161e5" },
     { "file": "runs-2026-07-25-jv-A-produksi-meta.json", "source": "runs/2026-07-25-jv-A-produksi/meta.json", "bytes": 1026, "sha256": "8aa5372b117d02e619b471d0a8d1d8ba70959dad5e0d0ffde75047aa18c7813a" },
