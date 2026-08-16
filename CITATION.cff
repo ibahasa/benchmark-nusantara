@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it pinned to the commit you actually used. See README.md for the permalink format."
+title: "Benchmark Nusantara"
+type: dataset
+version: "unreleased"
+authors:
+  - family-names: "Huda"
+    given-names: "M. Khoirul"
+    website: "https://mkhuda.com"
+repository-code: "https://github.com/ibahasa/benchmark-nusantara"
+url: "https://ibahasa.com/id/benchmark"
+license: CC-BY-4.0
+keywords:
+  - benchmark
+  - Indonesian
+  - Javanese
+  - language model evaluation
+  - low-resource languages
+abstract: >
+  Benchmark data for Indonesian and Javanese language models. Six sets covering
+  slang comprehension, text normalisation, spelling correction, Javanese speech
+  levels, and Javanese word meanings. Open items
+  are graded by a native speaker under a published rubric. Four sets withhold
+  roughly 30 per cent of their items from publication so that figures remain
+  defensible against training-set contamination; the two sets that publish their
+  full answer keys say so, carry a contamination canary, and are backed by a
+  separate control set that is never published. See README.md for the limits of
+  each set and CONTRIBUTING.md for how to dispute a figure.
