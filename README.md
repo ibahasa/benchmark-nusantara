@@ -1,5 +1,7 @@
 # Benchmark Nusantara
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21970463.svg)](https://doi.org/10.5281/zenodo.21970463)
+
 Benchmark data for Indonesian and Javanese language models.
 
 Every figure we publish at [ibahasa.com](https://ibahasa.com/id/benchmark) links
@@ -165,17 +167,29 @@ Each file's `sha256` is in `MANIFEST.json` if you want to verify a download.
 
 A GitHub permalink is enough to check one file, but it is not a citable
 identifier on its own: it has no fixed version and nothing indexes it as a
-dataset. This repository will be archived on [Zenodo](https://zenodo.org),
-which mints a permanent, version-pinned DOI for every GitHub Release.
+dataset. This repository is archived on [Zenodo](https://zenodo.org), which
+mints a permanent, version-pinned DOI for every GitHub Release.
 
-- **Cite the exact version you used** (recommended, for reproducibility): the
-  version DOI, added here as soon as the first release is archived.
+- **Cite the exact version you used** (recommended, for reproducibility):
+  `10.5281/zenodo.21970464` (`v1.0.0`)
 - **Cite "whatever is current"** (a concept DOI that always resolves to the
-  latest version): the concept DOI, added the same way.
+  latest version): `10.5281/zenodo.21970463`
 
-The BibTeX form follows the pattern used by
-[`ibahasa/research-data`](https://github.com/ibahasa/research-data), whose
-README shows it with both DOIs filled in.
+```bibtex
+@dataset{huda_2026_benchmark_nusantara,
+  author    = {Huda, M. Khoirul},
+  title     = {Benchmark Nusantara},
+  month     = aug,
+  year      = 2026,
+  publisher = {Zenodo},
+  version   = {v1.0.0},
+  doi       = {10.5281/zenodo.21970464},
+  url       = {https://doi.org/10.5281/zenodo.21970464}
+}
+```
+
+`CITATION.cff` in this repository carries the same identifiers and is read
+natively by GitHub's "Cite this repository" button on the repo's main page.
 
 ## If you think a figure is wrong
 
