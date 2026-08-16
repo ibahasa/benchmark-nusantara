@@ -76,8 +76,10 @@ contamination marker.
 The consequence binds us, not you. **After 2026-08-15, a high score on those two
 sets cannot be read as understanding.** Their control is a separate set of
 Javanese lemmas drawn from the same pool, keyed under the same rules, and never
-published anywhere, numbering 62 as of 2026-08-16. It is the only clean Javanese
-instrument we have left.
+published anywhere. It is the only clean Javanese instrument we have left.
+
+Its size is deliberately not stated here. The set grows, and a count of something
+you can never inspect tells you nothing you could act on.
 
 ## Canary
 
@@ -110,9 +112,24 @@ drawn from several folders cannot produce two files with the same name. The
 original path of each file is recorded in `MANIFEST.json`.
 
 `PROVENANCE.md` files are written in Indonesian, which is the canonical version.
-Three of them open with an English section covering what was measured, who scored
-it, the main limits, and how to dispute a figure. The rest will get one; until
+Some open with an English section covering what was measured, who scored it, the
+main limits, and how to dispute a figure. The rest are being worked through; until
 then, write to halo@ibahasa.com and we will answer in English.
+
+## Three datasets that are not benchmark sets
+
+`benchmark-results` is every published measurement in one table, one row per
+model per set per task per prompt per repetition, with the run date and whether
+that date was recorded or inferred. It is generated from the same snapshot the
+website reads, so the numbers here and the numbers on the page cannot disagree.
+Start here if you want to check a figure you saw on the site.
+
+`model-throughput` holds per-model aggregates across runs: mean output tokens,
+mean latency, implied tokens per second.
+
+`benchmark-runs-archived` is exactly what its name says. It holds run reports
+from a pipeline retired on 2026-08-06 and does not grow. The figures that
+superseded it live in the per-set datasets and in `benchmark-results`.
 
 ## Citing a file
 
