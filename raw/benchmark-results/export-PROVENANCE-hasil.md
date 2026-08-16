@@ -68,24 +68,33 @@ berbeda karena set itu menilai dua kemampuan yang berlawanan, mengganti kata
 tidak baku lawan membiarkan kata yang sudah baku, sehingga kolomnya tidak sama
 dengan set lain. Barisnya tetap ada di sini dalam bentuk seragam.
 
-## Baris set kendali
+## Irisan tertahan, dan kolom yang membawanya
 
-Sebagian baris memakai kode set berakhiran `-kendali`. Set semacam itu bukan
-benchmark tersendiri, melainkan kendali kontaminasi bagi set induknya.
+Sebagian set menahan sebagian itemnya dari publikasi. Item itu tetap DIJALANKAN
+dan tetap DINILAI; yang ditahan pengungkapannya, bukan pengukurannya.
 
-Set induknya menerbitkan kunci jawaban penuh supaya angkanya dapat dihitung ulang
-siapa pun. Harganya, sesudah kunci itu terbit, skor tinggi tidak dapat dibedakan
-dari model yang membaca berkasnya. Set kendali mengukur kemampuan yang sama pada
-lema yang kuncinya tidak pernah kami terbitkan, sehingga selisih keduanya
-memisahkan paham dari hafal.
+Irisan tertahan hidup DI DALAM set yang bersangkutan, bukan sebagai set
+tersendiri. Kedua irisan karena itu dijalankan pada jalan yang sama, hari yang
+sama, model yang sama, sehingga selisihnya tidak dapat terisi pergeseran bobot
+antar-tanggal maupun beda kesulitan antar-set.
 
-Karena lemanya berbeda, **skor kendali tidak sebanding lurus dengan skor
-induknya**. Yang dibaca selisihnya, pada model yang sama.
+Rancangan set kendali terpisah sempat dibangun pada 2026-08-16 lalu dibongkar
+hari itu juga, dan tidak pernah ada barisnya di berkas ini.
 
-**Lema, kunci, dan jawaban model set kendali tidak akan pernah diterbitkan**,
-sebab justru itu yang membuatnya berguna. Yang ada di berkas ini cuma skornya.
-Konsekuensinya baris tersebut tidak dapat Anda hitung ulang sendiri, dan kami
-menyebutnya di sini alih-alih membiarkan Anda mencari berkas datanya.
+`benar` dan `n_dinilai` memuat IRISAN PUBLIK, yaitu bagian yang kuncinya terbit
+sehingga Anda dapat menghitungnya ulang. `benar_tertahan` dan
+`n_dinilai_tertahan` memuat irisan tertahan, dan keduanya BUKAN bagian dari dua
+kolom pertama melainkan berdiri sendiri. Skor keseluruhan satu jalan adalah
+jumlah keduanya.
+
+**Kunci jawaban irisan tertahan tidak akan pernah diterbitkan**, sebab justru itu
+yang membuatnya berguna. Konsekuensinya kolom tertahan tidak dapat Anda hitung
+ulang sendiri, dan kami menyebutnya di sini alih-alih membiarkan Anda mencari
+berkas datanya.
+
+Selisih dua irisan hanya bermakna kalau ia cukup besar. Pada ukuran sampel kami,
+selisih di bawah sekitar dua puluh poin persen tidak dapat dibedakan dari derau,
+dan PROVENANCE tiap set menyebutkan ambangnya sendiri.
 
 ## Kolom yang menentukan
 

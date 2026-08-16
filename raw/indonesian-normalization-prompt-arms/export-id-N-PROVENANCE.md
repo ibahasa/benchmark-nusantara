@@ -1,4 +1,4 @@
-# id-N: satu tugas normalisasi, tiga rumusan prompt, empat model AI — angka saja
+# id-N: satu tugas normalisasi, tiga rumusan prompt, angka saja
 
 **Tanggal:** 2026-08-13 · **Penulis:** Benchmark Team · **Lisensi:** CC BY 4.0
 **Berkas:** `export-id-N-ringkas-model.csv`, `export-id-N-per-item.csv`,
@@ -6,7 +6,7 @@
 **Sumber:** set normalisasi teks informal Indonesia milik kami, 69 kalimat,
 seluruhnya diverifikasi dua penutur asli
 
-Pengukuran kami sendiri atas 4 model yang dipanggil lewat satu perantara, pada
+Pengukuran kami sendiri atas model yang dipanggil lewat satu perantara, pada
 item dan kunci yang **identik** di ketiga rumusan. Satu-satunya yang berubah
 antar-arm adalah kalimat instruksinya.
 
@@ -49,6 +49,9 @@ rather than thrown at us generally.
 
 Dataset ini tidak memuat satu pun kalimat sumber, kata rujukan, atau jawaban
 model. Yang ada cuma angka, ditambah `item_id` buram seperti `id-n1-008`.
+
+Jumlah model di panel ini bertambah dari waktu ke waktu, jadi bacalah daftar
+beserta cacahannya dari `ringkas-model.csv`, bukan dari kalimat di berkas ini.
 
 Dua alasan, dan keduanya berlaku:
 
@@ -135,9 +138,10 @@ token sesudah 600, 2.400, dan 9.600 gagal. Item lain di rumusan yang sama selesa
 di 600. Skornya sah dan lengkap; latensi dan biayanya tidak dapat dibandingkan
 apa adanya dengan tiga model lain. Pada `open-py2` ia berhenti di 67 dari 69 item.
 
-**Empat model, bukan panel.** Ini bukan papan peringkat. Keempatnya dipilih
-karena murah dan cepat, supaya tiga arm penuh terjangkau. Kesimpulannya tentang
-rumusan prompt, bukan tentang model mana yang terbaik.
+**Bukan papan peringkat.** Set ini dibangun untuk membandingkan RUMUSAN prompt,
+bukan model. Model pertamanya dipilih karena murah dan cepat supaya tiga arm
+penuh terjangkau, dan panelnya bertambah sesudah itu. Kesimpulan yang sah dari
+berkas ini tetap tentang rumusan, bukan tentang model mana yang terbaik.
 
 **Penilaiannya kecocokan persis sesudah normalisasi** (`open-py1` sebagai nama
 penilai, jangan tertukar dengan nama rumusan). Jawaban yang benar tetapi berbeda

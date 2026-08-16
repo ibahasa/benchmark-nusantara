@@ -2,7 +2,7 @@
 
 **Tanggal:** 2026-08-14 · **Penulis:** Benchmark Team · **Lisensi:** CC BY 4.0
 **Berkas:** `ringkas-model.csv`, `per-item.csv`
-**Sumber:** set id-B milik kami, 9 baris hasil
+**Sumber:** set id-B milik kami
 
 Berkas ini dihasilkan `core/ekspor_riset.py` dan memuat ANGKA saja: tidak ada
 item, tidak ada kunci jawaban. Soal dan kuncinya kami tahan, jadi dataset ini
@@ -42,12 +42,15 @@ disorot pembaca, lalu diminta menjelaskan artinya. Kami mengukur dua hal
 sekaligus: seberapa sering penjelasannya tepat, dan seberapa sering model
 mengarang arti yang tidak pernah ada.
 
+Jumlah model di panel ini bertambah dari waktu ke waktu, jadi bacalah daftar
+beserta cacahannya dari `ringkas-model.csv`, bukan dari kalimat di berkas ini.
+
 ## Bagaimana angkanya dihasilkan
 
-Sepuluh model, satu panggilan per item, tanpa ulangan. Suhu nol dan batas
-jawaban 600 token untuk seluruhnya. Sembilan model dipanggil lewat satu
-perantara berbayar; satu model dijalankan di perangkat keras kami sendiri lewat
-Ollama, dan baris itu bertanda `biaya_usd` kosong.
+Satu panggilan per item, tanpa ulangan. Suhu nol dan batas jawaban 600 token
+untuk seluruhnya. Sebagian besar model dipanggil lewat satu perantara berbayar.
+Model yang dijalankan di perangkat keras kami sendiri lewat Ollama bertanda
+`biaya_usd` kosong, dan kosong di sana berarti tidak bertagihan, bukan gratis.
 
 Kolom `biaya_usd` kosong berarti TIDAK ADA TAGIHAN untuk dicatat, bukan nol.
 Model lokal berjalan di komputer yang kami beli dan listrik yang kami bayar, dan

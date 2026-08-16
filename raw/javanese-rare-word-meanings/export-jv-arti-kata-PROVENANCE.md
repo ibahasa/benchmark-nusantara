@@ -19,6 +19,8 @@ count from `ringkas-model.csv` rather than from this sentence. These 43 were sel
 
 **Who scored it.** The answer keys come from a native Javanese speaker reviewing the output of three models, not from a dictionary alone.
 
+**Two files, two panel sizes.** `hasil-model.csv` covers the first four models, whose answers were read lemma by lemma by a native speaker and which our published article is based on. `ringkas-model.csv` covers the panel as it stands now. We keep them different rather than level them down, and the Indonesian section explains why.
+
 **Main limits.** Publishing the full key turns this set into a contamination marker rather than a durable benchmark. After the publication date, a high score on these same 43 lemmas cannot be read as understanding. Any later measurement must use lemmas that have never been published. The variety measured is Yogya-Solo.
 
 **The rest of this file is in Indonesian**, and that is the canonical version.
@@ -55,14 +57,14 @@ Konsekuensinya mengikat:
   yang diterbitkan masuk ke data latih.
 
 Itu sebabnya berkas ini diterbitkan penuh alih-alih dipangkas. Kadaluwarsanya
-datang cepat atau lambat, sebab halaman kamusnya sudah terindeks; menerbitkan
+datang cepat atau lambat, sebab halaman kamusnya sudah terindeks. Menerbitkan
 kuncinya membuat **tanggalnya diketahui**, dan tanggal yang diketahui dapat
 diukur.
 
 ## Perubahan sejak terbitan pertama (2026-08-10)
 
 Terbitan ini menggantikan versi 2026-08-10. **Tidak satu pun jawaban model
-berubah**; yang berubah kunci jawaban kami, setelah model keempat akhirnya dibaca
+berubah.** Yang berubah kunci jawaban kami, setelah model keempat akhirnya dibaca
 penutur.
 
 | model | 2026-08-10 | sekarang |
@@ -85,7 +87,7 @@ Empat sunting kunci menyebabkannya:
 - **Padanan ditambahkan** pada `Gendakan`, `Leksanani`, `Pimen`, dan `Gondes`.
 
 `Gondes` kasus tersendiri dan ia menyingkap batas rancangan ini. Kamus kami
-merekamnya sebagai sapaan akrab; asal-usulnya "gondrong ndeso", dan makna itu
+merekamnya sebagai sapaan akrab. Asal-usulnya "gondrong ndeso", dan makna itu
 masih dipakai. Satu model menjawab dengan asal-usulnya, tepat sampai ke
 etimologinya, lalu dinilai salah karena kami hanya merekam satu makna. Padanan
 `gondrong` dan `ndeso` ditambahkan. **Ini persoalan rujukan tunggal**, kelas yang
@@ -140,6 +142,22 @@ periksa.
 
 Satu baris per pasangan model dan lema. 172 baris, yaitu 4 model dikali 43 lema.
 
+**Berkas ini memuat lebih sedikit model daripada `ringkas-model.csv`, dan itu
+disengaja.** Empat model di sini adalah rombongan pertama, yang jawaban tiap
+lemanya dibaca penutur satu per satu dan jadi dasar artikel riset kami tentang
+43 lema langka. Panelnya bertambah sesudah itu, dan model berikutnya masuk ke
+ringkasan tanpa pembacaan penutur per lema yang sama menyeluruhnya.
+
+Menyamakan keduanya berarti menerbitkan baris per lema yang tingkat pemeriksaannya
+tidak setara dengan empat baris pertama, atau membuang catatan yang sudah dikutip
+artikel. Kami memilih membiarkan keduanya berbeda dan menyebutkan sebabnya di
+sini. Angka panel yang berlaku sekarang ada di `ringkas-model.csv`.
+
+Dua label di berkas ini, `deepseek-v4-flash` dan `mistral-small-3`, memakai
+penamaan lama tanpa akhiran tanggal. Keduanya model yang sama dengan
+`deepseek-v4-flash-0731` dan `mistral-small-3-2501` di berkas lain, dan namanya
+dibiarkan apa adanya supaya baris yang sudah dikutip tetap dapat ditemukan.
+
 | Kolom | Arti |
 |---|---|
 | `model_id` | pengenal model di perantara yang kami pakai |
@@ -160,7 +178,7 @@ Satu baris per pasangan model dan lema. 172 baris, yaitu 4 model dikali 43 lema.
 Empat kolom kemiripan dihitung dengan
 [IndoBERT versi ONNX](https://huggingface.co/asmud/LazarusNLP-indobert-onnx),
 turunan [`LazarusNLP/congen-indobert-lite-base`](https://huggingface.co/LazarusNLP/congen-indobert-lite-base),
-dijalankan lokal. Ia deterministik; dua jalan berturut-turut menghasilkan berkas
+dijalankan lokal. Ia deterministik. Dua jalan berturut-turut menghasilkan berkas
 identik bita per bita.
 
 **Kolom ini tidak pernah mengubah `kunci_hadir`.** Ia dilaporkan berdampingan
@@ -204,7 +222,7 @@ Satu baris per lema. 43 baris.
 |---|---|
 | `lema`, `definisi_id` | sebagaimana terbit di halaman kamus kami |
 | `kunci` | padanan yang diterima, dipisah ` \| ` |
-| `jumlah_kunci` | banyaknya padanan; rata-rata 3,1 |
+| `jumlah_kunci` | banyaknya padanan, rata-rata 3,1 |
 | `kunci_asal` | `penutur` bila sudah ditinjau manusia, `mesin` bila belum. 39 dari 43 sudah |
 | `nusax_leksikon`, `nusax_nusawrites_teks`, `jv_wiktionary` | kemunculan lema di tiap sumber. Nol di ketiganya adalah syarat masuk set ini |
 
@@ -239,7 +257,7 @@ model pun.
 
 **Keempat model kini sudah dibaca penutur satu per satu.** Perlakuan tak sama yang
 menjadi batasan terbesar terbitan pertama sudah tertutup. `vonis_penutur` terisi
-pada 171 dari 172 baris; satu baris dikosongkan karena penilainya menandainya
+pada 171 dari 172 baris. Satu baris dikosongkan karena penilainya menandainya
 ambigu alih-alih benar atau salah.
 
 **Kunci ditulis satu penutur**, yaitu penyusun kamusnya sendiri, tanpa angka

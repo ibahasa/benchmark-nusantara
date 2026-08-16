@@ -2,7 +2,8 @@
 
 **Tanggal:** 2026-08-15 · **Penulis:** Benchmark Team · **Lisensi:** CC BY 4.0
 **Berkas:** `ringkas-model.csv`, `per-item.csv`
-**Sumber:** set jv-A milik kami, 20 baris hasil dari 13 model
+**Sumber:** set jv-A milik kami. Jumlah baris dan modelnya dibaca dari
+`ringkas-model.csv`, bukan dari kalimat ini, sebab panelnya bertambah
 
 ## In English
 

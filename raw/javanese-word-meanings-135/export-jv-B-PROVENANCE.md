@@ -188,7 +188,7 @@ tumbuh, jadi hitunglah dari berkasnya, jangan dari kalimat ini.
 | `kunci_hadir` | 1 bila salah satu padanan di `kunci.csv` muncul di jawaban. **Inilah vonis benchmark** |
 | `sim_definisi` | kedekatan makna jawaban ke makna lemanya, diambil yang terdekat bila lemanya bermakna lebih dari satu |
 | `persentil_vs_skor_kebetulan` | posisi `sim_definisi` di antara 72.360 pasang jawaban-makna yang dijamin tidak berhubungan |
-| `peringkat_dalam_lema` | 1 sampai 6, urutan keenam model pada lema itu |
+| `peringkat_dalam_lema` | urutan model pada lema itu, 1 untuk yang paling dekat. Batas atasnya sebanyak model di berkas ini |
 | `jumlah_makna` | banyaknya makna yang direkam untuk lema itu |
 | `latency_ms` | waktu satu panggilan, dari kirim sampai balasan lengkap |
 | `biaya_usd` | biaya yang **dilaporkan penyedia**, bukan dihitung dari tabel harga |
@@ -279,7 +279,7 @@ persen, sehingga 26 jawaban salah tidak pernah dibaca.
 
 **Kunci didraf agen AI** dari definisi kamus kami, lalu 11 dari 135 lema kuncinya
 disunting penutur. Sisanya belum pernah disentuh manusia. Penulis kuncinya bukan
-salah satu dari 6 model yang diuji.
+salah satu model yang diuji.
 
 **Kunci ditulis satu penutur**, yaitu penyusun kamusnya sendiri, tanpa angka
 kesepakatan antar-penilai.
