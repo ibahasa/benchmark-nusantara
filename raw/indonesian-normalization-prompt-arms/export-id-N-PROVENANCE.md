@@ -12,6 +12,39 @@ antar-arm adalah kalimat instruksinya.
 
 ---
 
+## In English
+
+**What this is.** The same 69 informal Indonesian sentences, put to AI models
+under three different prompt wordings, and scored as two opposing abilities:
+A, substituting non-standard words with their standard forms, and B, leaving
+already-standard words alone. The sentence count is fixed; the model panel
+grows, so read the current list and count from `ringkas-model.csv` rather than
+from this sentence. The sentences and the answer key are deliberately not
+published here, so this dataset cannot be used to re-run the models.
+
+**Who scored it.** The key rules were measured from the 69 source-reference
+pairs rather than set by opinion, and every item was verified by two native
+speakers. Scoring is exact match after normalisation, so a correct answer
+worded differently counts as wrong.
+
+**Main limits.** This is not a leaderboard. The models were chosen for being
+cheap and fast so that three full prompt arms stayed affordable; the
+conclusions are about prompt wording, not about which model is best. One model
+kept exhausting its token budget on `open-py3` and finished only near the
+24,000-token cap, so its latency and cost are not comparable to the other
+rows. Provider aliases are floating, and the figures apply to the versions
+served on the run date.
+
+**The rest of this file is in Indonesian**, and that is the canonical version.
+It documents the two-ability split, the per-column meanings, the contamination
+assessment, and the exact re-computation code. If a figure here matters to you
+and you cannot read Indonesian, write to us and we will answer in English:
+**halo@ibahasa.com**
+
+**If you disagree with a score**, name the item and the criterion. Every
+verdict is attached to a specific row, so a dispute can be settled on that row
+rather than thrown at us generally.
+
 ## Kalimat dan kuncinya TIDAK diterbitkan, dan itu disengaja
 
 Dataset ini tidak memuat satu pun kalimat sumber, kata rujukan, atau jawaban

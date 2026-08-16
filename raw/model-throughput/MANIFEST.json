@@ -1,12 +1,12 @@
 {
   "slug": "model-throughput",
   "title": "Per-model aggregates across all benchmark runs: mean output tokens, mean latency, implied tokens per second. Failed calls excluded",
-  "published_at": "2026-08-16T05:58:59Z",
+  "published_at": "2026-08-16T16:52:58Z",
   "source_commit": "3b79e64e",
-  "fingerprint": "ea9a0d95fa6ecf3b",
+  "fingerprint": "7620727fbdff341f",
   "license": "CC BY 4.0",
   "files": [
     { "file": "export-agregat-model.csv", "source": "export/agregat-model.csv", "bytes": 731, "sha256": "ff52a3ae21423b5eaab28b0c85fc9525ba267ee60e3aa38f223110b72a4eb907" },
-    { "file": "export-README.md", "source": "export/README.md", "bytes": 4904, "sha256": "528f1dbe876091fd195e95e467e247375257e0b3b9223bb7790f7c598dd89f39" }
+    { "file": "export-README.md", "source": "export/README.md", "bytes": 5171, "sha256": "35c5dd73808d5b905000c66dde0dd0efd386a9ea1d4c2f837397fddacaad9ce8" }
   ]
 }

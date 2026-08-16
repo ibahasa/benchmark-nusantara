@@ -4,6 +4,11 @@
 **Berkas:** `agregat-model.csv`
 **Sumber:** tabel `benchmark_runs`, seluruh run yang diekspor ke `apps/benchmark/runs/`
 
+**Berkas ini tidak bertumbuh.** Pipeline `benchmark_runs` dipensiunkan
+2026-08-06, jadi isinya berhenti pada tanggal itu dan dapat memuat model yang
+sudah tidak ada di panel sekarang. Untuk angka mutakhir, lihat
+`benchmark-results` atau `ringkas-model.csv` per set.
+
 Pengukuran kami sendiri atas model yang dipanggil lewat satu perantara. Tidak ada
 sumber pihak ketiga di dalamnya, sehingga tidak ada syarat lisensi yang terseret.
 

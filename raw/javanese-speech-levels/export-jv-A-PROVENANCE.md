@@ -4,6 +4,40 @@
 **Berkas:** `ringkas-model.csv`
 **Sumber:** set jv-A milik kami, 20 baris hasil dari 13 model
 
+## In English
+
+**What this is.** Javanese speech levels (*tingkat tutur*): whether a model
+picks the register a listener requires, and whether it notices when the
+register is wrong. The set mixes 46 items, 38 machine-scored multiple-choice
+items for recognition and 8 open items for production, and the two abilities
+are never summed into one score: recognising the right register and producing
+it from scratch are different abilities, measured on the same material. The
+item count is fixed; the model panel grows, so read the current list and count
+from `ringkas-model.csv` rather than from this sentence.
+
+**Who scored it.** Multiple-choice items are scored by machine. The 8 open
+items are graded one answer at a time by native speakers under a weighted
+rubric, and each verdict is attached to the answer text itself, so two models
+that answer with the same sentence receive the same verdict without being
+graded twice.
+
+**Main limits.** Eight open items are too few to stand alone: one item is
+worth 12.5 points, so a one-answer gap between two models is not an ability
+gap. Verdicts were made by one person, and inter-annotator agreement has never
+been measured; that is the largest credibility hole in this set. The variety
+measured is Yogya-Solo, and the figures measure native-speaker acceptability,
+not prescriptive correctness. One call per item, no repetition, so variance is
+unmeasured. One model row is `parsial`, standing on 35 of 38 items.
+
+**The rest of this file is in Indonesian**, and that is the canonical version.
+It documents the two graders, the per-column meanings, and how to dispute a
+verdict. If a figure here matters to you and you cannot read Indonesian, write
+to us and we will answer in English: **halo@ibahasa.com**
+
+**If you disagree with a score**, name the item and the criterion. Every
+verdict is attached to a specific row, so a dispute can be settled on that row
+rather than thrown at us generally.
+
 ## Untuk apa set ini dibuat
 
 Mengukur pemahaman tingkat tutur bahasa Jawa: apakah model memilih ragam yang

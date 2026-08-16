@@ -1,11 +1,12 @@
 # jv-B: arti 135 kata Jawa, kunci jamak yang ditinjau penutur
 
-**Tanggal:** 2026-08-13 (panel diperluas 6 → 10 model) · **Penulis:** Benchmark Team · **Lisensi:** CC BY 4.0
+**Tanggal:** 2026-08-13, diperbarui 2026-08-16 · **Penulis:** Benchmark Team · **Lisensi:** CC BY 4.0
 **Berkas:** `hasil-model.csv`, `kunci.csv`, `ragam.csv`
 **Sumber:** lema berbahasa Jawa dari kamus kami, seluruhnya berstatus terverifikasi
 manusia dan sudah terbit di halaman kamus publik
 
-Pengukuran kami sendiri atas 10 model yang dipanggil lewat satu perantara. Lema,
+Pengukuran kami sendiri atas model yang dipanggil lewat satu perantara. Daftar
+model yang berlaku sekarang ada di `ringkas-model.csv`, bukan di kalimat ini. Lema,
 definisi, dan kunci jawabannya milik kami.
 
 ---
@@ -18,7 +19,7 @@ count from `ringkas-model.csv` rather than from this sentence. The lemmas, their
 
 **Who scored it.** The answer keys were drafted from our own dictionary definitions and then reviewed by a native Javanese speaker. Model answers were matched against those keys.
 
-**Main limits.** Every lemma and definition here was already public on our dictionary pages before this dataset was published, so a high score cannot be read as proof that a model was never exposed to them. Our clean measuring instrument is a separate reserve of single-word lemmas from the same pool, never published anywhere, numbering 192 as of 2026-08-16. The variety measured is Yogya-Solo.
+**Main limits.** Every lemma and definition here was already public on our dictionary pages before this dataset was published, so a high score cannot be read as proof that a model was never exposed to them. Our clean measuring instrument is the held-back slice inside this set, whose keys are never published, backed by a further reserve of single-word lemmas from the same pool. Counts move as the set grows, so read them from the data rather than from this sentence. The variety measured is Yogya-Solo.
 
 **The rest of this file is in Indonesian**, and that is the canonical version.
 It documents how the items were chosen, how the answer key was built, what
@@ -48,25 +49,50 @@ Konsekuensinya perlu dinyatakan terang:
 - **Yang baru diterbitkan oleh berkas ini adalah kuncinya**, yaitu daftar padanan
   yang kami terima sebagai jawaban benar, ditambah 28 makna yang tidak terekam di
   halaman kamus kami. Itulah bagian yang dapat mencemari pengukuran berikutnya.
-- **Kami TIDAK menahan sebagian set ini.** Alasannya di bagian berikut.
+- **Kunci bagian yang terbit di folder ini lengkap**, dan sebagian soal lain
+  ditahan tanpa pernah diterbitkan kuncinya. Keduanya dijelaskan di bagian
+  berikut.
 
-## Kenapa tidak ada bagian yang ditahan
+## Irisan tertahan, dan kenapa berkas ini tetap memuat kuncinya penuh
 
-Menahan sebagian item (`held_out`) berguna ketika yang ditahan benar-benar tidak
-tersedia di tempat lain. Pada set 43 lema langka, syarat itu terpenuhi: lemanya
-memang tidak ada di sumber Jawa terbuka mana pun, sehingga menahannya menahan
-sesuatu yang nyata.
+Sampai 2026-08-15 set ini tidak menahan apa pun, dan alasannya masih berlaku
+untuk bagian yang terbit: menahan sebagian kunci berarti pembaca tidak lagi dapat
+memeriksa angka yang kami terbitkan. Angka tertinggi yang kami laporkan dapat
+dihitung ulang siapa pun dari `kunci.csv` di folder ini, dan sifat itu tidak kami
+korbankan.
 
-Di sini syarat itu tidak terpenuhi. Lema dan definisinya sudah publik. Menahan
-sebagian hanya akan menyembunyikan kuncinya, sementara harga yang dibayar jauh
-lebih besar: **pembaca tidak lagi dapat memeriksa angka yang kami terbitkan.**
-Artikel kami melaporkan 128 dari 135 untuk model tertinggi; kalau hanya 100 lema
-yang terbit, angka itu berhenti dapat diverifikasi siapa pun.
+Sejak 2026-08-16 set ini tumbuh dan **soal yang ditambahkan tidak ikut jadi
+kunci**. Lema tambahan itu dijalankan dan dinilai seperti yang lain, tetapi
+kuncinya tidak pernah terbit di mana pun. Berkas di folder ini karena itu memuat
+IRISAN PUBLIK saja, lengkap dan dapat dihitung ulang, sementara skor irisan
+tertahan dilaporkan sebagai kolom terpisah di `ringkas-model.csv`
+(`benar_tertahan`, `n_dinilai_tertahan`).
 
-Untuk kebutuhan mengukur kontaminasi, kami menyiapkan jalan lain yang tidak
-menuntut korban itu: **192 lema kata tunggal di kolam yang sama belum pernah
-dipakai maupun diterbitkan.** Set kendali dapat disusun dari sana kapan pun, dengan
-protokol yang sama, tanpa memotong berkas ini.
+Gunanya satu: sesudah kunci terbit, skor tinggi pada bagian yang terbit tidak
+dapat dibedakan dari model yang pernah membaca berkas ini. Selisih terhadap
+irisan tertahan yang dapat membedakannya.
+
+### Empat item tertahan yang lebih lemah, per 2026-08-16
+
+Kami menyebutnya alih-alih membuangnya. Membuang soal sesudah melihat hasil
+adalah cara paling halus membuat sebuah benchmark tidak lagi jujur.
+
+| Lema | Kenapa lebih lemah |
+|---|---|
+| `Kiwo` | varian ejaan `Kiwa`, yang kuncinya terbit di `kunci.csv` |
+| `Podo` | varian ejaan `Padha`, yang kuncinya terbit di `kunci.csv` |
+| `Mrika` | terbit di dataset pilot lama kami sendiri beserta glos "ke sana" |
+| `Gabah` | terbit di dataset pilot yang sama, glosnya membiarkan kata itu tak diterjemahkan |
+
+Dua yang terakhir ditemukan menjelang penerbitan, dan pemeriksa ekspor kami
+sekarang menyalakan tanda untuk lema tertahan yang muncul di dataset lain.
+
+### Ambang keterbacaan
+
+Selisih dua proporsi butuh sampel jauh lebih besar daripada satu proporsi. Pada
+ukuran irisan set ini, dihitung pada kuasa 80% dan taraf 5%, selisih terkecil
+yang layak dibaca sebagai sinyal adalah **20,8 poin persen**. Selisih di bawah itu
+tidak dapat dibedakan dari derau, berapa pun arahnya.
 
 ## Apa yang diukur
 
@@ -151,7 +177,8 @@ sebanding dengan versi berkas ini sebelum 2026-08-13. Skor kunci tidak terpengar
 
 ## Kolom `hasil-model.csv`
 
-810 baris, yaitu 6 model dikali 135 lema.
+Satu baris per model per lema irisan publik. Jumlahnya bergerak tiap panel
+tumbuh, jadi hitunglah dari berkasnya, jangan dari kalimat ini.
 
 | Kolom | Arti |
 |---|---|
@@ -232,7 +259,7 @@ Kedua, kanari yang diam bukan bukti bersih. Ia menjawab satu arah saja: kalau ia
 bersuara, kontaminasinya pasti. Kalau ia diam, kemungkinannya masih dua, model
 tersebut memang belum membacanya atau ia membacanya tanpa menghafal untai acak.
 
-Alat ukur bersih untuk set ini tetap 192 lema kata tunggal di kolam yang sama,
+Alat ukur bersih untuk set ini adalah lema kata tunggal di kolam yang sama,
 seperti tertulis di bagian sebelumnya. Sejak 2026-08-16 lema tersebut ditandai
 `held_out` di buku besar kami dan diperiksa mesin tiap kali sesuatu diterbitkan,
 jadi ia tidak lagi bergantung pada ingatan siapa pun.

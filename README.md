@@ -42,6 +42,11 @@ item by a native speaker under a weighted rubric, and the rubric is published
 alongside the figures so a verdict can be argued on a specific criterion rather
 than merely disagreed with.
 
+The codes in the `penilai` and `rumusan` columns (`mcq-py1`, `open-py1`, and the
+rest) identify the prompt wording and the scorer behind each row. Their meanings
+are listed in the "Kolom yang menentukan" section of
+`benchmark-results/PROVENANCE-hasil.md`.
+
 The Javanese sets are scored against the Yogya-Solo variety. A speaker of East
 Javanese or Banyumasan may judge some items differently, and that is a limit of
 the measurement, not a defect in the answer.
@@ -144,6 +149,22 @@ shows what it looked like when it was cited, which is usually what you want when
 you are checking someone's arithmetic.
 
 Each file's `sha256` is in `MANIFEST.json` if you want to verify a download.
+
+## Citing this repository
+
+A GitHub permalink is enough to check one file, but it is not a citable
+identifier on its own: it has no fixed version and nothing indexes it as a
+dataset. This repository will be archived on [Zenodo](https://zenodo.org),
+which mints a permanent, version-pinned DOI for every GitHub Release.
+
+- **Cite the exact version you used** (recommended, for reproducibility): the
+  version DOI, added here as soon as the first release is archived.
+- **Cite "whatever is current"** (a concept DOI that always resolves to the
+  latest version): the concept DOI, added the same way.
+
+The BibTeX form follows the pattern used by
+[`ibahasa/research-data`](https://github.com/ibahasa/research-data), whose
+README shows it with both DOIs filled in.
 
 ## If you think a figure is wrong
 

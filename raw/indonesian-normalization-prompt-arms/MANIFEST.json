@@ -1,14 +1,14 @@
 {
   "slug": "indonesian-normalization-prompt-arms",
   "title": "Indonesian text normalization: the same 69 items and answer key put to nine AI models under three different prompt wordings, one of them an 8B model quantised to 4 bits and run on local hardware, scored as two opposing abilities — substituting non-standard words versus leaving already-standard words alone. Sentences and key withheld, figures only. See PROVENANCE",
-  "published_at": "2026-08-16T05:58:59Z",
+  "published_at": "2026-08-16T16:52:58Z",
   "source_commit": "3b79e64e",
-  "fingerprint": "bca7ce1269f3e1ba",
+  "fingerprint": "80ecf159a16b121b",
   "license": "CC BY 4.0",
   "files": [
-    { "file": "export-id-N-ringkas-model.csv", "source": "export/id-N/ringkas-model.csv", "bytes": 5294, "sha256": "50e28704d9c92d7b01463496f500e46cfaeedcd761e918ff33adab06dd5bb6ad" },
-    { "file": "export-id-N-per-item.csv", "source": "export/id-N/per-item.csv", "bytes": 279655, "sha256": "1f2e86205d5991d1e48028c17e153a842a29ff92c0b553ee5eb4ab0e57610ded" },
-    { "file": "export-id-N-rumusan.csv", "source": "export/id-N/rumusan.csv", "bytes": 1237, "sha256": "d82d3d9efa1a5dfb3875641d134cba69006c4098064b9366e48176812afba11b" },
-    { "file": "export-id-N-PROVENANCE.md", "source": "export/id-N/PROVENANCE.md", "bytes": 7081, "sha256": "57fcd90f96c0ec9b148f96173078154d33b61e237856f2afbd4a803f52076ac7" }
+    { "file": "export-id-N-ringkas-model.csv", "source": "export/id-N/ringkas-model.csv", "bytes": 5294, "sha256": "fa31f479ee4e40c89df124c5bb54231eea4acbb97a7639f997807eaa3e039fc8" },
+    { "file": "export-id-N-per-item.csv", "source": "export/id-N/per-item.csv", "bytes": 279655, "sha256": "ff164b6ad5a8c0edd72815d499362aa3e3c6e253bbcad60b12252fc7876b4b9f" },
+    { "file": "export-id-N-rumusan.csv", "source": "export/id-N/rumusan.csv", "bytes": 1237, "sha256": "f06ba5d69efa77ab106cf8a0bab6befd47857eaa4fa66d314a1274a39764d961" },
+    { "file": "export-id-N-PROVENANCE.md", "source": "export/id-N/PROVENANCE.md", "bytes": 8885, "sha256": "7e80d9d0bf6cd959e570f8a15b570248648c4909a205dacc1198d195f3b4e686" }
   ]
 }
