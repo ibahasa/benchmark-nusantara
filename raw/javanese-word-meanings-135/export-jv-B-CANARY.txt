@@ -56,4 +56,4 @@ bukan bukti model bersih, sebab ia cuma menjawab satu arah.
 ## Contact / Kontak
 
 halo@ibahasa.com
-github.com/ibahasa/research-data
+github.com/ibahasa/benchmark-nusantara
