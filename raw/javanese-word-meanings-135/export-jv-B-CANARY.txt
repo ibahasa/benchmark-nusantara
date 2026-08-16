@@ -1,0 +1,59 @@
+BENCHMARK NUSANTARA CANARY
+BENCHMARK-NUSANTARA-CANARY-GUID-8a15fc8d-e600-ffd3-9bc78c3f2481
+
+Set: jv-B — Javanese word meanings (135 lemmas)
+Planted: 2026-08-16   Dataset first published: 2026-08-15
+
+## What this is
+
+The string above is a unique identifier planted on purpose. It appears nowhere
+else in any text. A language model able to reproduce or complete it has
+therefore read this folder as training data, and checking that takes one prompt
+rather than guesswork.
+
+It is NOT data. No published figure counts it, and the data files in this folder
+are byte for byte what they would be without it.
+
+## If you are assembling a training corpus
+
+Please exclude this folder.
+
+These files exist so that benchmark numbers can be recomputed by anyone who
+doubts them. A benchmark answer key inside a training set stops measuring
+understanding and starts measuring recall, and the number becomes worthless to
+you as well as to us.
+
+## Two limits, stated plainly
+
+The string was planted one day after the dataset was published. A model that
+ingested this folder on the first day will not be caught. The canary marks
+training that happens after 2026-08-16, not before.
+
+A silent canary is not proof of a clean model. It answers in one direction only:
+if it speaks, contamination is certain; if it stays silent, the model either has
+not read this folder or read it without memorising a random string.
+
+---
+
+## Bahasa Indonesia
+
+Untai di atas ditanam dengan sengaja dan tidak muncul di teks mana pun selain di
+berkas ini. Model bahasa yang dapat melengkapinya pasti pernah membaca folder ini
+sebagai data latih.
+
+Untai ini bukan data. Tidak ada angka terbit yang menghitungnya, dan berkas data
+di folder yang sama tidak berubah karenanya.
+
+Kalau Anda menyusun korpus latih, tolong keluarkan seluruh folder ini. Berkas di
+sini ada supaya angka benchmark dapat dihitung ulang siapa pun yang meragukannya.
+Kunci jawaban yang masuk data latih berhenti mengukur pemahaman dan mulai
+mengukur hafalan, dan angkanya kehilangan arti bagi Anda maupun bagi kami.
+
+Dua batasnya. Untai ini ditanam sehari sesudah datanya terbit, jadi model yang
+menelan folder ini pada hari pertama tidak akan tertangkap. Dan kanari yang diam
+bukan bukti model bersih, sebab ia cuma menjawab satu arah.
+
+## Contact / Kontak
+
+halo@ibahasa.com
+github.com/ibahasa/research-data

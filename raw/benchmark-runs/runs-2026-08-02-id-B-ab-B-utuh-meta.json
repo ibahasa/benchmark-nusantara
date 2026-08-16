@@ -1,0 +1,10 @@
+{
+ "run_id": "b1c0f1ea-0000-4000-8000-00000000000b",
+ "date": "2026-08-02",
+ "set_version": "id-B-B-utuh",
+ "prompt_template": "mcq-v1",
+ "choice_seed": 20260802,
+ "attempts": 3,
+ "items": 38,
+ "note": "Lengan eksperimen A/B terkontrol. Kedua lengan identik kecuali aturan pemotongan opsi >90 karakter dari author_id_B.py. Seed, item, model, ulangan sama."
+}

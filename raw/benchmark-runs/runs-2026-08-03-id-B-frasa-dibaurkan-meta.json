@@ -1,0 +1,10 @@
+{
+ "run_id": "b1c0f1ea-0000-4000-8000-00000000000d",
+ "date": "2026-08-03",
+ "set_version": "id-B-v3-opsi-tidak-dikenal",
+ "prompt_template": "mcq-v1",
+ "choice_seed": 20260802,
+ "attempts": 3,
+ "items": 38,
+ "note": "Setelah opsi \"kata ini tidak dikenal\" disisipkan ke seluruh 38 item sehingga kehadirannya tak lagi menandai kunci. Skor id-B dari versi item sebelumnya TIDAK sebanding: item_version seluruh 30 item id-b1 dinaikkan."
+}

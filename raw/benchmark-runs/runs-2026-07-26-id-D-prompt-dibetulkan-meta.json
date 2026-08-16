@@ -1,0 +1,9 @@
+{
+ "run_id": "3f2b1a90-0000-4000-8000-00000000000d",
+ "date": "2026-07-26",
+ "set_version": "id-D-draft-v0",
+ "prompt_template": "mcq-v1",
+ "attempts": 1,
+ "items": 144,
+ "note": "Titik kedua dari lima pada rangkaian 'alat ukur yang bergerak'. Perubahan sejak titik sebelumnya: prompt sistem tidak lagi memaksa jawaban berbahasa Jawa pada set berbahasa Indonesia."
+}

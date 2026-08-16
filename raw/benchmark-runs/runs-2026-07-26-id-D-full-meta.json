@@ -1,0 +1,63 @@
+{
+  "run_id": "3f2b1a90-0000-4000-8000-000000000009",
+  "date": "2026-07-26",
+  "set_version": "id-D-draft-v0",
+  "prompt_template": "mcq-v1",
+  "models": [
+    {
+      "id": "deepseek-v3-2",
+      "tier": "reference",
+      "calls": 124,
+      "errors": 0,
+      "format_failures": 0,
+      "tokens_in": 11515,
+      "tokens_out": 1277
+    },
+    {
+      "id": "gemini-2.5-flash",
+      "tier": "reference",
+      "calls": 124,
+      "errors": 0,
+      "format_failures": 0,
+      "tokens_in": 9240,
+      "tokens_out": 1016
+    },
+    {
+      "id": "gemini-3.1-flash-lite-preview-or",
+      "tier": "reference",
+      "calls": 124,
+      "errors": 0,
+      "format_failures": 0,
+      "tokens_in": 9462,
+      "tokens_out": 1014
+    },
+    {
+      "id": "gemma-4-31b",
+      "tier": "reference",
+      "calls": 124,
+      "errors": 0,
+      "format_failures": 0,
+      "tokens_in": 11717,
+      "tokens_out": 1309
+    },
+    {
+      "id": "qwen-3.5-flagship",
+      "tier": "reference",
+      "calls": 108,
+      "errors": 1,
+      "format_failures": 5,
+      "tokens_in": 9441,
+      "tokens_out": 105254
+    },
+    {
+      "id": "qwen3-235b",
+      "tier": "reference",
+      "calls": 124,
+      "errors": 0,
+      "format_failures": 0,
+      "tokens_in": 13827,
+      "tokens_out": 83142
+    }
+  ],
+  "note": "Diekspor dari tabel benchmark_runs. Berkas inilah catatan yang dapat dipertanggungjawabkan; basis data hanyalah tempat kerja."
+}

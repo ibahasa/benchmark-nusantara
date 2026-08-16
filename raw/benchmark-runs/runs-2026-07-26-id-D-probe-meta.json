@@ -1,0 +1,18 @@
+{
+  "run_id": "3f2b1a90-0000-4000-8000-000000000006",
+  "date": "2026-07-26",
+  "set_version": "id-D-draft-v0",
+  "prompt_template": "mcq-v1",
+  "models": [
+    {
+      "id": "gemma-4-31b",
+      "tier": "reference",
+      "calls": 24,
+      "errors": 0,
+      "format_failures": 0,
+      "tokens_in": 4923,
+      "tokens_out": 159
+    }
+  ],
+  "note": "Diekspor dari tabel benchmark_runs. Berkas inilah catatan yang dapat dipertanggungjawabkan; basis data hanyalah tempat kerja."
+}

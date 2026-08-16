@@ -1,0 +1,11 @@
+{
+ "run_id": "c1a0de00-0000-4000-8000-000000000001",
+ "date": "2026-08-05",
+ "set_version": "jv-A-draft-v0",
+ "prompt_template": "mcq-v1",
+ "choice_seed": 20260805,
+ "attempts": 3,
+ "items": 44,
+ "provider": "anthropic langsung, bukan lewat perantara",
+ "note": "Dua model Anthropic pada dimensi Jawa. 36 item MCQ berskor otomatis; 8 item terbuka DIJALANKAN tetapi skornya NULL, sebab jv-A melarang penilaian mesin untuk bahasa Jawa. Tujuh baris haiku sempat gagal 529 overloaded lalu dituntaskan run lanjutan setelah jalur ON CONFLICT diperbaiki."
+}

@@ -1,0 +1,18 @@
+{
+  "run_id": "ddc5acd9-a9b5-4d71-9b0c-2c3ff1170071",
+  "date": "2026-08-01",
+  "set_version": "id-D-draft-v0",
+  "prompt_template": "mcq-v1",
+  "models": [
+    {
+      "id": "gemini-3.1-flash-lite-preview-or",
+      "tier": "core",
+      "calls": 48,
+      "errors": 0,
+      "format_failures": 0,
+      "tokens_in": 4665,
+      "tokens_out": 390
+    }
+  ],
+  "note": "Diekspor dari tabel benchmark_runs. Berkas inilah catatan yang dapat dipertanggungjawabkan; basis data hanyalah tempat kerja."
+}

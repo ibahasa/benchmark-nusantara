@@ -1,0 +1,12 @@
+{
+  "slug": "javanese-speech-levels",
+  "title": "Javanese speech levels (tingkat tutur), 13 AI models on 46 items split into two abilities that are never summed: 38 machine-scored multiple-choice items for recognising the right register, and 8 open items graded one by one by a native speaker under a weighted rubric. Includes three models quantised to 4 bits and run on local hardware, whose cost is blank rather than zero. Items and key withheld, figures only. See PROVENANCE",
+  "published_at": "2026-08-16T05:58:59Z",
+  "source_commit": "3b79e64e",
+  "fingerprint": "83a9c3a4e859a15f",
+  "license": "CC BY 4.0",
+  "files": [
+    { "file": "export-jv-A-ringkas-model.csv", "source": "export/jv-A/ringkas-model.csv", "bytes": 3426, "sha256": "ab7ed2f1d2a3fb5882041c0975bc12525495d93e46cc4550fe5ebad71c38c1b6" },
+    { "file": "export-jv-A-PROVENANCE.md", "source": "export/jv-A/PROVENANCE.md", "bytes": 5239, "sha256": "c9b8cfa8ad1b3d51a580b3d629afb2c280033fdfad937c87c164a97f7e9b9b3b" }
+  ]
+}

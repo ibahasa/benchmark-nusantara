@@ -1,0 +1,63 @@
+{
+  "run_id": "3f2b1a90-0000-4000-8000-000000000001",
+  "date": "2026-07-25",
+  "set_version": "jv-A-draft-v0",
+  "prompt_template": "mcq-v1",
+  "models": [
+    {
+      "id": "claude-5-sonnet",
+      "tier": "core",
+      "calls": 15,
+      "errors": 0,
+      "format_failures": 0,
+      "tokens_in": 3358,
+      "tokens_out": 45
+    },
+    {
+      "id": "gemini-3.1-pro",
+      "tier": "core",
+      "calls": 32,
+      "errors": 32,
+      "format_failures": 0,
+      "tokens_in": 0,
+      "tokens_out": 0
+    },
+    {
+      "id": "gpt-5.4-pro",
+      "tier": "core",
+      "calls": 32,
+      "errors": 0,
+      "format_failures": 0,
+      "tokens_in": 3890,
+      "tokens_out": 8156
+    },
+    {
+      "id": "mistral-large-4",
+      "tier": "core",
+      "calls": 32,
+      "errors": 32,
+      "format_failures": 0,
+      "tokens_in": 0,
+      "tokens_out": 0
+    },
+    {
+      "id": "qwen-3.5-flagship",
+      "tier": "core",
+      "calls": 32,
+      "errors": 0,
+      "format_failures": 5,
+      "tokens_in": 3850,
+      "tokens_out": 24180
+    },
+    {
+      "id": "qwen3-235b",
+      "tier": "core",
+      "calls": 32,
+      "errors": 0,
+      "format_failures": 0,
+      "tokens_in": 4623,
+      "tokens_out": 19775
+    }
+  ],
+  "note": "Diekspor dari tabel benchmark_runs. Berkas inilah catatan yang dapat dipertanggungjawabkan; basis data hanyalah tempat kerja."
+}

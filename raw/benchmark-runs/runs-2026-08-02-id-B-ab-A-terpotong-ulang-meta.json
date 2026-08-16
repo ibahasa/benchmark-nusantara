@@ -1,0 +1,10 @@
+{
+ "run_id": "b1c0f1ea-0000-4000-8000-00000000000c",
+ "date": "2026-08-02",
+ "set_version": "id-B-A-terpotong",
+ "prompt_template": "mcq-v1",
+ "choice_seed": 20260802,
+ "attempts": 3,
+ "items": 38,
+ "note": "Lengan A dijalankan ulang setelah classifyErr diperbaiki. 228/228 baris berskor, nol error, satu percobaan ulang transien. Inilah lengan A yang dipakai dokumen 10; jalannya yang pertama disimpan sebagai 2026-08-02-id-B-ab-A-terpotong dan kehilangan 2 baris."
+}

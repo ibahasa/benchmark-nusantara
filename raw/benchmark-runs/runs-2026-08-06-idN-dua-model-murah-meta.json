@@ -1,0 +1,11 @@
+{
+ "run_id": "a1b2c3d4-0000-4000-8000-000000000002",
+ "date": "2026-08-06",
+ "set_version": "id-N-v2-rujukan-dibetulkan",
+ "prompt_template": "mcq-v1",
+ "choice_seed": 20260806,
+ "attempts": 3,
+ "items": 69,
+ "provider": "openrouter",
+ "note": "Dua model murah berlatensi baik pada set normalisasi teks. Dijalankan SETELAH empat rujukan cacat dibetulkan: id-n1-005, -018, -028 memuat 'bku' dan -040 memuat 'brusaha'/'smaksimal' di rujukannya sendiri, sehingga model yang menormalkan dengan benar justru dinilai salah. Skor dari versi item sebelumnya tidak sebanding."
+}

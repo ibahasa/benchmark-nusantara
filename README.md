@@ -110,8 +110,9 @@ drawn from several folders cannot produce two files with the same name. The
 original path of each file is recorded in `MANIFEST.json`.
 
 `PROVENANCE.md` files are written in Indonesian, which is the canonical version.
-Each one opens with an English section covering what was measured, who scored it,
-the main limits, and how to dispute a figure.
+Three of them open with an English section covering what was measured, who scored
+it, the main limits, and how to dispute a figure. The rest will get one; until
+then, write to halo@ibahasa.com and we will answer in English.
 
 ## Citing a file
 

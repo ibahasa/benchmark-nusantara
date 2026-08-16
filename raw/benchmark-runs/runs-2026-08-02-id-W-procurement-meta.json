@@ -1,0 +1,27 @@
+{
+  "run_id": "100721f1-be1e-4ffe-823a-ad3c7bcb32be",
+  "date": "2026-08-01",
+  "set_version": "id-W-draft-v0",
+  "prompt_template": "mcq-v1",
+  "models": [
+    {
+      "id": "deepseek-v3-2",
+      "tier": "core",
+      "calls": 54,
+      "errors": 0,
+      "format_failures": 0,
+      "tokens_in": 11040,
+      "tokens_out": 876
+    },
+    {
+      "id": "gemini-3.1-flash-lite-preview-or",
+      "tier": "core",
+      "calls": 54,
+      "errors": 0,
+      "format_failures": 0,
+      "tokens_in": 9261,
+      "tokens_out": 142
+    }
+  ],
+  "note": "Diekspor dari tabel benchmark_runs. Berkas inilah catatan yang dapat dipertanggungjawabkan; basis data hanyalah tempat kerja."
+}

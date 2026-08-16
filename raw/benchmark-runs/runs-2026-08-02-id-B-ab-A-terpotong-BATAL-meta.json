@@ -1,0 +1,11 @@
+{
+ "run_id": "b1c0f1ea-0000-4000-8000-00000000000a",
+ "date": "2026-08-02",
+ "set_version": "id-B-A-terpotong",
+ "prompt_template": "mcq-v1",
+ "choice_seed": 20260802,
+ "attempts": 3,
+ "items": 38,
+ "note": "BATAL. Jalan ini kehilangan 2 baris karena kegagalan penyedia salah dilabeli permanen di harness, sehingga kedua lengan eksperimen tidak berjumlah sama. Penggantinya 2026-08-02-id-B-ab-A-terpotong-ulang, yang 228 dari 228 baris berskor. Disimpan hanya sebagai jejak, bukan sebagai sumber angka.",
+ "status": "BATAL"
+}

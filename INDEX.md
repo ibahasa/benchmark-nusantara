@@ -1,0 +1,14 @@
+# Dataset index
+
+Generated automatically when data is published. Do not edit by hand.
+
+| Dataset | Files | Published | Source commit |
+|---|---|---|---|
+| [`benchmark-runs`](./raw/benchmark-runs/) — Exported benchmark runs: per-model metadata and per-run summaries | 57 | 2026-08-16 | `3b79e64e` |
+| [`indonesian-normalization-prompt-arms`](./raw/indonesian-normalization-prompt-arms/) — Indonesian text normalization: the same 69 items and answer key put to nine AI models under three different prompt wordings, one of them an 8B model quantised to 4 bits and run on local hardware, scored as two opposing abilities — substituting non-standard words versus leaving already-standard words alone. Sentences and key withheld, figures only. See PROVENANCE | 4 | 2026-08-16 | `3b79e64e` |
+| [`indonesian-slang-and-spelling`](./raw/indonesian-slang-and-spelling/) — Indonesian slang comprehension and spell-check restraint: 10 AI models on 38 slang items and 54 human-reviewed spelling suggestions, including one 8B model quantised to 4 bits and run on local hardware. Cost is blank rather than zero for the local row, and its latency is not comparable. Items and key withheld, figures only. See PROVENANCE | 4 | 2026-08-16 | `3b79e64e` |
+| [`javanese-rare-word-meanings`](./raw/javanese-rare-word-meanings/) — Javanese rare word meanings: four models asked the meaning of 43 Javanese lemmas absent from NusaX, NusaWrites and Javanese Wiktionary, scored against speaker-reviewed multi-key answer sets. SINGLE USE, see PROVENANCE | 5 | 2026-08-16 | `3b79e64e` |
+| [`javanese-speech-levels`](./raw/javanese-speech-levels/) — Javanese speech levels (tingkat tutur), 13 AI models on 46 items split into two abilities that are never summed: 38 machine-scored multiple-choice items for recognising the right register, and 8 open items graded one by one by a native speaker under a weighted rubric. Includes three models quantised to 4 bits and run on local hardware, whose cost is blank rather than zero. Items and key withheld, figures only. See PROVENANCE | 2 | 2026-08-16 | `3b79e64e` |
+| [`javanese-translation-pilot`](./raw/javanese-translation-pilot/) — Javanese to Indonesian translation pilot: two models on 20 human-verified dictionary sentences, plus one blind human adjudication of model output against the dictionary gloss | 3 | 2026-08-16 | `3b79e64e` |
+| [`javanese-word-meanings-135`](./raw/javanese-word-meanings-135/) — Javanese word meanings, 135 lemmas: model answers, multi-key answer sets with speaker-reviewed additional senses, and a key-free semantic cross-check column. Read-all-then-score protocol, pre-registered prediction, plus between-run variance on three models. See PROVENANCE | 6 | 2026-08-16 | `3b79e64e` |
+| [`model-throughput`](./raw/model-throughput/) — Per-model aggregates across all benchmark runs: mean output tokens, mean latency, implied tokens per second. Failed calls excluded | 2 | 2026-08-16 | `3b79e64e` |
