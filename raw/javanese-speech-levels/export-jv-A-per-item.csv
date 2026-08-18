@@ -281,6 +281,7 @@ jv-a3-007,gemini-3.5-flash,pilihan-ganda,mcq-py1,0,1905,0.0015060000,142,600,202
 jv-a3-007,gemma-4-31b,pilihan-ganda,mcq-py1,0,746,0.0000160700,2,600,2026-08-13T22:42:32+0700
 jv-a3-007,gpt-5.6-luna,pilihan-ganda,mcq-py1,0,2364,0.0000540000,61,600,2026-08-14T06:33:37+0700
 jv-a3-007,hunyuan-a13b,pilihan-ganda,mcq-py1,0,1466,0.0000297000,2,600,2026-08-14T06:35:12+0700
+jv-a3-007,ling-3.0-flash,pilihan-ganda,mcq-py1,0,21302,0.0002283960,1196,2400,2026-08-18T19:41:29+0700
 jv-a3-007,llama-3-1-8b-q4km-local,pilihan-ganda,mcq-py1,0,419,,2,600,2026-08-15T16:34:16+0700
 jv-a3-007,mistral-small-3-2501,pilihan-ganda,mcq-py1,0,592,0.0000095100,2,600,2026-08-13T22:41:16+0700
 jv-a3-007,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,0,612,0.0000214000,2,600,2026-08-13T22:43:47+0700
@@ -306,6 +307,7 @@ jv-a3-010,gemini-3.5-flash,pilihan-ganda,mcq-py1,1,2384,0.0020250000,206,600,202
 jv-a3-010,gemma-4-31b,pilihan-ganda,mcq-py1,1,742,0.0000126500,2,600,2026-08-13T22:42:51+0700
 jv-a3-010,gpt-5.6-luna,pilihan-ganda,mcq-py1,1,899,0.0000162000,5,600,2026-08-14T06:33:58+0700
 jv-a3-010,hunyuan-a13b,pilihan-ganda,mcq-py1,0,1326,0.0000220000,2,600,2026-08-14T06:35:35+0700
+jv-a3-010,ling-3.0-flash,pilihan-ganda,mcq-py1,1,19207,0.0001987560,1048,2400,2026-08-18T19:42:06+0700
 jv-a3-010,llama-3-1-8b-q4km-local,pilihan-ganda,mcq-py1,0,435,,2,600,2026-08-15T16:34:31+0700
 jv-a3-010,mistral-small-3-2501,pilihan-ganda,mcq-py1,0,740,0.0000069600,2,600,2026-08-13T22:41:29+0700
 jv-a3-010,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,0,682,0.0000159000,2,600,2026-08-13T22:44:01+0700
