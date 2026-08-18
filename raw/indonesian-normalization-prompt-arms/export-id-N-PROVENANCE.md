@@ -77,8 +77,11 @@ nama berkas.
 Satu hal yang SHA commit tidak jawab: sebuah berkas dapat memuat baris dari
 beberapa tanggal sekaligus. Karena itu tiap baris `export-id-N-per-item.csv` membawa
 `waktu_amat` dan `cap_token` sendiri, dan `export-id-N-ringkas-model.csv` membawa rentang
-`waktu_amat_awal`–`waktu_amat_akhir`. Kolom `dijalankan_pada` berbeda artinya:
-itu waktu berkasnya disusun, bukan waktu modelnya dipanggil.
+`waktu_amat_awal`–`waktu_amat_akhir`. Kolom `dijalankan_pada` sama nilainya di
+seluruh baris satu berkas: cap waktu pengamatan TERBARU yang termuat di berkas
+itu, dibaca dari buku besar. Sampai 2026-08-19 kolom ini berisi jam berkasnya
+disusun, sehingga isinya bergeser tiap kali ekspor dijalankan ulang tanpa satu
+angka pun berubah; sejak itu ia hanya bergerak kalau ada pengamatan baru.
 
 Pada rilis 2026-08-13 seluruh 12 label diukur dalam satu hari, dan `cap_token`
 seragam 600 kecuali Ling — lihat batasan di bawah.
