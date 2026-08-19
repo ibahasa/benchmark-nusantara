@@ -22,5 +22,6 @@ sahabatai-1-llama3-q4km-local,id-B,pilihan-ganda,mcq-py1,mcq-py1,1,d3e8c01bc554,
 sahabatai-1-llama3-q4km-local,id-B,pilihan-ganda,mcq-py1,mcq-py1,2,d3e8c01bc554,4e94e1cb7f25,40,,42,42,0.9524,16,18,0.8889,,12771,120,430,0,0,0,0,600,2026-08-17T22:10:43+0700,1
 sea-lion-v4-5-e2b-q4km-local,id-B,pilihan-ganda,mcq-py1,mcq-py1,1,3e5973f02ae8,b890194821ba,21,,27,27,0.7778,6,11,0.5455,,6709,76,834,0,0,0,0,600,2026-08-15T16:24:11+0700,1
 sea-lion-v4-5-e2b-q4km-local,id-B,pilihan-ganda,mcq-py1,mcq-py1,1,d3e8c01bc554,4e94e1cb7f25,33,,42,42,0.7857,12,18,0.6667,,9920,120,843,0,0,0,0,600,2026-08-17T22:06:40+0700,1
+seed-2.0-mini,id-B,pilihan-ganda,mcq-py1,mcq-py1,1,d3e8c01bc554,4e94e1cb7f25,37,,42,42,0.881,16,18,0.8889,0.0107654000,12826,23707,1755,0,0,0,0,8000,2026-08-20T01:16:06+0700,1
 solar-pro4,id-B,pilihan-ganda,mcq-py1,mcq-py1,1,3e5973f02ae8,b890194821ba,24,,27,27,0.8889,8,11,0.7273,0.0002874900,9247,84,1411,0,0,0,0,600,2026-08-14T08:36:04+0700,1
 solar-pro4,id-B,pilihan-ganda,mcq-py1,mcq-py1,1,d3e8c01bc554,4e94e1cb7f25,37,,42,42,0.881,15,18,0.8333,0.0004288800,13796,125,881,0,0,0,0,600,2026-08-17T22:19:00+0700,1

@@ -14,6 +14,7 @@ id-b1-002,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,507,0.0000185000,2,600,2026
 id-b1-002,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,361,,2,600,2026-08-17T22:02:26+0700
 id-b1-002,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,419,,2,600,2026-08-17T22:09:07+0700
 id-b1-002,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,911,,2,600,2026-08-17T22:04:36+0700
+id-b1-002,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1395,0.0000624000,110,2400,2026-08-20T01:01:45+0700
 id-b1-002,solar-pro4,pilihan-ganda,mcq-py1,1,3805,0.0000063900,3,600,2026-08-17T22:15:42+0700
 id-b1-003,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1379,0.0002150000,4,600,2026-08-17T23:05:44+0700
 id-b1-003,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,2170,0.0000206707,56,600,2026-08-17T22:57:17+0700
@@ -30,6 +31,7 @@ id-b1-003,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,467,0.0000180000,2,600,2026
 id-b1-003,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,396,,2,600,2026-08-17T22:02:28+0700
 id-b1-003,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,394,,2,600,2026-08-17T22:09:09+0700
 id-b1-003,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,842,,2,600,2026-08-17T22:04:38+0700
+id-b1-003,seed-2.0-mini,pilihan-ganda,mcq-py1,1,2503,0.0001351000,292,2400,2026-08-20T01:01:49+0700
 id-b1-003,solar-pro4,pilihan-ganda,mcq-py1,1,1515,0.0000062100,2,600,2026-08-17T22:15:45+0700
 id-b1-006,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1269,0.0002340000,4,600,2026-08-17T23:05:51+0700
 id-b1-006,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,6133,0.0000179199,35,600,2026-08-17T22:58:06+0700
@@ -46,6 +48,7 @@ id-b1-006,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,532,0.0000195000,2,600,2026
 id-b1-006,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,382,,2,600,2026-08-17T22:02:33+0700
 id-b1-006,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,364,,2,600,2026-08-17T22:09:14+0700
 id-b1-006,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,842,,2,600,2026-08-17T22:04:44+0700
+id-b1-006,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1518,0.0000639000,113,2400,2026-08-20T01:08:54+0700
 id-b1-006,solar-pro4,pilihan-ganda,mcq-py1,1,907,0.0000066000,2,600,2026-08-17T22:15:53+0700
 id-b1-007,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1634,0.0002390000,4,600,2026-08-17T23:05:54+0700
 id-b1-007,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,3020,0.0000357200,126,600,2026-08-17T22:58:11+0700
@@ -62,6 +65,7 @@ id-b1-007,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,0,1766,0.0000177600,1,600,202
 id-b1-007,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,530,,2,600,2026-08-17T22:02:35+0700
 id-b1-007,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,511,,2,600,2026-08-17T22:09:15+0700
 id-b1-007,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,0,946,,2,600,2026-08-17T22:04:46+0700
+id-b1-007,seed-2.0-mini,pilihan-ganda,mcq-py1,0,11284,0.0005861000,1416,2400,2026-08-20T01:09:06+0700
 id-b1-007,solar-pro4,pilihan-ganda,mcq-py1,1,20881,0.0000065400,2,600,2026-08-17T22:16:15+0700
 id-b1-008,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1759,0.0002210000,4,600,2026-08-17T23:05:57+0700
 id-b1-008,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,2211,0.0000261400,79,600,2026-08-17T22:58:14+0700
@@ -78,6 +82,7 @@ id-b1-008,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,635,0.0000185000,2,600,2026
 id-b1-008,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,436,,2,600,2026-08-17T22:02:36+0700
 id-b1-008,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,497,,2,600,2026-08-17T22:09:17+0700
 id-b1-008,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,856,,2,600,2026-08-17T22:04:48+0700
+id-b1-008,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1715,0.0000869000,171,2400,2026-08-20T01:09:09+0700
 id-b1-008,solar-pro4,pilihan-ganda,mcq-py1,1,1584,0.0000062100,2,600,2026-08-17T22:16:17+0700
 id-b1-009,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,3607,0.0002260000,4,600,2026-08-17T23:06:02+0700
 id-b1-009,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,12782,0.0000632000,82,600,2026-08-17T22:58:28+0700
@@ -94,6 +99,7 @@ id-b1-009,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,0,637,0.0000090531,2,600,2026
 id-b1-009,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,401,,2,600,2026-08-17T22:02:38+0700
 id-b1-009,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,439,,2,600,2026-08-17T22:09:19+0700
 id-b1-009,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,0,1516,,2,600,2026-08-17T22:04:51+0700
+id-b1-009,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1451,0.0000602000,104,2400,2026-08-20T01:09:12+0700
 id-b1-009,solar-pro4,pilihan-ganda,mcq-py1,1,881,0.0000063000,2,600,2026-08-17T22:16:20+0700
 id-b1-010,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1520,0.0003780000,4,600,2026-08-17T23:06:04+0700
 id-b1-010,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,4791,0.0000583909,146,600,2026-08-17T22:58:34+0700
@@ -110,6 +116,7 @@ id-b1-010,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,432,0.0000156978,2,600,2026
 id-b1-010,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,600,,2,600,2026-08-17T22:02:40+0700
 id-b1-010,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,446,,2,600,2026-08-17T22:09:20+0700
 id-b1-010,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,834,,2,600,2026-08-17T22:04:53+0700
+id-b1-010,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1600,0.0001016000,178,2400,2026-08-20T01:09:15+0700
 id-b1-010,solar-pro4,pilihan-ganda,mcq-py1,1,639,0.0000098400,2,600,2026-08-17T22:16:21+0700
 id-b1-011,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1443,0.0002940000,4,600,2026-08-17T23:06:07+0700
 id-b1-011,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,1390,0.0000268600,55,600,2026-08-17T22:58:37+0700
@@ -126,6 +133,7 @@ id-b1-011,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,560,0.0000253000,2,600,2026
 id-b1-011,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,397,,2,600,2026-08-17T22:02:41+0700
 id-b1-011,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,382,,2,600,2026-08-17T22:09:22+0700
 id-b1-011,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,978,,2,600,2026-08-17T22:04:55+0700
+id-b1-011,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1271,0.0000643000,98,2400,2026-08-20T01:09:17+0700
 id-b1-011,solar-pro4,pilihan-ganda,mcq-py1,1,10610,0.0000081900,2,600,2026-08-17T22:16:33+0700
 id-b1-012,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1403,0.0002780000,4,600,2026-08-17T23:06:10+0700
 id-b1-012,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,18668,0.0000478800,74,600,2026-08-17T22:58:56+0700
@@ -142,6 +150,7 @@ id-b1-012,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,533,0.0000239000,2,600,2026
 id-b1-012,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,441,,2,600,2026-08-17T22:02:43+0700
 id-b1-012,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,383,,2,600,2026-08-17T22:09:23+0700
 id-b1-012,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,1360,,2,600,2026-08-17T22:04:58+0700
+id-b1-012,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1553,0.0000885000,164,2400,2026-08-20T01:09:20+0700
 id-b1-012,solar-pro4,pilihan-ganda,mcq-py1,1,860,0.0000075900,2,600,2026-08-17T22:16:35+0700
 id-b1-015,claude-haiku-4.5,pilihan-ganda,mcq-py1,0,1402,0.0002370000,4,600,2026-08-17T23:06:17+0700
 id-b1-015,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,0,6022,0.0000379873,99,600,2026-08-17T22:59:18+0700
@@ -158,6 +167,7 @@ id-b1-015,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,567,0.0000197000,2,600,2026
 id-b1-015,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,542,,2,600,2026-08-17T22:02:48+0700
 id-b1-015,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,360,,2,600,2026-08-17T22:09:28+0700
 id-b1-015,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,0,880,,2,600,2026-08-17T22:05:04+0700
+id-b1-015,seed-2.0-mini,pilihan-ganda,mcq-py1,0,4639,0.0002373000,544,2400,2026-08-20T01:09:36+0700
 id-b1-015,solar-pro4,pilihan-ganda,mcq-py1,0,851,0.0000067200,3,600,2026-08-17T22:16:42+0700
 id-b1-016,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1635,0.0003860000,4,600,2026-08-17T23:06:20+0700
 id-b1-016,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,3811,0.0000441629,87,600,2026-08-17T22:59:23+0700
@@ -174,6 +184,7 @@ id-b1-016,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,461,0.0000331000,2,600,2026
 id-b1-016,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,476,,2,600,2026-08-17T22:02:50+0700
 id-b1-016,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,504,,2,600,2026-08-17T22:09:30+0700
 id-b1-016,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,839,,2,600,2026-08-17T22:05:06+0700
+id-b1-016,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1568,0.0000992000,171,2400,2026-08-20T01:09:39+0700
 id-b1-016,solar-pro4,pilihan-ganda,mcq-py1,1,913,0.0000100800,2,600,2026-08-17T22:16:44+0700
 id-b1-017,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1270,0.0003120000,4,600,2026-08-17T23:06:23+0700
 id-b1-017,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,4129,0.0000519500,82,600,2026-08-17T22:59:28+0700
@@ -190,6 +201,7 @@ id-b1-017,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,559,0.0000127120,1,600,2026
 id-b1-017,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,490,,2,600,2026-08-17T22:02:51+0700
 id-b1-017,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,396,,2,600,2026-08-17T22:09:32+0700
 id-b1-017,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,0,798,,2,600,2026-08-17T22:05:08+0700
+id-b1-017,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1728,0.0000865000,153,2400,2026-08-20T01:09:41+0700
 id-b1-017,solar-pro4,pilihan-ganda,mcq-py1,0,727,0.0000083400,2,600,2026-08-17T22:16:46+0700
 id-b1-018,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1393,0.0002290000,4,600,2026-08-17T23:06:25+0700
 id-b1-018,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,3780,0.0000340594,85,600,2026-08-17T22:59:33+0700
@@ -206,6 +218,7 @@ id-b1-018,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,0,518,0.0000089563,1,600,2026
 id-b1-018,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,0,550,,2,600,2026-08-17T22:02:53+0700
 id-b1-018,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,0,537,,2,600,2026-08-17T22:09:33+0700
 id-b1-018,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,0,823,,2,600,2026-08-17T22:05:10+0700
+id-b1-018,seed-2.0-mini,pilihan-ganda,mcq-py1,1,3052,0.0001663000,368,2400,2026-08-20T01:09:46+0700
 id-b1-018,solar-pro4,pilihan-ganda,mcq-py1,1,1958,0.0000063600,2,600,2026-08-17T22:16:49+0700
 id-b1-019,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1695,0.0003420000,4,600,2026-08-17T23:06:28+0700
 id-b1-019,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,5819,0.0000328500,59,600,2026-08-17T22:59:40+0700
@@ -222,6 +235,7 @@ id-b1-019,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,487,0.0000302000,2,600,2026
 id-b1-019,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,514,,2,600,2026-08-17T22:02:55+0700
 id-b1-019,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,552,,2,600,2026-08-17T22:09:35+0700
 id-b1-019,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,896,,2,600,2026-08-17T22:05:12+0700
+id-b1-019,seed-2.0-mini,pilihan-ganda,mcq-py1,1,2098,0.0001205000,231,2400,2026-08-20T01:09:49+0700
 id-b1-019,solar-pro4,pilihan-ganda,mcq-py1,1,787,0.0000091800,2,600,2026-08-17T22:16:51+0700
 id-b1-020,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1343,0.0002910000,4,600,2026-08-17T23:06:31+0700
 id-b1-020,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,18574,0.0000255437,61,600,2026-08-17T23:00:00+0700
@@ -238,6 +252,7 @@ id-b1-020,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,683,0.0000251000,2,600,2026
 id-b1-020,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,431,,2,600,2026-08-17T22:02:56+0700
 id-b1-020,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,413,,2,600,2026-08-17T22:09:37+0700
 id-b1-020,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,908,,2,600,2026-08-17T22:05:14+0700
+id-b1-020,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1449,0.0000816000,145,2400,2026-08-20T01:09:52+0700
 id-b1-020,solar-pro4,pilihan-ganda,mcq-py1,1,687,0.0000077100,2,600,2026-08-17T22:16:53+0700
 id-b1-021,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1211,0.0002530000,4,600,2026-08-17T23:06:33+0700
 id-b1-021,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,3965,0.0000256200,65,600,2026-08-17T23:00:05+0700
@@ -254,6 +269,7 @@ id-b1-021,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,1664,0.0000189300,1,600,202
 id-b1-021,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,434,,2,600,2026-08-17T22:02:58+0700
 id-b1-021,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,376,,2,600,2026-08-17T22:09:38+0700
 id-b1-021,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,1273,,2,600,2026-08-17T22:05:17+0700
+id-b1-021,seed-2.0-mini,pilihan-ganda,mcq-py1,1,3811,0.0002303000,524,2400,2026-08-20T01:09:57+0700
 id-b1-021,solar-pro4,pilihan-ganda,mcq-py1,1,954,0.0000068700,2,600,2026-08-17T22:16:55+0700
 id-b1-022,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1270,0.0002470000,4,600,2026-08-17T23:06:36+0700
 id-b1-022,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,9258,0.0000227700,39,600,2026-08-17T23:00:16+0700
@@ -270,6 +286,7 @@ id-b1-022,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,428,0.0000101124,2,600,2026
 id-b1-022,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,431,,2,600,2026-08-17T22:03:00+0700
 id-b1-022,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,535,,2,600,2026-08-17T22:09:40+0700
 id-b1-022,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,1046,,2,600,2026-08-17T22:05:19+0700
+id-b1-022,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1639,0.0000901000,172,2400,2026-08-20T01:10:00+0700
 id-b1-022,solar-pro4,pilihan-ganda,mcq-py1,1,2686,0.0000069600,2,600,2026-08-17T22:16:59+0700
 id-b1-024,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1167,0.0003330000,4,600,2026-08-17T23:06:41+0700
 id-b1-024,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,1221,0.0000532000,69,600,2026-08-17T23:00:21+0700
@@ -286,6 +303,7 @@ id-b1-024,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,0,344,0.0000365300,1,600,2026
 id-b1-024,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,556,,2,600,2026-08-17T22:03:03+0700
 id-b1-024,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,536,,2,600,2026-08-17T22:09:44+0700
 id-b1-024,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,782,,2,600,2026-08-17T22:05:23+0700
+id-b1-024,seed-2.0-mini,pilihan-ganda,mcq-py1,1,3737,0.0002004000,433,2400,2026-08-20T01:10:07+0700
 id-b1-024,solar-pro4,pilihan-ganda,mcq-py1,1,5307,0.0000088800,2,600,2026-08-17T22:17:07+0700
 id-b1-028,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1284,0.0002440000,4,600,2026-08-17T23:06:51+0700
 id-b1-028,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,0,13450,0.0000934080,472,600,2026-08-17T23:00:57+0700
@@ -302,6 +320,7 @@ id-b1-028,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,565,0.0000096786,1,600,2026
 id-b1-028,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,373,,2,600,2026-08-17T22:03:09+0700
 id-b1-028,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,366,,2,600,2026-08-17T22:09:50+0700
 id-b1-028,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,0,808,,2,600,2026-08-17T22:05:31+0700
+id-b1-028,seed-2.0-mini,pilihan-ganda,mcq-py1,1,11896,0.0005585000,1345,8000,2026-08-20T01:15:51+0700
 id-b1-028,solar-pro4,pilihan-ganda,mcq-py1,0,1323,0.0000069600,2,600,2026-08-17T22:17:17+0700
 id-b1-029,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1519,0.0002460000,4,600,2026-08-17T23:06:54+0700
 id-b1-029,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,2211,0.0000279273,54,600,2026-08-17T23:01:04+0700
@@ -318,6 +337,7 @@ id-b1-029,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,486,0.0000209000,2,600,2026
 id-b1-029,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,511,,2,600,2026-08-17T22:03:11+0700
 id-b1-029,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,486,,2,600,2026-08-17T22:09:52+0700
 id-b1-029,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,812,,2,600,2026-08-17T22:05:33+0700
+id-b1-029,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1457,0.0000730000,130,2400,2026-08-20T01:10:48+0700
 id-b1-029,solar-pro4,pilihan-ganda,mcq-py1,1,878,0.0000069900,2,600,2026-08-17T22:17:19+0700
 id-b1-030,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1297,0.0002700000,4,600,2026-08-17T23:06:57+0700
 id-b1-030,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,2107,0.0000459200,65,600,2026-08-17T23:01:07+0700
@@ -334,6 +354,7 @@ id-b1-030,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,512,0.0000109787,1,600,2026
 id-b1-030,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,387,,2,600,2026-08-17T22:03:13+0700
 id-b1-030,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,373,,2,600,2026-08-17T22:09:53+0700
 id-b1-030,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,794,,2,600,2026-08-17T22:05:35+0700
+id-b1-030,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1116,0.0000542000,78,2400,2026-08-20T01:10:51+0700
 id-b1-030,solar-pro4,pilihan-ganda,mcq-py1,1,840,0.0000075600,2,600,2026-08-17T22:17:21+0700
 id-b1-031,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1367,0.0002420000,4,600,2026-08-17T23:07:22+0700
 id-b1-031,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,1918,0.0000201513,26,600,2026-08-17T23:01:47+0700
@@ -347,6 +368,7 @@ id-b1-031,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,1228,0.0000097272,2,600,202
 id-b1-031,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,453,,2,600,2026-08-17T22:03:28+0700
 id-b1-031,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,431,,2,600,2026-08-17T22:10:08+0700
 id-b1-031,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,817,,2,600,2026-08-17T22:05:55+0700
+id-b1-031,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1475,0.0000840000,160,2400,2026-08-20T01:11:33+0700
 id-b1-031,solar-pro4,pilihan-ganda,mcq-py1,1,2020,0.0000069000,3,600,2026-08-17T22:18:08+0700
 id-b1-032,claude-haiku-4.5,pilihan-ganda,mcq-py1,0,1426,0.0002300000,4,600,2026-08-17T23:07:25+0700
 id-b1-032,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,3037,0.0000341600,36,600,2026-08-17T23:01:51+0700
@@ -360,6 +382,7 @@ id-b1-032,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,549,0.0000199000,2,600,2026
 id-b1-032,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,531,,2,600,2026-08-17T22:03:29+0700
 id-b1-032,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,430,,2,600,2026-08-17T22:10:10+0700
 id-b1-032,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,0,1955,,2,600,2026-08-17T22:05:58+0700
+id-b1-032,seed-2.0-mini,pilihan-ganda,mcq-py1,1,3497,0.0001696000,374,2400,2026-08-20T01:11:37+0700
 id-b1-032,solar-pro4,pilihan-ganda,mcq-py1,0,712,0.0000067200,2,600,2026-08-17T22:18:10+0700
 id-b1-033,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1990,0.0002360000,4,600,2026-08-17T23:07:28+0700
 id-b1-033,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,1759,0.0000390600,56,600,2026-08-17T23:01:54+0700
@@ -373,6 +396,7 @@ id-b1-033,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,527,0.0000196000,2,600,2026
 id-b1-033,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,401,,2,600,2026-08-17T22:03:31+0700
 id-b1-033,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,371,,2,600,2026-08-17T22:10:11+0700
 id-b1-033,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,768,,2,600,2026-08-17T22:06:00+0700
+id-b1-033,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1598,0.0000878000,170,2400,2026-08-20T01:11:40+0700
 id-b1-033,solar-pro4,pilihan-ganda,mcq-py1,1,681,0.0000066300,2,600,2026-08-17T22:18:12+0700
 id-b1-035,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1354,0.0002150000,4,600,2026-08-17T23:07:33+0700
 id-b1-035,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,3979,0.0000206640,45,600,2026-08-17T23:02:06+0700
@@ -386,6 +410,7 @@ id-b1-035,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,507,0.0000090049,2,600,2026
 id-b1-035,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,368,,2,600,2026-08-17T22:03:34+0700
 id-b1-035,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,455,,2,600,2026-08-17T22:10:14+0700
 id-b1-035,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,867,,2,600,2026-08-17T22:06:04+0700
+id-b1-035,seed-2.0-mini,pilihan-ganda,mcq-py1,1,3736,0.0002058000,469,2400,2026-08-20T01:11:50+0700
 id-b1-035,solar-pro4,pilihan-ganda,mcq-py1,1,843,0.0000062100,2,600,2026-08-17T22:18:16+0700
 id-b1-036,claude-haiku-4.5,pilihan-ganda,mcq-py1,0,1302,0.0002190000,4,600,2026-08-17T23:07:35+0700
 id-b1-036,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,0,3559,0.0000567000,124,600,2026-08-17T23:02:11+0700
@@ -399,6 +424,7 @@ id-b1-036,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,609,0.0000181000,2,600,2026
 id-b1-036,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,593,,2,600,2026-08-17T22:03:36+0700
 id-b1-036,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,429,,2,600,2026-08-17T22:10:16+0700
 id-b1-036,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,676,,2,600,2026-08-17T22:06:06+0700
+id-b1-036,seed-2.0-mini,pilihan-ganda,mcq-py1,0,1350,0.0000712000,132,2400,2026-08-20T01:11:53+0700
 id-b1-036,solar-pro4,pilihan-ganda,mcq-py1,1,6953,0.0000064200,2,600,2026-08-17T22:18:24+0700
 id-b1-038,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1295,0.0002260000,4,600,2026-08-17T23:07:41+0700
 id-b1-038,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,12050,0.0000390600,60,600,2026-08-17T23:02:34+0700
@@ -412,6 +438,7 @@ id-b1-038,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,544,0.0000090049,2,600,2026
 id-b1-038,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,589,,2,600,2026-08-17T22:03:39+0700
 id-b1-038,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,381,,2,600,2026-08-17T22:10:19+0700
 id-b1-038,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,0,832,,2,600,2026-08-17T22:06:10+0700
+id-b1-038,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1733,0.0000655000,116,2400,2026-08-20T01:11:59+0700
 id-b1-038,solar-pro4,pilihan-ganda,mcq-py1,1,1255,0.0000064500,2,600,2026-08-17T22:18:29+0700
 id-b1-040,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1769,0.0002460000,4,600,2026-08-17T23:07:47+0700
 id-b1-040,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,12557,0.0000336553,78,600,2026-08-17T23:02:51+0700
@@ -425,6 +452,7 @@ id-b1-040,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,1804,0.0000178500,1,600,202
 id-b1-040,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,470,,2,600,2026-08-17T22:03:43+0700
 id-b1-040,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,379,,2,600,2026-08-17T22:10:23+0700
 id-b1-040,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,1130,,2,600,2026-08-17T22:06:14+0700
+id-b1-040,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1376,0.0000782000,144,2400,2026-08-20T01:12:05+0700
 id-b1-040,solar-pro4,pilihan-ganda,mcq-py1,1,598,0.0000068400,2,600,2026-08-17T22:18:33+0700
 id-b1-042,claude-haiku-4.5,pilihan-ganda,mcq-py1,0,1143,0.0002300000,4,600,2026-08-17T23:07:53+0700
 id-b1-042,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,12110,0.0000455000,83,600,2026-08-17T23:03:09+0700
@@ -438,6 +466,7 @@ id-b1-042,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,0,390,0.0000093902,2,600,2026
 id-b1-042,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,0,468,,2,600,2026-08-17T22:03:46+0700
 id-b1-042,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,0,422,,2,600,2026-08-17T22:10:26+0700
 id-b1-042,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,0,941,,2,600,2026-08-17T22:06:18+0700
+id-b1-042,seed-2.0-mini,pilihan-ganda,mcq-py1,1,12929,0.0006328000,1534,8000,2026-08-20T01:16:06+0700
 id-b1-042,solar-pro4,pilihan-ganda,mcq-py1,0,637,0.0000066000,2,600,2026-08-17T22:18:36+0700
 id-b1-043,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1293,0.0002330000,4,600,2026-08-17T23:07:55+0700
 id-b1-043,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,2576,0.0000265440,77,600,2026-08-17T23:03:13+0700
@@ -451,6 +480,7 @@ id-b1-043,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,402,0.0000094383,2,600,2026
 id-b1-043,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,400,,2,600,2026-08-17T22:03:48+0700
 id-b1-043,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,408,,2,600,2026-08-17T22:10:28+0700
 id-b1-043,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,823,,2,600,2026-08-17T22:06:20+0700
+id-b1-043,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1677,0.0000826000,158,2400,2026-08-20T01:12:31+0700
 id-b1-043,solar-pro4,pilihan-ganda,mcq-py1,1,1119,0.0000066600,3,600,2026-08-17T22:18:38+0700
 id-b1-044,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,2227,0.0002240000,4,600,2026-08-17T23:07:59+0700
 id-b1-044,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,3159,0.0000047000,2,600,2026-08-17T23:03:18+0700
@@ -464,6 +494,7 @@ id-b1-044,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,620,0.0000091975,2,600,2026
 id-b1-044,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,390,,2,600,2026-08-17T22:03:49+0700
 id-b1-044,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,403,,2,600,2026-08-17T22:10:29+0700
 id-b1-044,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,905,,2,600,2026-08-17T22:06:23+0700
+id-b1-044,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1415,0.0000726000,134,2400,2026-08-20T01:12:34+0700
 id-b1-044,solar-pro4,pilihan-ganda,mcq-py1,1,621,0.0000063900,2,600,2026-08-17T22:18:40+0700
 id-b1-046,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1307,0.0002090000,4,600,2026-08-17T23:08:04+0700
 id-b1-046,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,1528,0.0000369600,57,600,2026-08-17T23:03:29+0700
@@ -477,6 +508,7 @@ id-b1-046,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,399,0.0000086197,2,600,2026
 id-b1-046,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,510,,2,600,2026-08-17T22:03:53+0700
 id-b1-046,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,432,,2,600,2026-08-17T22:10:32+0700
 id-b1-046,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,1026,,2,600,2026-08-17T22:06:27+0700
+id-b1-046,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1614,0.0000777000,149,2400,2026-08-20T01:12:45+0700
 id-b1-046,solar-pro4,pilihan-ganda,mcq-py1,1,636,0.0000061200,2,600,2026-08-17T22:18:46+0700
 id-b1-048,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1516,0.0002100000,4,600,2026-08-17T23:08:10+0700
 id-b1-048,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,2409,0.0000315000,36,600,2026-08-17T23:03:37+0700
@@ -490,6 +522,7 @@ id-b1-048,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,701,0.0000177000,2,600,2026
 id-b1-048,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,739,,2,600,2026-08-17T22:03:56+0700
 id-b1-048,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,366,,2,600,2026-08-17T22:10:36+0700
 id-b1-048,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,1156,,2,600,2026-08-17T22:06:31+0700
+id-b1-048,seed-2.0-mini,pilihan-ganda,mcq-py1,1,3982,0.0001899000,429,2400,2026-08-20T01:12:52+0700
 id-b1-048,solar-pro4,pilihan-ganda,mcq-py1,1,1390,0.0000062400,2,600,2026-08-17T22:18:52+0700
 id-b1-049,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1571,0.0002230000,4,600,2026-08-17T23:08:13+0700
 id-b1-049,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,2334,0.0000400320,65,600,2026-08-17T23:03:41+0700
@@ -503,6 +536,7 @@ id-b1-049,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,590,0.0000185000,2,600,2026
 id-b1-049,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,346,,2,600,2026-08-17T22:03:58+0700
 id-b1-049,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,702,,2,600,2026-08-17T22:10:38+0700
 id-b1-049,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,804,,2,600,2026-08-17T22:06:33+0700
+id-b1-049,seed-2.0-mini,pilihan-ganda,mcq-py1,1,15621,0.0008308000,2030,2400,2026-08-20T01:13:09+0700
 id-b1-049,solar-pro4,pilihan-ganda,mcq-py1,1,639,0.0000063900,2,600,2026-08-17T22:18:53+0700
 id-b1-051,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1484,0.0002200000,4,600,2026-08-17T23:08:19+0700
 id-b1-051,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,8206,0.0000047280,2,600,2026-08-17T23:03:53+0700
@@ -516,6 +550,7 @@ id-b1-051,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,569,0.0000182000,2,600,2026
 id-b1-051,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,553,,2,600,2026-08-17T22:04:01+0700
 id-b1-051,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,494,,2,600,2026-08-17T22:10:41+0700
 id-b1-051,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,1312,,2,600,2026-08-17T22:06:38+0700
+id-b1-051,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1522,0.0000772000,146,2400,2026-08-20T01:13:14+0700
 id-b1-051,solar-pro4,pilihan-ganda,mcq-py1,1,1441,0.0000063900,2,600,2026-08-17T22:18:58+0700
 id-b1-052,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1142,0.0002210000,4,600,2026-08-17T23:08:21+0700
 id-b1-052,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,2016,0.0000182343,36,600,2026-08-17T23:03:56+0700
@@ -529,6 +564,7 @@ id-b1-052,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,483,0.0000239200,1,600,2026
 id-b1-052,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,363,,2,600,2026-08-17T22:04:03+0700
 id-b1-052,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,425,,2,600,2026-08-17T22:10:43+0700
 id-b1-052,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,911,,2,600,2026-08-17T22:06:40+0700
+id-b1-052,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1778,0.0000747000,138,2400,2026-08-20T01:13:17+0700
 id-b1-052,solar-pro4,pilihan-ganda,mcq-py1,1,628,0.0000065700,2,600,2026-08-17T22:19:00+0700
 id-b3-003,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1476,0.0002370000,4,600,2026-08-17T23:07:05+0700
 id-b3-003,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,3081,0.0000363400,49,600,2026-08-17T23:01:17+0700
@@ -545,6 +581,7 @@ id-b3-003,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,393,0.0000104976,2,600,2026
 id-b3-003,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,373,,2,600,2026-08-17T22:03:18+0700
 id-b3-003,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,389,,2,600,2026-08-17T22:09:58+0700
 id-b3-003,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,949,,2,600,2026-08-17T22:05:43+0700
+id-b3-003,seed-2.0-mini,pilihan-ganda,mcq-py1,1,5944,0.0002942000,683,2400,2026-08-20T01:11:09+0700
 id-b3-003,solar-pro4,pilihan-ganda,mcq-py1,1,626,0.0000069600,2,600,2026-08-17T22:17:27+0700
 id-b3-004,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1968,0.0003020000,4,600,2026-08-17T23:07:08+0700
 id-b3-004,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,5203,0.0000363500,30,600,2026-08-17T23:01:23+0700
@@ -561,6 +598,7 @@ id-b3-004,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,1465,0.0000234300,1,600,202
 id-b3-004,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,444,,2,600,2026-08-17T22:03:19+0700
 id-b3-004,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,385,,2,600,2026-08-17T22:10:00+0700
 id-b3-004,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,753,,2,600,2026-08-17T22:05:45+0700
+id-b3-004,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1338,0.0000743000,123,2400,2026-08-20T01:11:12+0700
 id-b3-004,solar-pro4,pilihan-ganda,mcq-py1,1,554,0.0000081600,2,600,2026-08-17T22:17:29+0700
 id-b3-005,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1662,0.0002330000,4,600,2026-08-17T23:07:11+0700
 id-b3-005,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,1985,0.0000214600,45,600,2026-08-17T23:01:27+0700
@@ -577,6 +615,7 @@ id-b3-005,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,498,0.0000095823,1,600,2026
 id-b3-005,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,409,,2,600,2026-08-17T22:03:21+0700
 id-b3-005,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,387,,2,600,2026-08-17T22:10:01+0700
 id-b3-005,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,884,,2,600,2026-08-17T22:05:47+0700
+id-b3-005,seed-2.0-mini,pilihan-ganda,mcq-py1,0,1401,0.0000780000,145,2400,2026-08-20T01:11:15+0700
 id-b3-005,solar-pro4,pilihan-ganda,mcq-py1,1,534,0.0000067500,2,600,2026-08-17T22:17:31+0700
 id-b3-006,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1292,0.0002610000,4,600,2026-08-17T23:07:13+0700
 id-b3-006,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,3216,0.0000056800,2,2400,2026-08-17T23:04:31+0700
@@ -593,6 +632,7 @@ id-b3-006,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,432,0.0000110268,1,600,2026
 id-b3-006,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,511,,2,600,2026-08-17T22:03:23+0700
 id-b3-006,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,476,,2,600,2026-08-17T22:10:03+0700
 id-b3-006,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,804,,2,600,2026-08-17T22:05:49+0700
+id-b3-006,seed-2.0-mini,pilihan-ganda,mcq-py1,0,6209,0.0003244000,755,2400,2026-08-20T01:11:22+0700
 id-b3-006,solar-pro4,pilihan-ganda,mcq-py1,1,687,0.0000074100,2,600,2026-08-17T22:17:33+0700
 id-b3-007,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,1577,0.0003850000,4,600,2026-08-17T23:07:16+0700
 id-b3-007,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,1485,0.0000588000,74,600,2026-08-17T23:01:42+0700
@@ -609,6 +649,7 @@ id-b3-007,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,551,0.0000337000,2,600,2026
 id-b3-007,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,532,,2,600,2026-08-17T22:03:24+0700
 id-b3-007,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,433,,2,600,2026-08-17T22:10:05+0700
 id-b3-007,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,837,,2,600,2026-08-17T22:05:51+0700
+id-b3-007,seed-2.0-mini,pilihan-ganda,mcq-py1,1,3852,0.0002074000,442,2400,2026-08-20T01:11:27+0700
 id-b3-007,solar-pro4,pilihan-ganda,mcq-py1,1,28321,0.0000099300,2,600,2026-08-17T22:18:02+0700
 id-b3-008,claude-haiku-4.5,pilihan-ganda,mcq-py1,1,2214,0.0002290000,4,600,2026-08-17T23:07:19+0700
 id-b3-008,deepseek-v4-flash-0731,pilihan-ganda,mcq-py1,1,1372,0.0000214600,45,600,2026-08-17T23:01:44+0700
@@ -625,4 +666,5 @@ id-b3-008,qwen3-30b-a3b-2507,pilihan-ganda,mcq-py1,1,527,0.0000095823,1,600,2026
 id-b3-008,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,383,,2,600,2026-08-17T22:03:26+0700
 id-b3-008,sahabatai-1-llama3-q4km-local,pilihan-ganda,mcq-py1,1,428,,2,600,2026-08-17T22:10:06+0700
 id-b3-008,sea-lion-v4-5-e2b-q4km-local,pilihan-ganda,mcq-py1,1,768,,2,600,2026-08-17T22:05:53+0700
+id-b3-008,seed-2.0-mini,pilihan-ganda,mcq-py1,1,1740,0.0000951000,188,2400,2026-08-20T01:11:30+0700
 id-b3-008,solar-pro4,pilihan-ganda,mcq-py1,1,1160,0.0000066900,2,600,2026-08-17T22:18:05+0700
