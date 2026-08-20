@@ -35,6 +35,7 @@ mistral-small-3-2501,id-N,terbuka,open-py1,open-py1,1,5ca9dfe11dc2,eda1d1cddc75,
 qwen3-30b-a3b-2507,id-N,terbuka,open-py1,open-py1,1,5ca9dfe11dc2,eda1d1cddc75,29,,49,49,0.5918,11,20,0.55,0.0009517621999999999,10617,928,2043,0,0,0,0,600,2026-08-13T15:31:49+0700,1
 sahabatai-1-llama3-q4km-local,id-N,terbuka,open-py1,open-py1,1,5ca9dfe11dc2,eda1d1cddc75,17,,49,49,0.3469,5,20,0.25,,10752,950,390,0,0,0,0,600,2026-08-14T23:22:46+0700,1
 sea-lion-v4-5-e2b-q4km-local,id-N,terbuka,open-py1,open-py1,1,5ca9dfe11dc2,eda1d1cddc75,23,,49,49,0.4694,12,20,0.6,,8106,687,890,0,0,0,0,600,2026-08-15T16:44:41+0700,1
+seed-2.0-mini,id-N,terbuka,open-py1,open-py1,1,5ca9dfe11dc2,eda1d1cddc75,25,,49,49,0.5102,10,20,0.5,0.0101648,11448,22550,1713,0,0,0,0,4000,2026-08-21T01:46:34+0700,1
 solar-pro4,id-N,terbuka,open-py1,open-py1,1,5ca9dfe11dc2,eda1d1cddc75,19,,49,49,0.3878,9,20,0.45,0.00047739,12501,853,2684,0,0,0,0,600,2026-08-14T09:59:08+0700,1
 deepseek-v4-flash-0731,id-N,terbuka,open-py1,open-py2,1,5ca9dfe11dc2,eda1d1cddc75,35,,49,49,0.7143,15,20,0.75,0.004749491676,10998,14585,4526,0,0,0,0,2400,2026-08-14T08:16:20+0700,1
 gemma-4-31b,id-N,terbuka,open-py1,open-py2,1,5ca9dfe11dc2,eda1d1cddc75,43,,49,49,0.8776,16,20,0.8,0.001555116,10432,688,1373,0,0,0,0,600,2026-08-13T16:01:59+0700,1
@@ -46,6 +47,7 @@ mistral-small-3-2501,id-N,terbuka,open-py1,open-py2,1,5ca9dfe11dc2,eda1d1cddc75,
 qwen3-30b-a3b-2507,id-N,terbuka,open-py1,open-py2,1,5ca9dfe11dc2,eda1d1cddc75,30,,49,49,0.6122,13,20,0.65,0.0011570861,12963,930,1656,0,0,0,0,600,2026-08-13T16:09:12+0700,1
 sahabatai-1-llama3-q4km-local,id-N,terbuka,open-py1,open-py2,1,5ca9dfe11dc2,eda1d1cddc75,29,,49,49,0.5918,11,20,0.55,,13098,939,415,0,0,0,0,600,2026-08-14T23:24:38+0700,1
 sea-lion-v4-5-e2b-q4km-local,id-N,terbuka,open-py1,open-py2,1,5ca9dfe11dc2,eda1d1cddc75,36,,49,49,0.7347,15,20,0.75,,9900,684,863,0,0,0,0,600,2026-08-15T16:47:06+0700,1
+seed-2.0-mini,id-N,terbuka,open-py1,open-py2,1,5ca9dfe11dc2,eda1d1cddc75,35,,49,49,0.7143,14,20,0.7,0.008286,13380,17370,1213,0,0,0,0,4000,2026-08-21T01:57:34+0700,1
 solar-pro4,id-N,terbuka,open-py1,open-py2,1,5ca9dfe11dc2,eda1d1cddc75,28,,49,49,0.5714,13,20,0.65,0.00053694,14502,849,5339,0,0,0,0,600,2026-08-14T10:20:51+0700,1
 deepseek-v4-flash-0731,id-N,terbuka,open-py1,open-py3,1,5ca9dfe11dc2,eda1d1cddc75,37,,49,49,0.7551,14,20,0.7,0.0048981046,10240,14955,4094,0,0,0,0,2400,2026-08-14T08:17:17+0700,1
 gemma-4-31b,id-N,terbuka,open-py1,open-py3,1,5ca9dfe11dc2,eda1d1cddc75,43,,49,49,0.8776,17,20,0.85,0.00162401,9761,901,952,0,0,0,0,600,2026-08-13T18:08:11+0700,1
@@ -57,6 +59,7 @@ mistral-small-3-2501,id-N,terbuka,open-py1,open-py3,1,5ca9dfe11dc2,eda1d1cddc75,
 qwen3-30b-a3b-2507,id-N,terbuka,open-py1,open-py3,1,5ca9dfe11dc2,eda1d1cddc75,31,,49,49,0.6327,15,20,0.75,0.00127455585,12342,916,1636,0,0,0,0,600,2026-08-13T18:15:21+0700,1
 sahabatai-1-llama3-q4km-local,id-N,terbuka,open-py1,open-py3,1,5ca9dfe11dc2,eda1d1cddc75,20,,49,49,0.4082,9,20,0.45,,12477,942,418,0,0,0,0,600,2026-08-14T23:26:29+0700,1
 sea-lion-v4-5-e2b-q4km-local,id-N,terbuka,open-py1,open-py3,1,5ca9dfe11dc2,eda1d1cddc75,35,,49,49,0.7143,15,20,0.75,,9210,687,930,0,0,0,0,600,2026-08-15T16:49:32+0700,1
+seed-2.0-mini,id-N,terbuka,open-py1,open-py3,1,5ca9dfe11dc2,eda1d1cddc75,35,,49,49,0.7143,13,20,0.65,0.0089289,12621,19167,1622,0,0,0,0,4000,2026-08-21T02:12:29+0700,1
 solar-pro4,id-N,terbuka,open-py1,open-py3,1,5ca9dfe11dc2,eda1d1cddc75,30,,49,49,0.6122,13,20,0.65,0.00051756,13812,860,2275,0,0,0,0,600,2026-08-14T10:38:05+0700,1
 claude-haiku-4.5,id-W,terbuka,open-py1,open-py1,1,27af2c184856,82bbf3cc2f8a,20,,38,38,0.5263,12,16,0.75,0.016262,14517,349,1266,0,0,0,0,600,2026-08-14T06:42:10+0700,1
 deepseek-v4-flash-0731,id-W,terbuka,open-py1,open-py1,1,27af2c184856,82bbf3cc2f8a,23,,38,38,0.6053,12,16,0.75,0.003926833784,11085,13176,5016,0,0,0,0,9600,2026-08-14T03:09:51+0700,1
