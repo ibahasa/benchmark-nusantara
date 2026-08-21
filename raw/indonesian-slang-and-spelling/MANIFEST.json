@@ -1,12 +1,12 @@
 {
   "slug": "indonesian-slang-and-spelling",
   "title": "Indonesian slang comprehension and spell-check restraint: AI models on slang items and human-reviewed spelling suggestions, including one 8B model quantised to 4 bits and run on local hardware. Per-item verdicts for the public slice, so the per-model summary can be recomputed rather than trusted. Cost is blank rather than zero for the local row, and its latency is not comparable. Items and key withheld, figures only. See PROVENANCE",
-  "published_at": "2026-08-19T19:29:19Z",
-  "source_commit": "52cfd635",
-  "fingerprint": "d019ef7a4e03b6f0",
+  "published_at": "2026-08-21T10:20:15Z",
+  "source_commit": "98663a43",
+  "fingerprint": "0acf0a8b0a26cc7f",
   "license": "CC BY 4.0",
   "files": [
-    { "file": "export-id-B-ringkas-model.csv", "source": "export/id-B/ringkas-model.csv", "bytes": 4822, "sha256": "96d42b3ab0b83d0870b841061369db4b5b7e713f831fca28487a9238b8080950" },
+    { "file": "export-id-B-ringkas-model.csv", "source": "export/id-B/ringkas-model.csv", "bytes": 4822, "sha256": "a8540713f3d5d06ffa7a95c40c36b3714c1817825756396cfc71167a63d84e4a" },
     { "file": "export-id-B-per-item.csv", "source": "export/id-B/per-item.csv", "bytes": 66637, "sha256": "14ad8ee13c0153d2695980dc7d1546f4c5f914c5b68befa07a40228038538af6" },
     { "file": "export-id-B-PROVENANCE.md", "source": "export/id-B/PROVENANCE.md", "bytes": 8841, "sha256": "cbe8937b4d9ae6c7143479ea855f698145e8955cfce0b815b1603bd147b349a4" },
     { "file": "export-id-W-ringkas-model.csv", "source": "export/id-W/ringkas-model.csv", "bytes": 2513, "sha256": "72391953b1376540f803f6ce5c996dc1c955480e46fe07790e488542269ae1ed" },
