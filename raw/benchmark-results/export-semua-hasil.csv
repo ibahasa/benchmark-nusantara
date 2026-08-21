@@ -129,6 +129,7 @@ nemotron-3.5-lightning,jv-B,arti-kata,kunci-alias-v1,arti-kata-v1,1,a7ba9fa24e64
 qwen3-30b-a3b-2507,jv-B,arti-kata,kunci-alias-v1,arti-kata-v1,1,a7ba9fa24e64,873b6f168502,51,,135,135,0.3778,23,64,0.3594,0.0014614437,7669,3100,816,0,0,0,0,600,2026-08-16T19:57:21+0700,1
 sahabatai-1-llama3-q4km-local,jv-B,arti-kata,kunci-alias-v1,arti-kata-v1,1,a7ba9fa24e64,873b6f168502,61,,135,135,0.4519,27,64,0.4219,,8062,3281,528,0,0,0,0,600,2026-08-16T22:08:45+0700,1
 sea-lion-v4-5-e2b-q4km-local,jv-B,arti-kata,kunci-alias-v1,arti-kata-v1,1,a7ba9fa24e64,873b6f168502,60,,135,135,0.4444,27,64,0.4219,,6228,2594,734,0,0,0,0,600,2026-08-16T22:05:49+0700,1
+seed-2.0-mini,jv-B,arti-kata,kunci-alias-v1,arti-kata-v1,1,a7ba9fa24e64,873b6f168502,29,,135,135,0.2148,9,64,0.1406,0.0195688,14808,45220,1969,0,0,0,0,6000,2026-08-21T18:00:24+0700,1
 solar-pro4,jv-B,arti-kata,kunci-alias-v1,arti-kata-v1,1,a7ba9fa24e64,873b6f168502,52,,135,135,0.3852,24,64,0.375,0.00102189,15811,4563,1142,0,0,0,0,600,2026-08-16T20:06:51+0700,1
 deepseek-v4-flash-0731,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,22,,43,43,0.5116,0,0,,0.002502382992,,,4670,0,0,0,0,,2026-08-14T18:27:26+07:00,0
 gemini-3.5-flash,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,40,,43,43,0.9302,0,0,,0.127005,,,3418,0,0,0,0,,2026-08-14T18:27:26+07:00,0
