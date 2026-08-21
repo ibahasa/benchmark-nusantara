@@ -91,10 +91,11 @@ Pada 38 soal pilihan ganda, satu item bernilai 2,63 poin. Selisih di bawah
 kira-kira dua item sebaiknya dianggap belum terpisah.
 
 **Vonis atas jawaban model dibuat satu orang saja**, tanpa tinjauan independen.
-Rubrik berbobot dan rincian tiap kriteria terbit bersama angkanya, jadi tiap
-vonis dapat dibantah pada kriteria tertentu, bukan sekadar ditolak
-mentah-mentah. Tetapi kesepakatan antar-penilai belum pernah kami ukur, dan itu
-lubang kredibilitas terbesar pada kolom isian.
+Rubrik berbobot dan rincian kriterianya DITAHAN bersama soal dan kunci, sebab
+tiap kriteria menyebut bentuk yang dituntut, dan menerbitkannya sama saja
+membocorkan kunci. Yang terbit adalah vonis per item, angka saja. Kesepakatan
+antar-penilai juga belum pernah kami ukur, dan itu lubang kredibilitas terbesar
+pada kolom isian.
 
 **Ragam bahasa Jawanya tunggal, Yogya-Solo.** Penutur Jawa Timuran atau
 Banyumasan dapat menilai sebagian item secara berbeda.
