@@ -128,7 +128,8 @@ menerbitkan soalnya berarti model berikutnya melatihnya.
 | `tugas` | `pilihan-ganda` untuk pengenalan, `terbuka` untuk produksi. JANGAN dijumlahkan |
 | `penilai` | mesin untuk pilihan ganda, rubrik penutur untuk isian |
 | `rumusan` | templat prompt yang dipakai |
-| `benar` / `n_dinilai` / `n_item` | jawaban benar, yang dinilai, yang ditanyakan. Ketiganya dapat berbeda |
+| `benar` / `n_dinilai` / `n_item` / `skor` | jawaban benar, yang dinilai, yang ditanyakan, dan rasionya, pada **IRISAN PUBLIK saja**. Ketiganya dapat berbeda |
+| `benar_tertahan` / `n_dinilai_tertahan` / `skor_tertahan` | angka yang sama untuk irisan TERTAHAN, yang soal dan kuncinya tidak diterbitkan |
 | `benar_bobot` | jumlah benar PERSIS saat penilaiannya berbobot pecahan. Kosong berarti cacahan bulat |
 | `parsial` | model tidak menjawab seluruh soal |
 | `tanpa_skor` | belum satu pun jawabannya dinilai |
@@ -137,6 +138,13 @@ menerbitkan soalnya berarti model berikutnya melatihnya.
 | `biaya_usd` | kosong untuk baris berjalur lokal, dan itu BUKAN nol |
 | `latensi_median_ms` | untuk baris lokal ia mengukur mesin kami, tidak sebanding |
 | `tokens_in` / `tokens_out` | kosong berarti TIDAK TERCATAT, bukan nol |
+
+**`benar` sendirian TIDAK pernah berarti "benar dari seluruh soal".** Skor
+seluruh set adalah `benar` ditambah `benar_tertahan`, dan penyebutnya
+`n_dinilai` ditambah `n_dinilai_tertahan`. Membaca `benar` sebagai total
+menghasilkan angka yang terlalu rendah untuk model yang kuat, dan kekeliruan
+itu pernah terbit di artikel kami sendiri pada 2026-08-24 lalu dikoreksi dua
+hari kemudian.
 | `versi_soal` / `versi_kunci` | sidik bentuk dataset saat run. Skor lintas versi kunci berbeda tidak sebanding |
 
 ## Kolom `per-item.csv`

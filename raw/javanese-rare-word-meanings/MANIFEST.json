@@ -1,15 +1,15 @@
 {
   "slug": "javanese-rare-word-meanings",
   "title": "Javanese rare word meanings: four models asked the meaning of 43 Javanese lemmas absent from NusaX, NusaWrites and Javanese Wiktionary, scored against speaker-reviewed multi-key answer sets. SINGLE USE, see PROVENANCE",
-  "published_at": "2026-08-16T21:07:41Z",
-  "source_commit": "eb438bae",
-  "fingerprint": "34faff7d7494a878",
+  "published_at": "2026-08-25T22:47:10Z",
+  "source_commit": "b6a4b455",
+  "fingerprint": "d6ba759d2c58a49d",
   "license": "CC BY 4.0",
   "files": [
     { "file": "export-jv-arti-kata-hasil-model.csv", "source": "export/jv-arti-kata/hasil-model.csv", "bytes": 27028, "sha256": "8c426f7dcaa04f3d69ad1ec402f69b298e467f85f4465259d10d08edb2fa64b4" },
     { "file": "export-jv-arti-kata-ringkas-model.csv", "source": "export/jv-arti-kata/ringkas-model.csv", "bytes": 2059, "sha256": "d28db0181f38207d87ab507549750abbf1dc8c2dd752a2a55749a0dab3e63825" },
     { "file": "export-jv-arti-kata-kunci.csv", "source": "export/jv-arti-kata/kunci.csv", "bytes": 12060, "sha256": "7aa11f095ebbcdd48bd5a9d5d4d32485853e0659feb79f8ef38c5a07311f9cfc" },
     { "file": "export-jv-arti-kata-CANARY.txt", "source": "export/jv-arti-kata/CANARY.txt", "bytes": 2356, "sha256": "208dfb646a2976b77df8dcd2914ad0948d1d1e59bff1f923ba4e85aa7a260737" },
-    { "file": "export-jv-arti-kata-PROVENANCE.md", "source": "export/jv-arti-kata/PROVENANCE.md", "bytes": 13757, "sha256": "fb8222f88bd5d1f420e2b54ebb07802c2fa55dec3f824e3ed4334776fb9481f5" }
+    { "file": "export-jv-arti-kata-PROVENANCE.md", "source": "export/jv-arti-kata/PROVENANCE.md", "bytes": 14324, "sha256": "caf3142670823697be758ad92899e22ec3754c9ad081419ccc41d3fa508109a1" }
   ]
 }

@@ -83,13 +83,21 @@ model dengan berkas ini.
 
 | Kolom | Arti |
 |---|---|
-| `benar` / `n_dinilai` / `n_item` | jawaban benar, yang dinilai, yang ditanyakan. Ketiganya dapat berbeda |
+| `benar` / `n_dinilai` / `n_item` / `skor` | jawaban benar, yang dinilai, yang ditanyakan, dan rasionya, pada **IRISAN PUBLIK saja**. Ketiganya dapat berbeda |
+| `benar_tertahan` / `n_dinilai_tertahan` / `skor_tertahan` | angka yang sama untuk irisan TERTAHAN, yang soal dan kuncinya tidak diterbitkan |
 | `benar_bobot` | jumlah benar PERSIS saat penilaiannya berbobot pecahan; kosong berarti cacahan bulat |
 | `parsial` | model tidak menjawab seluruh soal |
 | `tanpa_skor` | belum satu pun jawabannya dinilai |
 | `menunggu_vonis` | menjawab semuanya, sebagian jawabannya belum divonis penutur |
 | `beku` | soalnya berubah sesudah run ini, skor tersimpan yang dipakai |
 | `tokens_in` / `tokens_out` | kosong berarti TIDAK TERCATAT, bukan nol |
+
+**`benar` sendirian TIDAK pernah berarti "benar dari seluruh soal".** Skor
+seluruh set adalah `benar` ditambah `benar_tertahan`, dan penyebutnya
+`n_dinilai` ditambah `n_dinilai_tertahan`. Membaca `benar` sebagai total
+menghasilkan angka yang terlalu rendah untuk model yang kuat, dan kekeliruan
+itu pernah terbit di artikel kami sendiri pada 2026-08-24 lalu dikoreksi dua
+hari kemudian.
 
 ## Kolom `per-item.csv`
 

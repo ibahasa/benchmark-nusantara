@@ -214,6 +214,17 @@ Daya pisah kolom semantik terhadap vonis kunci, atas seluruh 172 baris: **0,937*
 Terhadap vonis penutur: 0,73 sampai 0,94 bergantung model. Cukup untuk mengurutkan
 antrean baca, tidak cukup untuk memvonis.
 
+## Kolom irisan publik dan irisan tertahan di `ringkas-model.csv`
+
+`benar`, `n_dinilai`, dan `skor` menghitung **irisan publik saja**. Skor
+irisan tertahan, yang lemanya tidak pernah kami terbitkan, ada di kolom
+terpisah `benar_tertahan`, `n_dinilai_tertahan`, dan `skor_tertahan`.
+
+**`benar` sendirian TIDAK berarti "benar dari seluruh lema".** Skor seluruh
+set adalah jumlah kedua kolom itu. Membacanya sebagai total menghasilkan
+angka yang terlalu rendah, dan kekeliruan itu pernah terbit di artikel kami
+sendiri pada 2026-08-24 lalu dikoreksi dua hari kemudian.
+
 ## Kolom `kunci.csv`
 
 Satu baris per lema. 43 baris.
