@@ -1,0 +1,5 @@
+set,tugas,model,model_official,n_item,n_dinilai,benar,benar_tertahan,skor_publik,skor_tertahan,biaya_usd,cap,latensi_median_ms,tokens_in,tokens_out,templat,penilai,versi_soal,versi_kunci,waktu,lengkap,parsial,lajur
+id-B,pilihan-ganda,glm-5.3,z-ai/glm-5.3,60,60,57,16,0.9762,0.8889,0.01665072,2400,2718,12628,728,mcq-py1,mcq-py1,d3e8c01bc554,4e94e1cb7f25,2026-08-24T08:51:43+0700,,False,uji-coba
+id-B,pilihan-ganda,hy-mt2-1.8b,tencent/hy-mt2-1.8b,60,60,34,12,0.5238,0.6667,0.000550516,2400,469,12029,120,mcq-py1,mcq-py1,d3e8c01bc554,4e94e1cb7f25,2026-08-24T08:53:55+0700,,False,uji-coba
+id-B,pilihan-ganda,lfm-2.5-2.6b-free,liquid/lfm-2.5-2.6b:free,60,60,32,10,0.5238,0.5556,0,9600,2456,11250,42946,mcq-py1,mcq-py1,d3e8c01bc554,4e94e1cb7f25,2026-08-24T19:46:12+0700,,False,uji-coba
+id-B,pilihan-ganda,ox-alpha,stealth/ox-alpha,60,60,49,13,0.8571,0.7222,0,2400,13218,17128,679,mcq-py1,mcq-py1,d3e8c01bc554,4e94e1cb7f25,2026-08-24T09:06:02+0700,,False,uji-coba
