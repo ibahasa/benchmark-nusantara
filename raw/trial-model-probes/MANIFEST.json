@@ -1,16 +1,17 @@
 {
   "slug": "trial-model-probes",
   "title": "One-off probes of models OUTSIDE the official panel (stealth, preview, procurement trials), measured on the same sets and scoring in a quarantined trial lane. NEVER part of the leaderboard: stealth identities are short-lived (model_official records the id actually served), the native-speaker grader differs, and series keys stay frozen. Dated files accumulate per probe; agreement files carry verdict flags for the public slice only. See PROVENANCE",
-  "published_at": "2026-08-25T18:21:03Z",
-  "source_commit": "bd7b562b",
-  "fingerprint": "0f6a6162f86ae9b9",
+  "published_at": "2026-08-29T16:51:15Z",
+  "source_commit": "48593244",
+  "fingerprint": "cbf309b00413f393",
   "license": "CC BY 4.0",
   "files": [
     { "file": "export-lajur-uji-2026-08-24-id-B-kecocokan.csv", "source": "export/lajur-uji/2026-08-24-id-B-kecocokan.csv", "bytes": 6395, "sha256": "57cb154a12e26fc569ac1e5d5f0bad6cac1a1a307edf9c30de55955ccdbd5089" },
     { "file": "export-lajur-uji-2026-08-24-id-B-ringkas.csv", "source": "export/lajur-uji/2026-08-24-id-B-ringkas.csv", "bytes": 683, "sha256": "dee5553542d4e2b7472ac71cbea9249d3c83eaa95154bd8469ba2b1ead22d24b" },
     { "file": "export-lajur-uji-2026-08-24-jv-A-kecocokan.csv", "source": "export/lajur-uji/2026-08-24-jv-A-kecocokan.csv", "bytes": 4130, "sha256": "0b5695228738c04b09d02a5f07e6aee0b90a3599110f9fb964e8da3b8dc81dfc" },
     { "file": "export-lajur-uji-2026-08-24-jv-A-ringkas.csv", "source": "export/lajur-uji/2026-08-24-jv-A-ringkas.csv", "bytes": 1160, "sha256": "8d03201020a4b4eb306b4ce6def0d4fc992714cec51a235ea9ec9245d1571963" },
-    { "file": "export-lajur-uji-2026-08-26-id-B-ringkas.csv", "source": "export/lajur-uji/2026-08-26-id-B-ringkas.csv", "bytes": 963, "sha256": "96bc9a54153acae5d6ddb6907893788fd703755a4a25dffa5f7e6d40e5581b9d" },
-    { "file": "export-lajur-uji-PROVENANCE.md", "source": "export/lajur-uji/PROVENANCE.md", "bytes": 1284, "sha256": "657bbf85e1c9cf40542aead040a3555fd9c5f29851d4f146851b9f600fcaa1e5" }
+    { "file": "export-lajur-uji-2026-08-26-id-B-kecocokan.csv", "source": "export/lajur-uji/2026-08-26-id-B-kecocokan.csv", "bytes": 10396, "sha256": "8760f0a0c5bf971ee8dfecd49221964bc155af648b3792181c0e1572613e4400" },
+    { "file": "export-lajur-uji-2026-08-26-id-B-ringkas.csv", "source": "export/lajur-uji/2026-08-26-id-B-ringkas.csv", "bytes": 1754, "sha256": "4b0bef491417168fb428a692aac3332b3ebbcea63f3cc2b0546beeaae94288dd" },
+    { "file": "export-lajur-uji-PROVENANCE.md", "source": "export/lajur-uji/PROVENANCE.md", "bytes": 1748, "sha256": "958f25056b1539ea9b62911383e2020f03af56a04b63f925b71ae926e3402a0d" }
   ]
 }

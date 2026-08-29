@@ -18,6 +18,13 @@ Batas yang membuatnya BUKAN bagian leaderboard, dan tidak akan pernah:
    tetap sebagai catatan bertanggal.
 4. Berkas kecocokan memuat bendera per item untuk irisan publik saja: tanpa
    huruf jawaban, tanpa teks, dan item tertahan tidak pernah ikut.
+5. **Baris `parsial` = True berarti run TERPUTUS, dan skornya tidak
+   sebanding.** Model gratis kerap ditolak di tengah jalan karena kuota
+   bersamanya penuh, jadi ada baris yang hanya menjawab beberapa soal.
+   Contoh nyata: satu model menjawab 2 soal dan keduanya benar, sehingga
+   `skor_publik` terbaca 1,0. Selalu baca `n_dinilai` sebelum membandingkan
+   skor, dan buang baris `parsial` kecuali `n_dinilai` sudah mendekati
+   jumlah soal irisan publiknya.
 
 Tiap probe menambah berkas bertanggal baru; tidak ada yang ditimpa.
 Angka artikel yang menyitir folder ini wajib dihitung ulang dari berkasnya.

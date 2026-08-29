@@ -1,5 +1,9 @@
 set,tugas,model,model_official,n_item,n_dinilai,benar,benar_tertahan,skor_publik,skor_tertahan,biaya_usd,cap,latensi_median_ms,tokens_in,tokens_out,templat,penilai,versi_soal,versi_kunci,waktu,lengkap,parsial,lajur
+id-B,pilihan-ganda,gemma-4-26b-a4b-free,google/gemma-4-26b-a4b-it:free,60,2,2,0,1.0,,0,2400,8516,298,698,mcq-py1,mcq-py1,d3e8c01bc554,4e94e1cb7f25,2026-08-26T01:44:12+0700,,True,uji-coba
 id-B,pilihan-ganda,glm-5.3,z-ai/glm-5.3,60,60,57,16,0.9762,0.8889,0.01665072,2400,2718,12628,728,mcq-py1,mcq-py1,d3e8c01bc554,4e94e1cb7f25,2026-08-24T08:51:43+0700,,False,uji-coba
 id-B,pilihan-ganda,hy-mt2-1.8b,tencent/hy-mt2-1.8b,60,60,34,12,0.5238,0.6667,0.000550516,2400,469,12029,120,mcq-py1,mcq-py1,d3e8c01bc554,4e94e1cb7f25,2026-08-24T08:53:55+0700,,False,uji-coba
+id-B,pilihan-ganda,laguna-s-2.1-free,poolside/laguna-s-2.1:free,60,41,32,0,0.7805,,0,2400,2920,9700,9764,mcq-py1,mcq-py1,d3e8c01bc554,4e94e1cb7f25,2026-08-26T01:55:12+0700,,True,uji-coba
 id-B,pilihan-ganda,lfm-2.5-2.6b-free,liquid/lfm-2.5-2.6b:free,60,60,32,10,0.5238,0.5556,0,9600,2456,11250,42946,mcq-py1,mcq-py1,d3e8c01bc554,4e94e1cb7f25,2026-08-24T19:46:12+0700,,False,uji-coba
+id-B,pilihan-ganda,nemotron-3-super-120b-free,nvidia/nemotron-3-super-120b-a12b:free,60,42,34,0,0.8095,,0,2400,1428,8214,5664,mcq-py1,mcq-py1,d3e8c01bc554,4e94e1cb7f25,2026-08-26T04:51:02+0700,,True,uji-coba
+id-B,pilihan-ganda,nemotron-3.5-lightning-free,nvidia/nemotron-3.5-lightning:free,60,42,26,0,0.619,,0,2400,3135,8214,10851,mcq-py1,mcq-py1,d3e8c01bc554,4e94e1cb7f25,2026-08-26T05:01:02+0700,,True,uji-coba
 id-B,pilihan-ganda,ox-alpha,stealth/ox-alpha,60,60,49,13,0.8571,0.7222,0,2400,13218,17128,679,mcq-py1,mcq-py1,d3e8c01bc554,4e94e1cb7f25,2026-08-24T09:06:02+0700,,False,uji-coba
