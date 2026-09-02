@@ -1,16 +1,16 @@
 {
   "slug": "indonesian-slang-and-spelling",
   "title": "Indonesian slang comprehension and spell-check restraint: AI models on slang items and human-reviewed spelling suggestions, including one 8B model quantised to 4 bits and run on local hardware. Per-item verdicts for the public slice, so the per-model summary can be recomputed rather than trusted. Cost is blank rather than zero for the local row, and its latency is not comparable. Items and key withheld, figures only. See PROVENANCE",
-  "published_at": "2026-09-01T18:40:13Z",
+  "published_at": "2026-09-02T21:06:53Z",
   "source_commit": "eda4ff67",
-  "fingerprint": "66a54383eef27a20",
+  "fingerprint": "25806e73da2fe2f9",
   "license": "CC BY 4.0",
   "files": [
     { "file": "export-id-B-ringkas-model.csv", "source": "export/id-B/ringkas-model.csv", "bytes": 5000, "sha256": "de45ca7bcef3c4791eec300a76e5a2a31857598ef558ca8ffd8ceaacd3665fae" },
     { "file": "export-id-B-per-item.csv", "source": "export/id-B/per-item.csv", "bytes": 62425, "sha256": "166c124e63bc324094be78c5738f792965cff3bd14562d4bd28b901ce6b8376f" },
     { "file": "export-id-B-PROVENANCE.md", "source": "export/id-B/PROVENANCE.md", "bytes": 9425, "sha256": "caa9a161db3598261a41abf959bc28a451e1798f2b62b5761d22a978cb6062e6" },
-    { "file": "export-id-W-ringkas-model.csv", "source": "export/id-W/ringkas-model.csv", "bytes": 2513, "sha256": "72391953b1376540f803f6ce5c996dc1c955480e46fe07790e488542269ae1ed" },
-    { "file": "export-id-W-per-item.csv", "source": "export/id-W/per-item.csv", "bytes": 46599, "sha256": "6443d90e18fc6a0a396221f3462d71cf1f5cfe57ecb9ac4aff827e17b7df1247" },
+    { "file": "export-id-W-ringkas-model.csv", "source": "export/id-W/ringkas-model.csv", "bytes": 2688, "sha256": "81b7344a22e548ee23a231312d0c41eb8d129f884e7c819988b7003496bddbea" },
+    { "file": "export-id-W-per-item.csv", "source": "export/id-W/per-item.csv", "bytes": 50235, "sha256": "d230b4a29eb9ca852603579d5b5e05b706dbea7c7c0a2d627f86cd9eaa244410" },
     { "file": "export-id-W-PROVENANCE.md", "source": "export/id-W/PROVENANCE.md", "bytes": 6881, "sha256": "81257426ba8072b7505d401205aa47bc00ea9d8f0433d37ecfc293b9e439ec12" }
   ]
 }

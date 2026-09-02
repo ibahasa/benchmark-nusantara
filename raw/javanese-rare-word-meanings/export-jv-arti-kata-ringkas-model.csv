@@ -2,6 +2,7 @@ model,set,tugas,penilai,rumusan,ulangan,versi_soal,versi_kunci,benar,benar_bobot
 deepseek-v4-flash-0731,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,22,,43,43,0.5116,0,0,,0.0025023830,,,4670,0,0,0,0,,2026-08-14T18:27:26+07:00,0
 gemini-3.5-flash,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,40,,43,43,0.9302,0,0,,0.1270050000,,,3418,0,0,0,0,,2026-08-14T18:27:26+07:00,0
 gemma-4-31b,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,26,,43,43,0.6047,0,0,,0.0005048000,,,1913,0,0,0,0,,2026-08-12T20:46:56+0700,1
+glm-5.3-flash,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,11,,43,43,0.2558,0,0,,0.0064942100,1847,18375,9488,0,0,0,0,6000,2026-09-02T23:30:13+0700,1
 gpt-5.6-luna,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,35,,43,43,0.814,0,0,,0.0039585000,,,3708,0,0,0,0,,2026-08-14T18:27:26+07:00,0
 llama-3-1-8b-q4km-local,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,1,,43,43,0.0233,0,0,,,1764,744,543,0,0,0,0,600,2026-08-15T16:36:04+0700,1
 mistral-small-3-2501,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,1,,43,43,0.0233,0,0,,0.0004749600,,,1403,0,0,0,0,,2026-08-14T18:27:26+07:00,0
