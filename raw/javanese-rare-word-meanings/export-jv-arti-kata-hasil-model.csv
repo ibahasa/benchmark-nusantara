@@ -257,6 +257,49 @@ gpt-5.6-luna,Sirtu,“Sirtu” berarti campuran pasir dan batu (kerikil).,1,0.61
 gpt-5.6-luna,sompret,“Sompret” adalah umpatan untuk menyebut orang yang menyebalkan atau bodoh.,1,0.6856,0.999,0.7166,3,1,4148,0.0001134,30,184
 gpt-5.6-luna,Speleng,“Speleng” berarti aneh atau tidak waras.,0,0.1185,0.4461,0.1638,4,0,7037,0.0003036,30,501
 gpt-5.6-luna,Urugan,Urugan berarti timbunan atau bahan yang digunakan untuk menimbun tanah.,1,0.7447,0.9999,0.5886,3,1,2436,1.5e-05,30,20
+gpt-6-astra,Ageman,Ageman berarti pakaian atau busana.,1,,,,,,3233,0.0017,30,28
+gpt-6-astra,Anduweni,Anduweni berarti memiliki atau mempunyai.,1,,,,,,2689,0.00186,31,31
+gpt-6-astra,Badogan,“Badogan” berarti makanan dalam bahasa Jawa kasar.,1,,,,,,4013,0.005,30,94
+gpt-6-astra,Biyayakan,"Biyayakan berarti berkeliaran ke sana kemari, biasanya untuk mencari makanan.",0,,,,,,5990,0.00761,31,146
+gpt-6-astra,Biyuh,"“Biyuh” berarti “aduh” atau “ya ampun”, sebagai ungkapan terkejut atau heran.",1,,,,,,3875,0.00476,31,89
+gpt-6-astra,Bladak,Bladak berarti papan kayu yang lebar.,0,,,,,,4307,0.00341,31,62
+gpt-6-astra,Coeg,"“Coeg” adalah variasi slang “cuk/cok”, yang bisa berarti “sialan” atau menjadi sapaan akrab seperti “bro”, tergantung konteks.",0,,,,,,7825,0.0114,30,222
+gpt-6-astra,dadi'ne,“Dadi'ne” berarti “jadinya” dalam bahasa Indonesia.,1,,,,,,4323,0.00341,31,62
+gpt-6-astra,Dangak,“Dangak” berarti mendongak atau menengadah.,1,,,,,,2481,0.00215,30,37
+gpt-6-astra,Gakpati,“Gakpati” berarti “tidak terlalu” atau “tidak begitu”.,1,,,,,,2797,0.00262,32,46
+gpt-6-astra,Geluduk,Geluduk berarti guntur atau suara gemuruh di langit.,1,,,,,,3025,0.00235,30,41
+gpt-6-astra,Gendakan,Gendakan berarti selingkuhan atau pasangan dalam hubungan gelap.,1,,,,,,3941,0.00386,31,71
+gpt-6-astra,Gondes,"“Gondes” biasanya singkatan dari “gondrong ndeso”, yaitu sebutan slang untuk laki-laki berambut gondrong yang dianggap kampungan.",1,,,,,,6179,0.00765,30,147
+gpt-6-astra,Gremet,Gremet berarti merayap atau bergerak perlahan-lahan.,1,,,,,,2884,0.00376,31,69
+gpt-6-astra,Kacariyos,Kacariyos berarti “diceritakan” atau “tersebutlah” dalam bahasa Indonesia.,1,,,,,,3392,0.00407,32,75
+gpt-6-astra,Kaleh,"“Kaleh” berarti “dua” atau “dengan”, tergantung konteks kalimatnya.",1,,,,,,5561,0.00595,30,113
+gpt-6-astra,Kemecer,Kemecer berarti tergiur ingin makan sesuatu sampai meneteskan air liur (ngiler).,1,,,,,,4917,0.00455,30,85
+gpt-6-astra,Kesawat,“Kesawat” berarti terkena lemparan.,1,,,,,,5324,0.0076,30,146
+gpt-6-astra,Kesuen,“Kesuen” berarti “terlalu lama” atau “kelamaan”.,1,,,,,,2258,0.00215,30,37
+gpt-6-astra,klotekan,Klotekan berarti memukul-mukul benda keras hingga menghasilkan bunyi berirama.,0,,,,,,5995,0.00666,31,127
+gpt-6-astra,Kreak,Kreak berarti preman atau berandalan.,1,,,,,,3284,0.00385,30,71
+gpt-6-astra,Kupret,"Kupret berarti kelelawar kecil (kampret), tetapi juga digunakan sebagai umpatan seperti “sialan”.",1,,,,,,7093,0.0084,30,162
+gpt-6-astra,Leksanani,“Leksanani” berarti “laksanakan” atau “jalankan”.,1,,,,,,3586,0.00367,32,67
+gpt-6-astra,Lidis,Lidis berarti kurus kering.,0,,,,,,5123,0.0055,30,104
+gpt-6-astra,Manahipun,Manahipun berarti “hatinya” atau “hati beliau”.,1,,,,,,3703,0.00461,31,86
+gpt-6-astra,Mleding,“Mleding” berarti melengkung atau bengkok.,0,,,,,,5284,0.00605,30,115
+gpt-6-astra,Ndaut,Ndaut berarti mencabut bibit padi dari persemaian untuk dipindahkan ke sawah.,1,,,,,,4981,0.0038,30,70
+gpt-6-astra,Ndlogok,"“Ndlogok” berarti bodoh atau dungu, biasanya digunakan sebagai umpatan kasar.",1,,,,,,4527,0.00571,31,108
+gpt-6-astra,ndusel,"Ndusel berarti merapat atau menggesekkan tubuh dengan manja kepada orang lain, seperti saat ingin dipeluk.",1,,,,,,4939,0.0033,30,60
+gpt-6-astra,Ngeliwet,Ngeliwet berarti menanak atau memasak nasi.,1,,,,,,5448,0.00571,31,108
+gpt-6-astra,Ngleketer,"Ngleketer berarti gemetar atau menggigil, biasanya karena kedinginan atau ketakutan.",0,,,,,,4244,0.00402,32,74
+gpt-6-astra,Ngriki,“Ngriki” berarti “di sini” dalam bahasa Indonesia.,1,,,,,,2655,0.00211,31,36
+gpt-6-astra,Pakunjaran,Pakunjaran berarti penjara atau tempat tahanan.,1,,,,,,3548,0.00207,32,35
+gpt-6-astra,Pangrasan,“Pangrasan” berarti gunjingan atau pembicaraan tentang orang lain.,0,,,,,,7007,0.00936,31,181
+gpt-6-astra,Pecetan,“Pecetan” berarti pencetan atau tekanan dengan jari.,0,,,,,,8521,0.01095,30,213
+gpt-6-astra,Pimen,“Pimen” dalam bahasa Indonesia berarti “bagaimana”.,1,,,,,,5110,0.0061,30,116
+gpt-6-astra,Sasmito,"“Sasmito” dalam bahasa Indonesia berarti isyarat, pertanda, atau firasat.",1,,,,,,3144,0.00276,31,49
+gpt-6-astra,Sedelat,“Sedelat” berarti “sebentar” atau “sejenak”.,1,,,,,,3492,0.00306,31,55
+gpt-6-astra,Semribit,Semribit berarti angin yang bertiup sepoi-sepoi.,1,,,,,,2275,0.00206,31,35
+gpt-6-astra,Sirtu,Sirtu berarti campuran pasir dan batu.,1,,,,,,7110,0.00846,31,163
+gpt-6-astra,sompret,“Sompret” biasanya digunakan sebagai umpatan yang berarti “sialan” atau “keparat”.,1,,,,,,5112,0.0065,30,124
+gpt-6-astra,Speleng,“Speleng” berarti tepat atau persis.,0,,,,,,12982,0.01585,30,311
+gpt-6-astra,Urugan,Urugan berarti tanah timbunan untuk menutup lubang atau meratakan permukaan tanah.,1,,,,,,3768,0.00365,30,67
 llama-3-1-8b-q4km-local,Ageman,Arti kata Ageman dalam bahasa Indonesia adalah kepercayaan.,0,,,,,,612,,40,16
 llama-3-1-8b-q4km-local,Anduweni,"Anduweni berarti ""menggigit"" dalam bahasa Indonesia.",0,,,,,,535,,42,18
 llama-3-1-8b-q4km-local,Badogan,"Badogan berarti ""menggigit"" dalam bahasa Indonesia.",0,,,,,,533,,40,16
