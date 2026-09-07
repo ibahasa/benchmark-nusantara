@@ -1,173 +1,517 @@
 model_id,lema,jawaban_model,kunci_hadir,sim_definisi,persentil_vs_lantai,sim_kunci_maks,peringkat_dalam_lema,vonis_penutur,latency_ms,biaya_usd,tokens_in,tokens_out
-mistral-small-3,Ageman,"""Ageman"" berarti ""pemuda"" dalam bahasa Indonesia.",0,0.0396,0.1651,0.1519,4,0,1097,1.073e-05,189,16
-mistral-small-3,Anduweni,"Anduweni berarti ""di mana"" dalam bahasa Indonesia.",0,0.0926,0.3702,0.378,4,0,1177,1.062e-05,190,14
-mistral-small-3,Badogan,"Badogan berarti ""badan"" atau ""tubuh"" dalam bahasa Indonesia.",0,0.0571,0.2316,0.2456,4,0,1551,1.097e-05,189,19
-mistral-small-3,Biyayakan,"Biyayakan berarti ""membiayai"" atau ""membiayai"".",0,0.1166,0.4672,0.2678,3,0,1391,1.131e-05,191,22
-mistral-small-3,Biyuh,"""Biyuh"" dalam bahasa Jawa berarti ""biasa"" dalam bahasa Indonesia.",0,0.1269,0.5055,0.198,4,0,1171,1.11e-05,190,20
-mistral-small-3,Bladak,"""Bladak"" berarti ""banyak"" dalam bahasa Indonesia.",0,0.0259,0.1188,0.1124,4,0,1134,1.078e-05,190,16
-mistral-small-3,Coeg,"""Coeg"" dalam bahasa Jawa berarti ""kucing"" dalam bahasa Indonesia.",0,0.0883,0.3502,0.0673,4,0,1194,1.089e-05,189,18
-mistral-small-3,Dangak,"""Dangak"" dalam bahasa Jawa berarti ""membuat kebingungan"" atau ""membingungkan"".",0,0.1385,0.5453,0.3173,4,0,1997,1.166e-05,190,27
-mistral-small-3,Gakpati,"""Gakpati"" dalam bahasa Indonesia berarti ""tidak ada"".",0,0.1411,0.5529,0.3327,4,0,1131,1.091e-05,191,17
-mistral-small-3,Geluduk,"Geluduk berarti ""gelap"" dalam bahasa Indonesia.",0,0.101,0.4055,0.3069,3,0,1070,1.057e-05,189,14
-mistral-small-3,Gendakan,"""Gendakan"" dalam bahasa Indonesia berarti ""membuat sesuatu menjadi lebih baik atau lebih baik lagi.""",0,0.0778,0.309,0.1381,4,0,1879,1.15e-05,190,25
-mistral-small-3,Gondes,"Gondes berarti ""membuat senang"" atau ""membuat gembira"".",0,0.2882,0.9002,0.092,3,0,1354,1.121e-05,189,22
-mistral-small-3,Gremet,"Gremet berarti ""makanan yang enak dan lezat.""",0,0.0826,0.3282,0.1628,4,1,1439,1.086e-05,190,17
-mistral-small-3,Kacariyos,"Kata ""Kacariyos"" dalam bahasa Jawa berarti ""Kacamata"" dalam bahasa Indonesia.",0,0.0122,0.0853,0.0876,4,0,1195,1.147e-05,191,24
-mistral-small-3,Kaleh,"Kata ""kaleh"" dalam bahasa Jawa berarti ""kucing"" dalam bahasa Indonesia.",0,0.0487,0.2016,-0.0187,4,0,1490,1.113e-05,189,21
-mistral-small-3,Kemecer,"Kemecer berarti ""mencari"" atau ""mencari-cari"".",0,0.0873,0.3466,0.4224,4,0,1858,1.097e-05,189,19
-mistral-small-3,Kesawat,"Kesawat berarti ""kecewa"" dalam bahasa Indonesia.",0,0.1547,0.6005,0.2983,3,0,1313,1.065e-05,189,15
-mistral-small-3,Kesuen,"Kata ""Kesuen"" dalam bahasa Jawa berarti ""Kesukaan"" dalam bahasa Indonesia.",0,0.0713,0.2841,0.0604,4,0,1289,1.121e-05,189,22
-mistral-small-3,Kreak,"Kata ""kreak"" dalam bahasa Jawa berarti ""kering"" dalam bahasa Indonesia.",0,-0.0797,0.0006,0.0885,4,0,1749,1.105e-05,189,20
-mistral-small-3,Kupret,"Kata ""kupret"" dalam bahasa Jawa berarti ""kucing"" dalam bahasa Indonesia.",0,0.0075,0.0748,0.0739,4,0,1665,1.105e-05,189,20
-mistral-small-3,Leksanani,"Saya tidak memiliki informasi tentang kata ""Leksanani"" dalam bahasa Jawa.",0,-0.0309,0.0183,-0.0068,4,0,1403,1.107e-05,191,19
-mistral-small-3,Lidis,"""Lidis"" dalam bahasa Jawa berarti ""bisa"" atau ""dapat"" dalam bahasa Indonesia.",0,0.1173,0.47,0.1869,3,0,1483,1.129e-05,189,23
-mistral-small-3,Manahipun,"Manahipun berarti ""mungkin"" atau ""bisa jadi"".",0,0.0215,0.1085,0.1509,4,0,1312,1.086e-05,190,17
-mistral-small-3,Mleding,"""Mleding"" dalam bahasa Jawa berarti ""menggiling"" dalam bahasa Indonesia.",0,0.186,0.6948,0.3073,3,0,2176,1.118e-05,190,21
-mistral-small-3,Ndaut,"""Ndaut"" dalam bahasa Jawa berarti ""membawa"" dalam bahasa Indonesia.",0,0.1187,0.4752,0.2645,4,0,1418,1.105e-05,189,20
-mistral-small-3,Ndlogok,"""Ndlogok"" dalam bahasa Jawa berarti ""membuat"" atau ""membuatkan"" dalam bahasa Indonesia.",0,0.0387,0.1614,0.1819,4,0,2529,1.174e-05,190,28
-mistral-small-3,Ngeliwet,"""Ngeliwet"" berarti ""menggelitikan"" atau ""menggelitkan"".",0,0.0915,0.3656,0.0584,4,0,1524,1.134e-05,190,23
-mistral-small-3,Ngleketer,"Ngleketer berarti ""menggigit"".",0,0.0556,0.2263,0.1154,4,0,2427,1.059e-05,191,13
-mistral-small-3,Ngriki,"""Ngriki"" dalam bahasa Jawa berarti ""membuat"" atau ""membuatkan"" dalam bahasa Indonesia.",0,0.0898,0.3571,0.1695,4,0,1743,1.166e-05,190,27
-mistral-small-3,Pakunjaran,"Pakunjaran berarti ""pengunjung"" dalam bahasa Indonesia.",0,0.035,0.1481,0.1945,4,0,1176,1.078e-05,190,16
-mistral-small-3,Pangrasan,"Pangrasan berarti ""pengasih"" atau ""pengasuh"".",0,0.1735,0.6585,0.127,4,0,1184,1.11e-05,190,20
-mistral-small-3,Pecetan,"Pecetan berarti ""penggunaan"" atau ""pengguna"".",0,0.1094,0.4388,0.0372,3,0,1432,1.11e-05,190,20
-mistral-small-3,Pimen,"Pimen berarti ""pintu"" dalam bahasa Indonesia.",0,0.1329,0.5248,0.0882,4,0,1603,1.057e-05,189,14
-mistral-small-3,Sasmito,"Sasmito berarti ""sangat baik"" atau ""sangat bagus"".",0,0.0246,0.1149,0.0707,4,0,1757,1.11e-05,190,20
-mistral-small-3,Sedelat,"""Sedelat"" dalam bahasa Indonesia berarti ""selat"" atau ""selat laut"".",0,-0.0158,0.0328,0.2105,4,0,1236,1.126e-05,190,22
-mistral-small-3,Semribit,"Semribit berarti ""sedikit"" dalam bahasa Indonesia.",0,0.1741,0.6603,0.0946,4,0,1800,1.062e-05,190,14
-mistral-small-3,Sirtu,"Sirtu berarti ""pasir"".",1,0.4126,0.9788,0.9995,3,1,1227,1.03e-05,190,10
-mistral-small-3,Speleng,"Speleng berarti ""sampah"" dalam bahasa Indonesia.",0,-0.0182,0.0296,0.2237,4,0,1088,1.07e-05,190,15
-mistral-small-3,Urugan,"Urugan berarti ""penggalangan"" atau ""pengumpulan"".",0,0.1494,0.5801,0.277,4,0,1484,1.094e-05,190,18
-mistral-small-3,dadi'ne,"""Dadi'ne"" dalam bahasa Jawa berarti ""dari"" dalam bahasa Indonesia.",0,0.0108,0.0804,0.1194,4,0,1046,1.102e-05,190,19
-mistral-small-3,klotekan,"Kata ""klotekan"" dalam bahasa Jawa berarti ""membuat keributan"" atau ""membuat kericuhan"".",0,0.255,0.8547,0.4583,2,0,1854,1.203e-05,191,31
-mistral-small-3,ndusel,"""Ndusel"" dalam bahasa Jawa berarti ""menggunakan"" dalam bahasa Indonesia.",0,-0.0366,0.0133,0.1214,4,0,1056,1.105e-05,189,20
-mistral-small-3,sompret,"""Sompret"" dalam bahasa Jawa berarti ""sombong"" dalam bahasa Indonesia.",0,0.3126,0.9261,0.3564,4,0,1044,1.097e-05,189,19
-deepseek-v4-flash,Ageman,Ageman berarti pakaian atau busana yang dikenakan.,1,0.7056,0.9994,0.7544,2,1,3597,2.52e-05,31,97
-deepseek-v4-flash,Anduweni,"Anduweni berarti ""memiliki"" atau ""mempunyai"" dalam bahasa Indonesia.",1,0.3445,0.951,0.7452,3,1,1934,6.24e-05,32,208
-deepseek-v4-flash,Badogan,Badogan artinya berbohong atau mengarang cerita (ngarang).,0,0.0781,0.3104,0.0372,3,0,4380,4.5708e-05,31,243
-deepseek-v4-flash,Biyayakan,"Biyayakan berarti ""biaya"" atau ""ongkos"" (dalam konteks membiayai/mengeluarkan uang untuk suatu keperluan).",0,0.1156,0.4636,0.2552,4,0,7205,0.00014973,33,340
-deepseek-v4-flash,Biyuh,"Biyuh artinya ""aduh"" atau ""waduh"", yaitu ungkapan terkejut, kaget, atau merasakan sakit.",1,0.6739,0.9986,0.3624,2,1,2288,3.8642e-05,32,123
-deepseek-v4-flash,Bladak,"Arti kata ""bladak"" dalam bahasa Indonesia adalah ""tiba-tiba"" atau ""mendadak"".",0,0.0643,0.2616,0.0632,3,0,3914,2.8428e-05,31,147
-deepseek-v4-flash,Coeg,"Coeg adalah kata umpatan atau makian kasar dalam bahasa Jawa (terutama Jawa Timur) yang merujuk pada alat kelamin laki-laki, setara dengan ""kontol"" atau ""cuk"" dalam bahasa Indonesia.",1,0.3615,0.9612,0.2419,1,1,5986,4.776422e-05,31,198
-deepseek-v4-flash,dadi'ne,Jadinya (atau akibatnya/maka dari itu).,1,0.2989,0.9117,0.9989,3,1,4423,4.2e-05,33,171
-deepseek-v4-flash,Dangak,Dangak artinya menengadah atau mendongak (melihat ke atas).,1,0.2793,0.89,0.6684,2,1,15857,2.4036e-05,32,125
-deepseek-v4-flash,Gakpati,"""Tidak terlalu"" atau ""tidak begitu"" (menyatakan kadar/tingkatan), atau secara harfiah berarti ""tidak mati"".",1,0.4463,0.9859,0.6575,1,1,6027,6.0836e-05,33,329
-deepseek-v4-flash,Geluduk,Geluduk artinya guntur (suara menggelegar dari langit).,1,0.2523,0.8488,0.477,2,1,4692,4.888282e-05,31,203
-deepseek-v4-flash,Gendakan,Gendakan artinya berpacaran atau menjalin hubungan asmara.,1,0.5893,0.9975,0.399,1,1,4198,3.136e-05,32,96
-deepseek-v4-flash,Gondes,Gondes artinya preman atau berandal (tukang onar) dalam bahasa Indonesia.,0,0.2137,0.768,0.0829,4,0,8822,0.00010206,31,349
-deepseek-v4-flash,Gremet,"Arti kata ""gremet"" adalah berbutir-butir halus atau terasa kasar seperti pasir.",0,0.341,0.9493,0.1783,3,0,3524,3.976e-05,32,126
-deepseek-v4-flash,Kacariyos,"Kacariyos artinya ""diceritakan"" atau ""tercerita"".",1,0.4472,0.986,0.7857,1,1,22582,5.2917e-05,33,150
-deepseek-v4-flash,Kaleh,"Kaleh berarti ""dua"" dalam bahasa Jawa halus (krama), atau juga bisa berarti ""dengan/bersama"".",1,0.6831,0.9988,0.505,1,1,8133,7.896e-05,31,337
-deepseek-v4-flash,Kemecer,Kemecer berarti tumpah atau memercik (tentang air atau cairan).,0,0.1874,0.6989,0.1115,3,0,7799,8.89e-05,31,302
-deepseek-v4-flash,Kesawat,Kesawat artinya ketiak.,0,0.0994,0.3984,0.1554,4,0,67517,2.954e-05,31,90
-deepseek-v4-flash,Kesuen,"Kesuen artinya ""terlalu lama"" dalam bahasa Indonesia.",1,0.7028,0.9994,0.8962,1,1,8945,7.966e-05,31,269
-deepseek-v4-flash,klotekan,Suara ayam berkotek (bunyi “klotek” yang berulang-ulang).,0,0.1628,0.6261,0.4073,4,0,6303,9.492e-05,32,323
-deepseek-v4-flash,Kreak,Kreak berarti bunyi berderak atau retak (seperti suara benda patah atau suara burung gagak).,0,0.1221,0.488,0.2994,3,0,4591,9.5e-05,31,180
-deepseek-v4-flash,Kupret,"Kupret berarti kotoran atau tahi, dan sering digunakan sebagai umpatan kasar untuk menyebut orang yang menjijikkan atau hina.",1,0.6873,0.9992,0.5271,1,1,4620,3.934e-05,31,125
-deepseek-v4-flash,Leksanani,"Arti kata ""leksanani"" adalah ""laksanakanlah"" atau ""kerjakanlah"".",0,0.5683,0.9971,0.5139,1,1,3436,5.3237e-05,33,151
-deepseek-v4-flash,Lidis,"Arti kata ""lidis"" dalam bahasa Indonesia adalah rambut.",0,0.1073,0.4304,0.0722,4,0,3932,3.5167e-05,31,111
-deepseek-v4-flash,Manahipun,Manahipun artinya “hatinya” dalam bahasa Indonesia.,1,0.1303,0.5163,0.785,3,1,2894,3.612e-05,118,70
-deepseek-v4-flash,Mleding,Mleding berarti pecah atau meletus (seperti balon yang meledak).,0,0.062,0.253,0.147,4,0,9562,3.5571872e-05,32,131
-deepseek-v4-flash,Ndaut,"Ndaut artinya ""cepat"" atau ""segera"" dalam bahasa Indonesia.",0,0.2125,0.7637,0.1313,3,0,6037,8.302e-05,31,281
-deepseek-v4-flash,Ndlogok,Ndlogok berarti duduk santai sambil berselonjor atau duduk malas-malasan tanpa tujuan.,0,0.2211,0.7861,0.1161,2,0,4172,9.88e-05,32,338
-deepseek-v4-flash,ndusel,Ndusel berarti menggosok atau mengusap (biasanya untuk membersihkan atau mengelap).,0,0.2766,0.8868,0.4292,3,0,6936,8.747452e-05,32,375
-deepseek-v4-flash,Ngeliwet,Ngeliwet berarti memasak nasi liwet (nasi yang dimasak dengan santan dan lauk) secara bersama-sama untuk dimakan ramai-ramai.,1,0.8172,1.0,0.6303,1,1,13338,5.1216e-05,32,276
-deepseek-v4-flash,Ngleketer,"Arti kata ""ngleketer"" adalah menggigil atau gemetar (biasanya karena demam, kedinginan, atau ketakutan).",0,0.2412,0.8274,0.231,3,0,3644,4.298e-05,33,137
-deepseek-v4-flash,Ngriki,"Ngriki artinya ""di sini"" atau ""ke sini"" dalam bahasa Indonesia.",1,0.4498,0.9866,0.7883,1,1,1971,4.144e-05,32,132
-deepseek-v4-flash,Pakunjaran,Pakunjaran berarti penjara atau lembaga pemasyarakatan.,1,0.4698,0.9891,0.7346,2,1,2836,2.968e-05,32,90
-deepseek-v4-flash,Pangrasan,"Pangrasan berarti ""perasaan"" dalam bahasa Indonesia.",1,0.4073,0.9777,0.9998,3,1,5698,6.756344e-05,32,286
-deepseek-v4-flash,Pecetan,Pecetan dalam bahasa Indonesia berarti sambal kacang (bumbu pecel).,0,0.3207,0.9326,0.4604,1,0,3348,0.000123019,31,370
-deepseek-v4-flash,Pimen,Bertanya atau menanyakan.,0,0.5116,0.994,0.2724,1,0,5549,6.9552e-05,31,295
-deepseek-v4-flash,Sasmito,"Sasmito berarti isyarat, tanda, atau petunjuk yang tersirat (halus).",1,0.7198,0.9997,0.7928,1,1,2843,2.707012e-05,32,105
-deepseek-v4-flash,Sedelat,Sedelat artinya sebentar atau sesaat.,1,0.495,0.9922,0.6033,1,1,3973,4.8516e-05,32,261
-deepseek-v4-flash,Semribit,Semribit berarti remah-remah atau serpihan kecil.,0,0.2424,0.8293,0.1605,3,0,6164,8.4448e-05,32,361
-deepseek-v4-flash,Sirtu,"Sirtu artinya ""kamu"" atau ""engkau"" dalam bahasa Jawa ngoko (kasar/akrab).",0,0.0879,0.3487,0.0354,4,0,11952,2.0076e-05,32,103
-deepseek-v4-flash,sompret,"Arti kata ""sompret"" adalah terompet (alat musik tiup), tetapi sering juga digunakan sebagai umpatan kasar yang berarti ""bodoh"" atau ""sialan"".",1,0.717,0.9996,0.476,2,1,7854,5.6148e-05,31,301
-deepseek-v4-flash,Speleng,"Artinya ""melihat"" atau ""mengintip"".",0,0.1404,0.5509,0.1264,2,0,4670,7.28e-05,32,244
-deepseek-v4-flash,Urugan,Urugan artinya timbunan tanah atau material untuk meratakan/menimbun suatu lahan.,1,0.7596,0.9999,0.4912,2,1,1962,3.244e-05,32,101
-gpt-5.6-luna,Ageman,"Ageman berarti pakaian atau busana, sering kali bermakna pakaian kebesaran atau pakaian adat.",1,0.738,0.9999,0.6423,1,1,1746,1.98e-05,30,28
-gpt-5.6-luna,Anduweni,“Anduweni” berarti “memiliki” atau “mempunyai.”,1,0.3454,0.9511,0.7421,2,1,3072,4.87e-05,31,76
-gpt-5.6-luna,Badogan,Badogan berarti wadah atau tempat untuk menyimpan makanan.,1,0.3378,0.9466,0.5063,2,,4124,0.0001416,30,231
-gpt-5.6-luna,Biyayakan,“Biyayakan” berarti **membiayai atau mengeluarkan biaya untuk sesuatu**.,0,0.1505,0.5849,0.2092,2,1,3708,0.0001507,31,246
-gpt-5.6-luna,Biyuh,"“Biyuh” berarti seruan kaget atau kagum, seperti “wah” atau “astaga”.",1,0.5304,0.9956,0.561,3,1,3263,4.99e-05,31,78
-gpt-5.6-luna,Bladak,Bladak berarti **terbuka atau terlihat dengan jelas**.,0,0.1942,0.7189,0.0411,1,0,9143,0.0003247,31,536
-gpt-5.6-luna,Coeg,"“Coeg” adalah sapaan slang kasar dalam bahasa Jawa, kira-kira berarti “bro” atau “kawan.”",1,0.3469,0.9527,0.3812,2,1,6111,0.0001998,30,328
-gpt-5.6-luna,dadi'ne,“Dadi’ne” berarti “jadinya” atau “akhirnya.”,1,0.351,0.9554,0.5197,2,1,2863,7.33e-05,31,117
-gpt-5.6-luna,Dangak,“Dangak” berarti menengadah atau mendongak ke atas.,1,0.4338,0.9841,0.6308,1,1,4148,4.8e-05,30,75
-gpt-5.6-luna,Gakpati,“Gakpati” berarti “tidak terlalu” atau “tidak begitu.”,1,0.4071,0.9776,0.9102,3,1,3686,9.98e-05,32,161
-gpt-5.6-luna,Geluduk,“Geluduk” berarti bunyi guruh atau suara gemuruh yang keras.,1,0.5905,0.9975,0.4496,1,1,1842,1.5e-05,30,20
-gpt-5.6-luna,Gendakan,“Gendakan” berarti hubungan gelap atau perselingkuhan.,1,0.4712,0.9891,0.7951,3,0,3283,6.55e-05,31,104
-gpt-5.6-luna,Gondes,"“Gondes” adalah sebutan slang, biasanya bernada merendahkan, untuk pemuda berambut gondrong bergaya kampungan atau “ndeso”.",1,0.3757,0.9662,0.3166,2,1,3036,9.24e-05,30,149
-gpt-5.6-luna,Gremet,“Gremet” berarti merayap atau berjalan perlahan-lahan.,1,0.7142,0.9996,0.7549,1,1,3589,0.0001453,31,237
-gpt-5.6-luna,Kacariyos,“Kacariyos” berarti “diceritakan” atau “konon.”,1,0.276,0.8859,0.8661,3,1,3670,7.22e-05,32,115
-gpt-5.6-luna,Kaleh,“Kaleh” berarti “dua” dalam bahasa Indonesia.,1,0.4284,0.9824,0.9997,3,1,2839,7.74e-05,30,124
-gpt-5.6-luna,Kemecer,“Kemecer” berarti ingin sekali atau ngiler melihat makanan.,1,0.4947,0.9922,0.5079,2,1,3708,4.92e-05,30,77
-gpt-5.6-luna,Kesawat,“Kesawat” berarti terkena lemparan atau terlempar.,1,0.711,0.9994,0.5749,2,1,6162,0.00018,30,295
-gpt-5.6-luna,Kesuen,“Kesuen” berarti “terlalu lama” atau “kelamaan.”,1,0.6245,0.9978,0.812,3,1,5802,5.94e-05,30,94
-gpt-5.6-luna,klotekan,**Klotekan** berarti bunyi ketukan atau benturan benda keras yang berulang-ulang.,1,0.2197,0.7834,0.4654,3,1,3863,6.01e-05,31,95
-gpt-5.6-luna,Kreak,“Kreak” berarti sok jagoan atau suka mencari gara-gara.,1,0.1365,0.5379,0.439,2,1,5623,0.0001812,30,297
-gpt-5.6-luna,Kupret,“Kupret” berarti **pelit atau menyebalkan** (tergantung konteks).,1,0.3994,0.9749,0.9311,3,1,6291,0.0001674,30,274
-gpt-5.6-luna,Leksanani,“Leksanani” berarti “laksanakanlah” atau “jalankanlah.”,0,0.2836,0.896,0.6468,3,1,4461,6.32e-05,32,100
-gpt-5.6-luna,Lidis,“Lidis” berarti habis atau tidak tersisa sama sekali.,1,0.3932,0.9722,0.7935,2,1,3106,4.44e-05,30,69
-gpt-5.6-luna,Manahipun,“Manahipun” berarti “hatinya” atau “pikirannya.”,1,0.1356,0.5356,0.7433,2,1,3199,4.09e-05,31,63
-gpt-5.6-luna,Mleding,Mleding berarti melenceng atau menyimpang dari arah yang semestinya.,0,0.2712,0.8794,0.2284,2,0,3667,9.12e-05,30,147
-gpt-5.6-luna,Ndaut,“Ndaut” berarti mencabut atau menarik sesuatu hingga terlepas.,1,0.2349,0.8151,0.5204,2,1,2655,9.18e-05,30,148
-gpt-5.6-luna,Ndlogok,“Ndlogok” berarti minum langsung dari wadahnya tanpa menggunakan gelas.,0,0.0819,0.3249,0.0894,3,0,3841,7.87e-05,31,126
-gpt-5.6-luna,ndusel,“Ndusel” berarti merapat atau menempel dengan manja pada seseorang.,1,0.306,0.9185,0.6669,2,1,4204,7.56e-05,30,121
-gpt-5.6-luna,Ngeliwet,Ngeliwet berarti memasak nasi (biasanya bersama lauk) dalam satu wadah.,1,0.589,0.9975,0.8685,3,1,2560,1.63e-05,31,22
-gpt-5.6-luna,Ngleketer,"“Ngleketer” berarti gemetar atau bergetar, biasanya karena kedinginan atau ketakutan.",0,0.3298,0.9395,0.2991,2,0,4773,8e-05,32,128
-gpt-5.6-luna,Ngriki,“Ngriki” berarti “di sini” dalam bahasa Indonesia.,1,0.4293,0.9827,0.9995,2,1,1746,1.33e-05,31,17
-gpt-5.6-luna,Pakunjaran,“Pakunjaran” berarti penjara atau tempat tahanan.,1,0.5576,0.9965,0.8368,1,1,3214,3.92e-05,32,60
-gpt-5.6-luna,Pangrasan,“Pangrasan” berarti perasaan atau firasat.,1,0.5761,0.9974,0.7168,1,1,3880,6.19e-05,31,98
-gpt-5.6-luna,Pecetan,Pecetan berarti hasil atau sesuatu yang dipencet/tekan.,0,0.0493,0.2042,0.0358,4,0,6823,0.0002472,30,407
-gpt-5.6-luna,Pimen,“Pimen” berarti “bagaimana” atau “gimana.”,1,0.3511,0.9554,0.8497,2,1,4043,5.1e-05,30,80
-gpt-5.6-luna,Sasmito,"“Sasmito” berarti tanda, isyarat, atau firasat.",1,0.6838,0.9988,0.8374,3,1,3198,4.93e-05,31,77
-gpt-5.6-luna,Sedelat,“Sedelat” berarti **sebentar atau sekejap**.,1,0.3801,0.9677,0.8005,2,1,3923,4.45e-05,31,69
-gpt-5.6-luna,Semribit,Semribit berarti terasa sejuk karena hembusan angin yang lembut.,1,0.8304,1.0,0.6767,1,1,2666,6.07e-05,31,96
-gpt-5.6-luna,Sirtu,“Sirtu” berarti campuran pasir dan batu (kerikil).,1,0.6175,0.9978,0.6141,2,1,3889,5.59e-05,31,88
-gpt-5.6-luna,sompret,“Sompret” adalah umpatan untuk menyebut orang yang menyebalkan atau bodoh.,1,0.6856,0.9988,0.7166,3,1,4148,0.0001134,30,184
-gpt-5.6-luna,Speleng,“Speleng” berarti aneh atau tidak waras.,0,0.1185,0.4743,0.1638,3,0,7037,0.0003036,30,501
-gpt-5.6-luna,Urugan,Urugan berarti timbunan atau bahan yang digunakan untuk menimbun tanah.,1,0.7447,0.9999,0.5886,3,1,2436,1.5e-05,30,20
-gemini-3.5-flash,Ageman,"Kata Jawa ""ageman"" berarti pakaian atau baju dalam ragam bahasa halus (krama inggil).",1,0.6861,0.999,0.7298,3,1,2899,0.002859,22,314
-gemini-3.5-flash,Anduweni,"Kata Jawa ""anduweni"" berarti **memiliki** atau **mempunyai** dalam bahasa Indonesia.",1,0.3463,0.9524,0.7437,1,1,2897,0.0027975,23,307
-gemini-3.5-flash,Badogan,"Dalam bahasa Jawa kasar (ngoko kasar), kata **badogan** berarti makanan atau sesuatu untuk dimakan.",1,0.5147,0.9943,0.7026,1,1,3625,0.003084,22,339
-gemini-3.5-flash,Biyayakan,"Kata ""biyayakan"" dalam bahasa Indonesia berarti banyak tingkah, pecicilan, atau tidak bisa diam.",1,0.3533,0.9564,0.6172,1,1,2652,0.0025995,23,285
+deepseek-v4-flash,Ageman,Ageman berarti pakaian atau busana yang dikenakan.,1,0.7056,0.9994,0.7544,2,,3597,2.52e-05,31,97
+deepseek-v4-flash,Anduweni,"Anduweni berarti ""memiliki"" atau ""mempunyai"" dalam bahasa Indonesia.",1,0.3445,0.9485,0.7452,4,,1934,6.24e-05,32,208
+deepseek-v4-flash,Badogan,Badogan artinya berbohong atau mengarang cerita (ngarang).,0,0.0781,0.2924,0.0372,4,,4380,4.5708e-05,31,243
+deepseek-v4-flash,Biyayakan,"Biyayakan berarti ""biaya"" atau ""ongkos"" (dalam konteks membiayai/mengeluarkan uang untuk suatu keperluan).",0,0.1156,0.4352,0.2552,5,,7205,0.00014973,33,340
+deepseek-v4-flash,Biyuh,"Biyuh artinya ""aduh"" atau ""waduh"", yaitu ungkapan terkejut, kaget, atau merasakan sakit.",1,0.6739,0.9987,0.3624,2,,2288,3.8642e-05,32,123
+deepseek-v4-flash,Bladak,"Arti kata ""bladak"" dalam bahasa Indonesia adalah ""tiba-tiba"" atau ""mendadak"".",0,0.0643,0.2461,0.0632,3,,3914,2.8428e-05,31,147
+deepseek-v4-flash,Coeg,"Coeg adalah kata umpatan atau makian kasar dalam bahasa Jawa (terutama Jawa Timur) yang merujuk pada alat kelamin laki-laki, setara dengan ""kontol"" atau ""cuk"" dalam bahasa Indonesia.",1,0.3615,0.959,0.2419,2,,5986,4.776422e-05,31,198
+deepseek-v4-flash,dadi'ne,Jadinya (atau akibatnya/maka dari itu).,1,0.2989,0.9076,0.9989,3,,4423,4.2e-05,33,171
+deepseek-v4-flash,Dangak,Dangak artinya menengadah atau mendongak (melihat ke atas).,1,0.2793,0.8825,0.6684,2,,15857,2.4036e-05,32,125
+deepseek-v4-flash,Gakpati,"""Tidak terlalu"" atau ""tidak begitu"" (menyatakan kadar/tingkatan), atau secara harfiah berarti ""tidak mati"".",1,0.4463,0.9848,0.6575,1,,6027,6.0836e-05,33,329
+deepseek-v4-flash,Geluduk,Geluduk artinya guntur (suara menggelegar dari langit).,1,0.2523,0.8378,0.477,2,,4692,4.888282e-05,31,203
+deepseek-v4-flash,Gendakan,Gendakan artinya berpacaran atau menjalin hubungan asmara.,1,0.5893,0.9971,0.399,1,,4198,3.136e-05,32,96
+deepseek-v4-flash,Gondes,Gondes artinya preman atau berandal (tukang onar) dalam bahasa Indonesia.,0,0.2137,0.7505,0.0829,4,,8822,0.00010206,31,349
+deepseek-v4-flash,Gremet,"Arti kata ""gremet"" adalah berbutir-butir halus atau terasa kasar seperti pasir.",0,0.341,0.9468,0.1783,3,,3524,3.976e-05,32,126
+deepseek-v4-flash,Kacariyos,"Kacariyos artinya ""diceritakan"" atau ""tercerita"".",1,0.4472,0.9849,0.7857,1,,22582,5.2917e-05,33,150
+deepseek-v4-flash,Kaleh,"Kaleh berarti ""dua"" dalam bahasa Jawa halus (krama), atau juga bisa berarti ""dengan/bersama"".",1,0.6831,0.9988,0.505,1,,8133,7.896e-05,31,337
+deepseek-v4-flash,Kemecer,Kemecer berarti tumpah atau memercik (tentang air atau cairan).,0,0.1874,0.6761,0.1115,3,,7799,8.89e-05,31,302
+deepseek-v4-flash,Kesawat,Kesawat artinya ketiak.,0,0.0994,0.3742,0.1554,5,,67517,2.954e-05,31,90
+deepseek-v4-flash,Kesuen,"Kesuen artinya ""terlalu lama"" dalam bahasa Indonesia.",1,0.7028,0.9994,0.8962,1,,8945,7.966e-05,31,269
+deepseek-v4-flash,klotekan,Suara ayam berkotek (bunyi “klotek” yang berulang-ulang).,0,0.1628,0.6007,0.4073,5,,6303,9.492e-05,32,323
+deepseek-v4-flash,Kreak,Kreak berarti bunyi berderak atau retak (seperti suara benda patah atau suara burung gagak).,0,0.1221,0.4598,0.2994,3,,4591,9.5e-05,31,180
+deepseek-v4-flash,Kupret,"Kupret berarti kotoran atau tahi, dan sering digunakan sebagai umpatan kasar untuk menyebut orang yang menjijikkan atau hina.",1,0.6873,0.9992,0.5271,1,,4620,3.934e-05,31,125
+deepseek-v4-flash,Leksanani,"Arti kata ""leksanani"" adalah ""laksanakanlah"" atau ""kerjakanlah"".",0,0.5683,0.9963,0.5139,1,,3436,5.3237e-05,33,151
+deepseek-v4-flash,Lidis,"Arti kata ""lidis"" dalam bahasa Indonesia adalah rambut.",0,0.1073,0.4044,0.0722,5,,3932,3.5167e-05,31,111
+deepseek-v4-flash,Manahipun,Manahipun artinya “hatinya” dalam bahasa Indonesia.,1,0.1303,0.4901,0.785,3,,2894,3.612e-05,118,70
+deepseek-v4-flash,Mleding,Mleding berarti pecah atau meletus (seperti balon yang meledak).,0,0.062,0.2377,0.147,5,,9562,3.5571872e-05,32,131
+deepseek-v4-flash,Ndaut,"Ndaut artinya ""cepat"" atau ""segera"" dalam bahasa Indonesia.",0,0.2125,0.7463,0.1313,4,,6037,8.302e-05,31,281
+deepseek-v4-flash,Ndlogok,Ndlogok berarti duduk santai sambil berselonjor atau duduk malas-malasan tanpa tujuan.,0,0.2211,0.7704,0.1161,3,,4172,9.88e-05,32,338
+deepseek-v4-flash,ndusel,Ndusel berarti menggosok atau mengusap (biasanya untuk membersihkan atau mengelap).,0,0.2766,0.8786,0.4292,4,,6936,8.747452e-05,32,375
+deepseek-v4-flash,Ngeliwet,Ngeliwet berarti memasak nasi liwet (nasi yang dimasak dengan santan dan lauk) secara bersama-sama untuk dimakan ramai-ramai.,1,0.8172,1.0,0.6303,1,,13338,5.1216e-05,32,276
+deepseek-v4-flash,Ngleketer,"Arti kata ""ngleketer"" adalah menggigil atau gemetar (biasanya karena demam, kedinginan, atau ketakutan).",0,0.2412,0.8156,0.231,4,,3644,4.298e-05,33,137
+deepseek-v4-flash,Ngriki,"Ngriki artinya ""di sini"" atau ""ke sini"" dalam bahasa Indonesia.",1,0.4498,0.9854,0.7883,1,,1971,4.144e-05,32,132
+deepseek-v4-flash,Pakunjaran,Pakunjaran berarti penjara atau lembaga pemasyarakatan.,1,0.4698,0.9879,0.7346,2,,2836,2.968e-05,32,90
+deepseek-v4-flash,Pangrasan,"Pangrasan berarti ""perasaan"" dalam bahasa Indonesia.",1,0.4073,0.9764,0.9998,4,,5698,6.756344e-05,32,286
+deepseek-v4-flash,Pecetan,Pecetan dalam bahasa Indonesia berarti sambal kacang (bumbu pecel).,0,0.3207,0.9296,0.4604,1,,3348,0.000123019,31,370
+deepseek-v4-flash,Pimen,Bertanya atau menanyakan.,0,0.5116,0.9931,0.2724,1,,5549,6.9552e-05,31,295
+deepseek-v4-flash,Sasmito,"Sasmito berarti isyarat, tanda, atau petunjuk yang tersirat (halus).",1,0.7198,0.9998,0.7928,1,,2843,2.707012e-05,32,105
+deepseek-v4-flash,Sedelat,Sedelat artinya sebentar atau sesaat.,1,0.495,0.9914,0.6033,1,,3973,4.8516e-05,32,261
+deepseek-v4-flash,Semribit,Semribit berarti remah-remah atau serpihan kecil.,0,0.2424,0.8174,0.1605,4,,6164,8.4448e-05,32,361
+deepseek-v4-flash,Sirtu,"Sirtu artinya ""kamu"" atau ""engkau"" dalam bahasa Jawa ngoko (kasar/akrab).",0,0.0879,0.3286,0.0354,5,,11952,2.0076e-05,32,103
+deepseek-v4-flash,sompret,"Arti kata ""sompret"" adalah terompet (alat musik tiup), tetapi sering juga digunakan sebagai umpatan kasar yang berarti ""bodoh"" atau ""sialan"".",1,0.717,0.9997,0.476,2,,7854,5.6148e-05,31,301
+deepseek-v4-flash,Speleng,"Artinya ""melihat"" atau ""mengintip"".",0,0.1404,0.5236,0.1264,2,,4670,7.28e-05,32,244
+deepseek-v4-flash,Urugan,Urugan artinya timbunan tanah atau material untuk meratakan/menimbun suatu lahan.,1,0.7596,0.9999,0.4912,2,,1962,3.244e-05,32,101
+gemini-3.5-flash,Ageman,"Kata Jawa ""ageman"" berarti pakaian atau baju dalam ragam bahasa halus (krama inggil).",1,0.6861,0.9991,0.7298,3,1,2899,0.002859,22,314
+gemini-3.5-flash,Anduweni,"Kata Jawa ""anduweni"" berarti **memiliki** atau **mempunyai** dalam bahasa Indonesia.",1,0.3463,0.9499,0.7437,2,1,2897,0.0027975,23,307
+gemini-3.5-flash,Badogan,"Dalam bahasa Jawa kasar (ngoko kasar), kata **badogan** berarti makanan atau sesuatu untuk dimakan.",1,0.5147,0.9934,0.7026,1,1,3625,0.003084,22,339
+gemini-3.5-flash,Biyayakan,"Kata ""biyayakan"" dalam bahasa Indonesia berarti banyak tingkah, pecicilan, atau tidak bisa diam.",1,0.3533,0.9544,0.6172,1,1,2652,0.0025995,23,285
 gemini-3.5-flash,Biyuh,"Kata ""biyuh"" adalah kata seru dalam bahasa Jawa yang berarti ""aduh"", ""wah"", atau ""astaga"" untuk mengekspresikan rasa terkejut, heran, atau kagum.",1,0.8033,1.0,0.3612,1,1,3249,0.0026535,23,291
-gemini-3.5-flash,Bladak,"Dalam bahasa Jawa, kata **""bladak""** berarti **lantai** atau **papan landasan** (sering juga digunakan untuk menggambarkan kondisi tidur di lantai tanpa alas/kasur).",0,0.0645,0.2623,0.111,2,0,5178,0.0046965,23,518
-gemini-3.5-flash,Coeg,"Kata **""coeg""** adalah bahasa gaul Jawa (plesetan dari kata ""cuk"") yang digunakan sebagai panggilan akrab kepada teman, setara dengan kata ""bro"", ""sob"", atau ""guys"".",1,0.3013,0.9146,0.4766,3,1,4201,0.004083,22,450
-gemini-3.5-flash,Dangak,"Kata ""dangak"" (atau *ndhangak*) dalam bahasa Jawa berarti **mendongak** atau **menengadah** (mengangkat kepala/melihat ke atas).",1,0.1905,0.7078,0.8659,3,1,3418,0.002895,22,318
-gemini-3.5-flash,Gakpati,"Kata ""gakpati"" (atau ""gak pati"") dalam bahasa Indonesia berarti **""tidak begitu""** atau **""tidak terlalu""**.",1,0.4369,0.9848,0.9031,2,1,3213,0.0030225,23,332
-gemini-3.5-flash,Geluduk,"Kata ""geluduk"" dalam bahasa Jawa berarti guntur atau guruh dalam bahasa Indonesia.",1,0.0687,0.2738,0.696,4,1,2917,0.002481,22,272
-gemini-3.5-flash,Gendakan,"Dalam bahasa Jawa, kata **""gendakan""** berarti selingkuhan atau kekasih gelap.",1,0.4961,0.9924,0.782,2,1,3055,0.0026085,23,286
-gemini-3.5-flash,Gondes,**Gondes** (singkatan dari *gondrong ndeso*) adalah istilah gaul Jawa yang merujuk pada laki-laki berambut panjang dengan penampilan atau perilaku yang dianggap kampungan atau kurang modis.,1,0.4062,0.9774,0.0597,1,0,3628,0.003291,22,362
+gemini-3.5-flash,Bladak,"Dalam bahasa Jawa, kata **""bladak""** berarti **lantai** atau **papan landasan** (sering juga digunakan untuk menggambarkan kondisi tidur di lantai tanpa alas/kasur).",0,0.0645,0.2467,0.111,2,0,5178,0.0046965,23,518
+gemini-3.5-flash,Coeg,"Kata **""coeg""** adalah bahasa gaul Jawa (plesetan dari kata ""cuk"") yang digunakan sebagai panggilan akrab kepada teman, setara dengan kata ""bro"", ""sob"", atau ""guys"".",1,0.3013,0.9104,0.4766,4,1,4201,0.004083,22,450
+gemini-3.5-flash,Dangak,"Kata ""dangak"" (atau *ndhangak*) dalam bahasa Jawa berarti **mendongak** atau **menengadah** (mengangkat kepala/melihat ke atas).",1,0.1905,0.6863,0.8659,4,1,3418,0.002895,22,318
+gemini-3.5-flash,Gakpati,"Kata ""gakpati"" (atau ""gak pati"") dalam bahasa Indonesia berarti **""tidak begitu""** atau **""tidak terlalu""**.",1,0.4369,0.9836,0.9031,2,1,3213,0.0030225,23,332
+gemini-3.5-flash,Geluduk,"Kata ""geluduk"" dalam bahasa Jawa berarti guntur atau guruh dalam bahasa Indonesia.",1,0.0687,0.2586,0.696,5,1,2917,0.002481,22,272
+gemini-3.5-flash,Gendakan,"Dalam bahasa Jawa, kata **""gendakan""** berarti selingkuhan atau kekasih gelap.",1,0.4961,0.9915,0.782,2,1,3055,0.0026085,23,286
+gemini-3.5-flash,Gondes,**Gondes** (singkatan dari *gondrong ndeso*) adalah istilah gaul Jawa yang merujuk pada laki-laki berambut panjang dengan penampilan atau perilaku yang dianggap kampungan atau kurang modis.,1,0.4062,0.9762,0.0597,1,0,3628,0.003291,22,362
 gemini-3.5-flash,Gremet,"Kata Jawa ""gremet"" berarti **merayap** atau **bergerak sangat lambat**.",1,0.6951,0.9993,0.6063,2,1,3155,0.0027075,23,297
-gemini-3.5-flash,Kacariyos,"Kata Jawa **""kacariyos""** berarti **""diceritakan""** atau **""konon""** (dikisahkan) dalam bahasa Indonesia.",1,0.2763,0.8861,0.8666,2,1,3362,0.0030045,23,330
-gemini-3.5-flash,Kaleh,"Kata ""kaleh"" (atau ""kalih"") dalam bahasa Jawa krama berarti **""dua""** atau bisa juga berarti **""dengan""** / **""dan""**.",1,0.5097,0.9938,0.6091,2,1,3532,0.002742,22,301
+gemini-3.5-flash,Kacariyos,"Kata Jawa **""kacariyos""** berarti **""diceritakan""** atau **""konon""** (dikisahkan) dalam bahasa Indonesia.",1,0.2763,0.8776,0.8666,3,1,3362,0.0030045,23,330
+gemini-3.5-flash,Kaleh,"Kata ""kaleh"" (atau ""kalih"") dalam bahasa Jawa krama berarti **""dua""** atau bisa juga berarti **""dengan""** / **""dan""**.",1,0.5097,0.9928,0.6091,2,1,3532,0.002742,22,301
 gemini-3.5-flash,Kemecer,**Kemecer** berarti merasa sangat tergiur atau ingin sekali mencicipi suatu makanan (biasanya yang asam atau pedas) hingga membuat air liur menetes (ngiler).,1,0.6314,0.9979,0.4518,1,1,3750,0.003354,22,369
 gemini-3.5-flash,Kesawat,"Dalam bahasa Indonesia, kata Jawa ""kesawat"" berarti **terlempar** atau **terkena lemparan**.",1,0.7525,0.9999,0.5426,1,1,3656,0.003372,22,371
 gemini-3.5-flash,Kesuen,"Kata ""kesuen"" dalam bahasa Indonesia berarti **terlalu lama** atau **kelamaan**.",1,0.6258,0.9978,0.8156,2,1,2757,0.002274,22,249
-gemini-3.5-flash,Kreak,"Dalam bahasa Jawa, **kreak** adalah istilah gaul yang berarti berandalan, preman jalanan, atau pembuat onar yang sering meresahkan masyarakat.",1,0.5994,0.9976,0.3174,1,1,3877,0.003471,22,382
+gemini-3.5-flash,Kreak,"Dalam bahasa Jawa, **kreak** adalah istilah gaul yang berarti berandalan, preman jalanan, atau pembuat onar yang sering meresahkan masyarakat.",1,0.5994,0.9973,0.3174,1,1,3877,0.003471,22,382
 gemini-3.5-flash,Kupret,"Kata ""kupret"" adalah umpatan santai atau sebutan dalam bahasa pergaulan yang berarti orang yang menyebalkan, nakal, atau kurang ajar.",1,0.6304,0.9978,0.6063,2,1,3723,0.003534,22,389
-gemini-3.5-flash,Leksanani,"Kata Jawa **""leksanani""** berarti melaksanakan, memenuhi, atau menepati (seperti janji atau kewajiban) dalam bahasa Indonesia.",1,0.4427,0.9852,0.6353,2,1,3609,0.00279,24,306
-gemini-3.5-flash,Lidis,"Kata ""lidis"" dalam bahasa Jawa berarti habis sama sekali, ludes, atau tidak bersisa.",1,0.4067,0.9776,0.482,1,1,2920,0.002184,22,239
-gemini-3.5-flash,Manahipun,"Kata **""manahipun""** dalam bahasa Jawa krama berarti **""hatinya""**, **""perasaannya""**, atau **""pikirannya""** dalam bahasa Indonesia.",1,0.1783,0.6726,0.6924,1,1,3057,0.0024735,23,271
-gemini-3.5-flash,Mleding,"Kata **""mleding""** dalam bahasa Jawa berarti menungging atau posisi tubuh dengan pantat yang menonjol ke belakang atau ke atas.",1,0.6699,0.9986,0.5063,1,1,3188,0.002562,22,281
+gemini-3.5-flash,Leksanani,"Kata Jawa **""leksanani""** berarti melaksanakan, memenuhi, atau menepati (seperti janji atau kewajiban) dalam bahasa Indonesia.",1,0.4427,0.9842,0.6353,2,1,3609,0.00279,24,306
+gemini-3.5-flash,Lidis,"Kata ""lidis"" dalam bahasa Jawa berarti habis sama sekali, ludes, atau tidak bersisa.",1,0.4067,0.9763,0.482,1,1,2920,0.002184,22,239
+gemini-3.5-flash,Manahipun,"Kata **""manahipun""** dalam bahasa Jawa krama berarti **""hatinya""**, **""perasaannya""**, atau **""pikirannya""** dalam bahasa Indonesia.",1,0.1783,0.648,0.6924,1,1,3057,0.0024735,23,271
+gemini-3.5-flash,Mleding,"Kata **""mleding""** dalam bahasa Jawa berarti menungging atau posisi tubuh dengan pantat yang menonjol ke belakang atau ke atas.",1,0.6699,0.9987,0.5063,1,1,3188,0.002562,22,281
 gemini-3.5-flash,Ndaut,**Ndaut** adalah kegiatan mencabut bibit padi dari lahan persemaian untuk bersiap ditanam kembali di area sawah yang lebih luas.,1,0.8284,1.0,0.468,1,1,2974,0.002022,22,221
 gemini-3.5-flash,Ndlogok,"Kata **""ndlogok""** adalah umpatan kasar dalam bahasa Jawa yang biasanya digunakan untuk menyebut seseorang bodoh, kurang ajar, atau brengsek.",1,0.755,0.9999,0.7126,1,1,3847,0.0035445,23,390
 gemini-3.5-flash,Ngeliwet,"**Ngeliwet** berarti memasak nasi, biasanya dengan cara tradisional menggunakan periuk atau kastrol.",1,0.7008,0.9994,0.8053,2,1,3457,0.0029415,23,323
-gemini-3.5-flash,Ngleketer,"Kata **""ngleketer""** dalam bahasa Jawa berarti tergeletak lemas atau menggigil tidak berdaya, biasanya karena sakit, kedinginan, atau sangat kelelahan.",0,0.5823,0.9975,0.4139,1,0,3404,0.003123,24,343
-gemini-3.5-flash,Ngriki,"Kata ""ngriki"" dalam bahasa Jawa (ragam krama/halus) berarti **""sini""** atau **""ke sini""** dalam bahasa Indonesia.",1,0.3729,0.9654,0.9263,3,1,3242,0.0025005,23,274
-gemini-3.5-flash,Pakunjaran,"Kata ""pakunjaran"" dalam bahasa Jawa berarti **penjara** atau **bui**.",1,0.4549,0.9874,0.7862,3,1,2609,0.0018435,23,201
-gemini-3.5-flash,Pangrasan,"Kata ""pangrasan"" dalam bahasa Jawa berarti **perasaan** atau **indra perasa** dalam bahasa Indonesia.",1,0.445,0.9855,0.5025,2,1,4580,0.0030315,23,333
-gemini-3.5-flash,Pecetan,"Kata Jawa ""pecetan"" berarti **tombol** atau **pencetan** dalam bahasa Indonesia.",0,0.1258,0.5008,0.1021,2,0,4687,0.004245,22,468
-gemini-3.5-flash,Pimen,"Kata **""pimen""** dalam bahasa Jawa (khususnya dialek Banyumasan/Ngapak) berarti **""bagaimana""** dalam bahasa Indonesia.",1,0.3155,0.9284,0.9998,3,1,2576,0.002319,22,254
-gemini-3.5-flash,Sasmito,"Kata ""Sasmito"" (atau *sasmita*) dalam bahasa Jawa berarti **isyarat, tanda, firasat,** atau **petunjuk**.",1,0.7079,0.9994,0.8,2,1,3104,0.002436,22,267
-gemini-3.5-flash,Sedelat,"Kata Jawa ""sedelat"" berarti **sebentar** atau **sekejap** dalam bahasa Indonesia.",1,0.3794,0.9677,0.7998,3,1,3008,0.002121,22,232
-gemini-3.5-flash,Semribit,"Kata **""semribit""** berarti hembusan angin sepoi-sepoi yang terasa sejuk atau dingin.",1,0.7877,1.0,0.7101,2,1,2941,0.0025545,23,280
-gemini-3.5-flash,Sirtu,"**Sirtu** adalah singkatan dari ""pasir batu"", yaitu bahan bangunan berupa campuran pasir dan kerikil yang biasanya digunakan untuk pengurukan jalan atau fondasi.",1,0.8584,1.0,0.4534,1,1,3584,0.0030135,23,331
-gemini-3.5-flash,Speleng,"Kata **""speleng""** berarti kelonggaran, selisih, atau batas toleransi (baik berupa ruang, waktu, maupun jumlah).",1,0.1512,0.5873,0.7722,1,1,3934,0.003372,22,371
-gemini-3.5-flash,Urugan,"**Urugan** berarti timbunan tanah, pasir, atau batu yang digunakan untuk meratakan, mengisi lubang, atau meninggikan permukaan tanah.",1,0.8228,1.0,0.2935,1,1,3695,0.0033465,23,368
-gemini-3.5-flash,dadi'ne,"Kata **""dadi'ne""** (atau *dadine*) dalam bahasa Indonesia berarti **""jadinya""**, **""akibatnya""**, atau **""oleh karena itu""**.",1,0.466,0.9891,0.5253,1,1,3486,0.003294,24,362
-gemini-3.5-flash,klotekan,"**Klotekan** adalah aktivitas membuat bunyi-bunyian berirama dengan cara memukul-mukul benda di sekitar (seperti bambu, kayu, atau kaleng kosong) untuk menghasilkan musik sederhana.",1,0.3521,0.956,0.4353,1,1,3735,0.0033105,23,364
-gemini-3.5-flash,ndusel,"Kata **""ndusel""** dalam bahasa Indonesia berarti merapatkan tubuh atau menyusupkan kepala dengan manja ke tubuh orang lain untuk mencari kehangatan atau kenyamanan.",1,0.4891,0.9914,0.4761,1,1,4003,0.003066,22,337
-gemini-3.5-flash,sompret,"""Sompret"" adalah kata umpatan atau ungkapan kekesalan dalam bahasa Jawa yang berarti ""sialan"" atau ""brengsek"".",1,0.7361,0.9999,0.591,1,1,3815,0.003381,22,372
+gemini-3.5-flash,Ngleketer,"Kata **""ngleketer""** dalam bahasa Jawa berarti tergeletak lemas atau menggigil tidak berdaya, biasanya karena sakit, kedinginan, atau sangat kelelahan.",0,0.5823,0.9968,0.4139,1,0,3404,0.003123,24,343
+gemini-3.5-flash,Ngriki,"Kata ""ngriki"" dalam bahasa Jawa (ragam krama/halus) berarti **""sini""** atau **""ke sini""** dalam bahasa Indonesia.",1,0.3758,0.9641,0.927,4,1,3242,0.0025005,23,274
+gemini-3.5-flash,Pakunjaran,"Kata ""pakunjaran"" dalam bahasa Jawa berarti **penjara** atau **bui**.",1,0.4546,0.986,0.7844,3,1,2609,0.0018435,23,201
+gemini-3.5-flash,Pangrasan,"Kata ""pangrasan"" dalam bahasa Jawa berarti **perasaan** atau **indra perasa** dalam bahasa Indonesia.",1,0.4555,0.9864,0.5085,2,1,4580,0.0030315,23,333
+gemini-3.5-flash,Pecetan,"Kata Jawa ""pecetan"" berarti **tombol** atau **pencetan** dalam bahasa Indonesia.",0,0.1266,0.4767,0.1019,3,0,4687,0.004245,22,468
+gemini-3.5-flash,Pimen,"Kata **""pimen""** dalam bahasa Jawa (khususnya dialek Banyumasan/Ngapak) berarti **""bagaimana""** dalam bahasa Indonesia.",1,0.3169,0.9266,0.9993,4,1,2576,0.002319,22,254
+gemini-3.5-flash,Sasmito,"Kata ""Sasmito"" (atau *sasmita*) dalam bahasa Jawa berarti **isyarat, tanda, firasat,** atau **petunjuk**.",1,0.7076,0.9994,0.7993,2,1,3104,0.002436,22,267
+gemini-3.5-flash,Sedelat,"Kata Jawa ""sedelat"" berarti **sebentar** atau **sekejap** dalam bahasa Indonesia.",1,0.379,0.9653,0.8012,4,1,3008,0.002121,22,232
+gemini-3.5-flash,Semribit,"Kata **""semribit""** berarti hembusan angin sepoi-sepoi yang terasa sejuk atau dingin.",1,0.7873,1.0,0.7113,2,1,2941,0.0025545,23,280
+gemini-3.5-flash,Sirtu,"**Sirtu** adalah singkatan dari ""pasir batu"", yaitu bahan bangunan berupa campuran pasir dan kerikil yang biasanya digunakan untuk pengurukan jalan atau fondasi.",1,0.8583,1.0,0.453,1,1,3584,0.0030135,23,331
+gemini-3.5-flash,Speleng,"Kata **""speleng""** berarti kelonggaran, selisih, atau batas toleransi (baik berupa ruang, waktu, maupun jumlah).",1,0.151,0.561,0.7705,1,1,3934,0.003372,22,371
+gemini-3.5-flash,Urugan,"**Urugan** berarti timbunan tanah, pasir, atau batu yang digunakan untuk meratakan, mengisi lubang, atau meninggikan permukaan tanah.",1,0.824,1.0,0.2936,1,1,3695,0.0033465,23,368
+gemini-3.5-flash,dadi'ne,"Kata **""dadi'ne""** (atau *dadine*) dalam bahasa Indonesia berarti **""jadinya""**, **""akibatnya""**, atau **""oleh karena itu""**.",1,0.466,0.9879,0.5253,1,1,3486,0.003294,24,362
+gemini-3.5-flash,klotekan,"**Klotekan** adalah aktivitas membuat bunyi-bunyian berirama dengan cara memukul-mukul benda di sekitar (seperti bambu, kayu, atau kaleng kosong) untuk menghasilkan musik sederhana.",1,0.3521,0.9539,0.4353,2,1,3735,0.0033105,23,364
+gemini-3.5-flash,ndusel,"Kata **""ndusel""** dalam bahasa Indonesia berarti merapatkan tubuh atau menyusupkan kepala dengan manja ke tubuh orang lain untuk mencari kehangatan atau kenyamanan.",1,0.4891,0.9904,0.4761,1,1,4003,0.003066,22,337
+gemini-3.5-flash,sompret,"""Sompret"" adalah kata umpatan atau ungkapan kekesalan dalam bahasa Jawa yang berarti ""sialan"" atau ""brengsek"".",1,0.7351,0.9999,0.5924,1,1,3815,0.003381,22,372
+gemma-4-31b,Ageman,Ageman berarti pakaian atau busana.,1,,,,,,2543,8.5e-06,35,9
+gemma-4-31b,Anduweni,**Anduweni** berarti memiliki atau mempunyai.,1,,,,,,1959,9.08e-06,36,11
+gemma-4-31b,Badogan,**Badogan** berarti orang yang bekerja sebagai buruh kasar atau pekerja harian.,0,,,,,,1123,9.62e-06,35,18
+gemma-4-31b,Biyayakan,**Biyayakan** berarti biaya atau pengeluaran uang.,0,,,,,,859,8e-06,36,14
+gemma-4-31b,Biyuh,"**Biyuh** adalah kata seru (interjeksi) yang digunakan untuk mengekspresikan rasa terkejut, heran, atau kagum (mirip dengan kata ""Wah"" atau ""Astaga"").",1,,,,,,9735,2.0908e-05,36,46
+gemma-4-31b,Bladak,"**Bladak** artinya berbicara apa adanya, terlalu jujur, atau blak-blakan tanpa basa-basi.",0,,,,,,1133,1.244e-05,36,26
+gemma-4-31b,Coeg,"Kata ""coeg"" dalam bahasa Indonesia berarti cobek (alat untuk menghaluskan bumbu).",0,,,,,,10889,1.1538e-05,35,21
+gemma-4-31b,dadi'ne,"**Dadi'ne** berarti ""jadikanlah"" atau ""buatlah menjadi"".",1,,,,,,983,1.016e-05,37,19
+gemma-4-31b,Dangak,**Dangak** berarti menengadah atau melihat ke arah atas.,1,,,,,,2606,8.05e-06,35,15
+gemma-4-31b,Gakpati,**Gakpati** berarti tidak mau atau tidak sudi.,0,,,,,,2583,7.78e-06,36,14
+gemma-4-31b,Geluduk,Geluduk artinya suara guntur atau guruh.,1,,,,,,2978,6.65e-06,35,11
+gemma-4-31b,Gendakan,**Gendakan** berarti barang hasil curian atau barang yang didapat dari hasil mencuri.,0,,,,,,1183,1.188e-05,36,21
+gemma-4-31b,Gondes,"**Gondes** adalah istilah slang yang berarti seseorang yang terlihat lugu, polos, atau berperilaku seperti anak kecil (kekanak-kanakan).",0,,,,,,1460,1.403e-05,35,32
+gemma-4-31b,Gremet,Gremet berarti bergerak perlahan atau merayap sedikit demi sedikit.,1,,,,,,1741,1.144e-05,36,16
+gemma-4-31b,Kacariyos,**Kacariyos** berarti dikisahkan atau diceritakan.,1,,,,,,644,8.68e-06,36,16
+gemma-4-31b,Kaleh,**Kaleh** berarti **dengan** atau **dan** (dalam tingkatan bahasa Jawa halus/Krama).,0,,,,,,3015,1.12e-05,35,24
+gemma-4-31b,Kemecer,Kemecer artinya air liur yang keluar secara tidak sengaja karena melihat sesuatu yang sangat menggoda (biasanya makanan).,1,,,,,,1530,1.2e-05,35,25
+gemma-4-31b,Kesawat,Kesawat berarti pesawat terbang.,0,,,,,,765,7.21e-06,35,7
+gemma-4-31b,Kesuen,Kesuen berarti terlalu lama.,1,,,,,,462,1.33e-05,35,7
+gemma-4-31b,klotekan,Klotekan adalah bunyi gemerincing atau suara benda keras yang saling berbenturan.,0,,,,,,3890,1.0918e-05,36,19
+gemma-4-31b,Kreak,"**Kreak** adalah kata kasar dalam bahasa Jawa yang berarti orang yang berperilaku buruk, tidak tahu tata krama, atau berandalan.",1,,,,,,3915,1.73e-05,35,31
+gemma-4-31b,Kupret,Kupret adalah kata umpatan atau seruan kekesalan yang biasanya digunakan untuk mengekspresikan rasa jengkel atau terkejut.,1,,,,,,5748,1.77e-05,35,32
+gemma-4-31b,Leksanani,"Kata ""leksanani"" (dari kata dasar *laksana*) berarti melaksanakan, mengerjakan, atau menjalankan suatu perintah/tugas.",1,,,,,,2050,1.311e-05,37,29
+gemma-4-31b,Lidis,Lidis berarti habis terjual atau habis sama sekali.,1,,,,,,1832,9.35e-06,35,12
+gemma-4-31b,Manahipun,**Manahipun** berarti hatinya atau pikirannya (dalam ragam bahasa halus/Krama).,1,,,,,,13514,1.058e-05,36,22
+gemma-4-31b,Mleding,*Mleding* berarti terlepas atau terlepasnya sesuatu dari tempatnya (biasanya benda yang terpasang atau tersangkut).,0,,,,,,1041,1.65e-05,35,29
+gemma-4-31b,Ndaut,**Ndaut** berarti menarik atau menyentak (biasanya digunakan untuk menarik sesuatu dengan cepat atau kuat).,0,,,,,,6730,1.2278e-05,35,23
+gemma-4-31b,Ndlogok,"**Ndlogok** berarti bodoh, tolol, atau bebal.",1,,,,,,1533,1.184e-05,36,17
+gemma-4-31b,ndusel,*Ndusel* berarti menyandarkan atau membenamkan bagian tubuh (biasanya kepala) ke tubuh orang lain atau benda empuk untuk mencari kenyamanan.,1,,,,,,1383,1.747e-05,35,34
+gemma-4-31b,Ngeliwet,Ngeliwet adalah kegiatan memasak nasi dengan bumbu tertentu dalam satu wadah (biasanya panci atau kastrol) untuk dimakan bersama-sama.,1,,,,,,1712,1.824e-05,36,33
+gemma-4-31b,Ngleketer,"Ngleketer artinya gemetar atau menggigil (biasanya karena kedinginan, ketakutan, atau sakit).",0,,,,,,6958,1.254e-05,37,26
+gemma-4-31b,Ngriki,"Ngriki artinya ""ke sini"" (dalam bentuk krama/halus).",1,,,,,,936,9.72e-06,36,18
+gemma-4-31b,Pakunjaran,Pakunjaran berarti tempat pembuangan atau pengasingan.,0,,,,,,756,8e-06,36,14
+gemma-4-31b,Pangrasan,Pangrasan berarti perasaan atau sesuatu yang dirasakan.,1,,,,,,7176,1.024e-05,36,13
+gemma-4-31b,Pecetan,**Pecetan** berarti orang yang telah diberhentikan dari pekerjaannya atau dipecat.,0,,,,,,11162,1.064e-05,35,21
+gemma-4-31b,Pimen,**Pimen** berarti **bagaimana** (bentuk tidak baku/dialek dari kata *piye* atau *pripun*).,1,,,,,,1913,1.5e-05,35,30
+gemma-4-31b,Sasmito,"Sasmito berarti isyarat, pertanda, atau simbol.",1,,,,,,1218,1.049e-05,35,14
+gemma-4-31b,Sedelat,**Sedelat** berarti sebentar atau sekejap.,1,,,,,,2029,9.75e-06,35,13
+gemma-4-31b,Semribit,**Semribit** berarti angin yang bertiup sepoi-sepoi atau terasa sejuk.,1,,,,,,1001,1.384e-05,36,22
+gemma-4-31b,Sirtu,Sirtu adalah singkatan dari pasir batu.,1,,,,,,2328,7.958e-06,36,11
+gemma-4-31b,sompret,**Sompret** berarti terompet atau alat tiup yang mengeluarkan bunyi nyaring.,0,,,,,,2958,9.45e-06,35,19
+gemma-4-31b,Speleng,"**Speleng** berarti meremehkan, menganggap enteng, atau tidak menganggap serius sesuatu.",0,,,,,,4556,1.41e-05,35,23
+gemma-4-31b,Urugan,Urugan berarti tanah atau material (seperti pasir/batu) yang digunakan untuk menimbun atau mengurug lahan.,1,,,,,,1270,1.532e-05,36,28
+glm-5.3-flash,Ageman,"**Ageman** artinya pakaian atau busana (berasal dari kata ""agem"" yang berarti mengenakan).",1,0.6188,0.9976,0.5776,4,,6207,4.09e-05,42,151
+glm-5.3-flash,Anduweni,"""Anduweni"" artinya memiliki atau punya sesuatu.",1,0.3648,0.9604,0.5447,1,,6954,4.0475e-05,43,149
+glm-5.3-flash,Badogan,"**Badogan** berarti orang yang bertingkah laku seperti anjing, yaitu orang yang bodoh dan tunduk/menghamba mematuhi orang lain secara memalukan.",0,0.2173,0.7616,0.0362,3,,15303,9.565e-05,42,370
+glm-5.3-flash,Biyayakan,**Biyayakan** artinya membiayai atau mengeluarkan biaya untuk sesuatu.,0,0.216,0.7576,0.2215,2,,14710,6.905e-05,44,263
+glm-5.3-flash,Biyuh,"**Biyuh** artinya hamil atau mengandung, biasanya digunakan untuk hewan yang bunting (misalnya pitik biyuh = ayam yang siap bertelur).",0,0.1992,0.7102,0.1039,4,,10872,7.5225e-05,43,288
+glm-5.3-flash,Bladak,Bladak dalam bahasa Jawa berarti **pala** (buah rempah) dalam bahasa Indonesia.,0,0.034,0.1394,0.2362,4,,11990,5.2475e-05,43,197
+glm-5.3-flash,Coeg,"**Coeg** adalah kata kasar dalam bahasa Jawa yang secara harfiah berarti kemaluan perempuan, tetapi sering dipakai sebagai seruan atau sapaan akrab di antara teman dekat (mirip ""bro"" atau ""cuy"").",1,0.5025,0.9917,0.3839,1,,17036,0.0001509,42,591
+glm-5.3-flash,dadi'ne,"""Dadi'ne"" berarti ""jadi"" atau ""hasilnya"" dalam bahasa Indonesia.",1,0.2761,0.8776,0.396,4,,9488,6.78e-05,44,258
+glm-5.3-flash,Dangak,"Dangak dalam bahasa Jawa berarti burung pelatuk, yaitu burung yang biasa mematuk batang kayu untuk mencari serangga.",0,0.2763,0.8776,0.0568,3,,6337,0.00012395,43,235
+glm-5.3-flash,Gakpati,**Gakpati** berarti tergagap-gagap atau terbata-bata saat berbicara.,0,0.2464,0.8267,0.0698,4,,47340,0.00203795,43,4063
+glm-5.3-flash,Geluduk,"Geluduk adalah jajanan tradisional Jawa berbentuk potongan kecil yang terbuat dari tepung beras dan santan, biasanya berwarna merah muda dengan tekstur kenyal.",0,0.1351,0.5066,0.1137,3,,14760,0.000112725,43,438
+glm-5.3-flash,Gendakan,"**Gendakan** artinya gendongan atau digendong, yaitu membawa anak dengan cara diletakkan di pinggang/pangkuan.",0,0.2391,0.811,0.1263,4,,6353,0.00035795,43,703
+glm-5.3-flash,Gondes,**Gondes** berarti gemuk dalam bahasa Indonesia.,0,0.0899,0.3369,0.1513,5,,5064,7.845e-05,43,144
+glm-5.3-flash,Gremet,"**Gremet** berarti merasa tidak enak hati, canggung, atau risih (tidak nyaman).",0,0.2906,0.8957,0.2255,4,,9041,9.3725e-05,43,362
+glm-5.3-flash,Kacariyos,"Kacariyos berarti ""diceritakan"" dalam bahasa Indonesia.",1,0.3216,0.9301,0.9998,2,,5341,4.18e-05,44,154
+glm-5.3-flash,Kaleh,"""Kaleh"" dalam bahasa Jawa berarti ""dan"" atau ""dengan"" dalam bahasa Indonesia.",0,0.2166,0.7605,0.1831,4,,7787,8.215e-05,42,316
+glm-5.3-flash,Kemecer,**Kemecer** artinya tercecer atau berserakan (misalnya: barang-barangnya kemecer = barang-barangnya tercecer).,0,0.1499,0.5568,0.1678,4,,13688,0.0002138,42,415
+glm-5.3-flash,Kesawat,Kesawat berarti disambar atau tersambar petir.,0,0.4666,0.9879,0.3229,3,,7867,5.5725e-05,43,210
+glm-5.3-flash,Kesuen,"**Kesuen** (kesuwun) dalam bahasa Jawa berarti **""terima kasih""** dalam bahasa Indonesia.",0,0.0483,0.1893,0.0712,5,,22475,0.00012315,42,480
+glm-5.3-flash,klotekan,"**Klotekan** berarti kentongan, yaitu alat komunikasi tradisional dari bambu atau kayu yang dipukul untuk memberi tanda atau sinyal.",0,0.4378,0.9837,0.5302,1,,10972,0.0002446,44,476
+glm-5.3-flash,Kreak,"**Kreak** berarti suara berderit atau berkerak, misalnya bunyi pintu atau kayu tua saat digerakkan.",0,0.1173,0.4421,0.1419,4,,20601,0.0001404,42,549
+glm-5.3-flash,Kupret,"Kupret (kampret) dalam bahasa Jawa secara harfiah berarti kelelawar, tetapi lebih sering digunakan sebagai kata makian atau caci maki kasar.",0,0.3487,0.9514,0.229,4,,9353,7.1725e-05,43,274
+glm-5.3-flash,Leksanani,**Leksanani** berarti tulisan atau surat (korespondensi) dalam bahasa Indonesia.,0,0.1078,0.4064,0.151,4,,23865,0.0002236,44,434
+glm-5.3-flash,Lidis,"**Lidis** artinya pinggir atau bibir (tepi sesuatu), misalnya bibir gelas atau tepi kali.",0,0.1961,0.7029,0.1482,3,,13299,0.00013815,42,540
+glm-5.3-flash,Manahipun,"**Manahipun** berarti ""hatinya"" (manah = hati, akhiran -ipun = -nya).",1,0.0782,0.2931,0.9998,4,,5354,5.555e-05,44,209
+glm-5.3-flash,Mleding,**Mleding** berarti kaget atau terkejut secara tiba-tiba.,0,0.261,0.8544,0.163,3,,8184,5.2725e-05,43,198
+glm-5.3-flash,Ndaut,"**Ndaut** artinya memancing, yaitu menangkap ikan menggunakan pancing.",0,0.2565,0.8463,0.1646,2,,2271,0.00011821,42,239
+glm-5.3-flash,Ndlogok,**Ndlogok** berarti memedulikan atau menghiraukan sesuatu.,0,0.5391,0.995,0.3632,2,,8480,7.4975e-05,43,287
+glm-5.3-flash,ndusel,Ndusel artinya menyusup atau menyelipkan sesuatu ke dalam celah atau lubang.,0,0.2963,0.9033,0.3555,3,,15541,0.000127975,43,499
+glm-5.3-flash,Ngeliwet,"**Ngeliwet** berarti duduk bersimpuh, yaitu duduk dengan kedua kaki dilipat ke belakang ke satu sisi.",0,0.2297,0.7905,0.068,4,,12347,0.000107975,43,419
+glm-5.3-flash,Ngleketer,**Ngleketer** artinya menganggur atau berkelana tanpa kegiatan yang jelas (bermalas-malasan).,0,0.3639,0.9598,0.1442,2,,23635,0.0001423,44,556
+glm-5.3-flash,Ngriki,"**Ngriki** artinya ""di sini"" dalam bahasa Indonesia.",1,0.4088,0.9769,0.7134,3,,7917,4.9225e-05,43,184
+glm-5.3-flash,Pakunjaran,**Pakunjaran** berarti kawanan gajah atau tempat berkumpulnya banyak gajah.,0,0.1509,0.5604,0.0854,4,,13262,0.0001058,44,410
+glm-5.3-flash,Pangrasan,"**Pangrasan** berarti ""perasaan"" atau hal yang dirasakan dalam hat",1,0.4464,0.9849,0.5158,3,,15427,0.000153225,43,600
+glm-5.3-flash,Pecetan,Pecetan artinya buku catatan kecil atau buku saku untuk mencatat sesuatu.,0,0.2057,0.7293,0.1649,2,,18901,8.43e-05,44,324
+glm-5.3-flash,Pimen,"""Pimen"" dalam bahasa Jawa (bentuk santai dari ""piye"") berarti ""bagaimana"" atau ""gimana"" dalam bahasa Indonesia.",1,0.3518,0.9537,0.8499,2,,6988,6.04e-05,42,229
+glm-5.3-flash,Sasmito,"**Sasmito** berarti ""tanda"" atau ""petunjuk/isyarat"" dalam bahasa Jawa.",1,0.6838,0.9988,0.8064,3,,1937,0.00013295,43,253
+glm-5.3-flash,Sedelat,"**Sedelat** artinya ""sebentar"" atau ""sejenak"" dalam bahasa Indonesia.",1,0.4028,0.9748,0.5428,2,,11339,0.000110225,43,428
+glm-5.3-flash,Semribit,"**Semribit** berarti *merinding*, yaitu merasakan dingin atau takut sehingga bulu kuduk berdiri.",0,0.482,0.9894,0.2668,3,,5974,5.2725e-05,43,198
+glm-5.3-flash,Sirtu,"Sirtu dalam bahasa Jawa artinya ""pasti"" atau ""tentu"".",0,0.1332,0.4994,0.0797,4,,7885,4.4975e-05,43,167
+glm-5.3-flash,sompret,"**Sompret** berarti norak atau mencolok, yaitu penampilan yang berlebihan dan kurang pantas.",0,0.4565,0.9864,0.42,4,,8857,8.39e-05,42,323
+glm-5.3-flash,Speleng,**Speleng** artinya **paku** (benda logam runcing untuk menyambung kayu) dalam bahasa Indonesia.,0,0.1208,0.4555,0.2036,3,,6159,5.1225e-05,43,192
+glm-5.3-flash,Urugan,Urugan berarti t,0,-0.0035,0.0517,0.1096,5,,20578,0.000153225,43,600
+glm-5.3,Ageman,**Ageman** artinya pakaian (baju).,1,,,,,,1706,0.000158555,42,26
+glm-5.3,Anduweni,"**Anduweni** berarti ""memiliki"" atau ""mempunyai"" (dari kata dasar *duwé* yang diberi awalan *andha-/and-*).",1,,,,,,1105,0.0002582,43,45
+glm-5.3,Badogan,"**Badogan** berarti keadaan yang berantakan, kusut, atau tidak karuan.",0,,,,,,3603,0.00049948,43,109
+glm-5.3,Biyayakan,"**Biyayakan** berarti ""yang menjadi biaya"" atau ""beban pembiayaan"" (kata ini berasal dari kata *biaya* dengan akhiran *-akěn* yang berarti ""dijadikan biaya/ditanggungkan biayanya"").",0,,,,,,1798,0.0004488,44,88
+glm-5.3,Biyuh,"""Biyuh"" adalah seruan untuk mengusir ayam atau burung, atau menyuruh seseorang pergi (kira-kira artinya ""hus!"" atau ""pergi sana!"").",0,,,,,,1578,0.0003594,43,68
+glm-5.3,Bladak,**Bladak** berarti berisik atau bising (misalnya suara yang gaduh dan ramai).,0,,,,,,19051,0.00027695,43,65
+glm-5.3,Coeg,"""Coeg"" adalah kata slang kasar (serumpun dengan ""anjing/sialan"") yang dipakai untuk mengumpet atau menyebut lawan bicara dengan nada kesal atau candaan.",1,,,,,,2237,0.00042908,43,93
+glm-5.3,dadi'ne,"**Dadiné** berarti ""jadinya"" atau ""akibatnya"" (kata ""dadi"" yang mendapat akhiran -né).",1,,,,,,1771,0.0002256,44,50
+glm-5.3,Dangak,**Dangak** artinya menengadah atau mendongakkan kepala ke atas.,1,,,,,,1480,0.00017528,44,35
+glm-5.3,Gakpati,"**Gakpati** berarti ""tidak tahu"" (gak = tidak, pati = tahu).",0,,,,,,900,0.000377,43,72
+glm-5.3,Geluduk,**Geluduk** artinya gemuruh atau suara keras seperti guntur/benda besar jatuh (misalnya suara jantung berdebar kencang).,1,,,,,,1468,0.00020168,44,41
+glm-5.3,Gendakan,**Gendakan** berarti kebiasaan atau kegemaran (sesuatu yang biasa/suka dilakukan).,0,,,,,,1314,0.0004342,43,85
+glm-5.3,Gondes,"**Gondes** berarti keriting, biasa dipakai untuk menyebut rambut yang dikritingkan (pengeritingan rambut) atau orang yang rambutnya keriting.",0,,,,,,1267,0.0003726,43,71
+glm-5.3,Gremet,**Gremet** berarti perasaan merinding atau merinding karena ngeri/jijik (seperti merinding saat melihat sesuatu yang menjijikkan atau menyeramkan).,0,,,,,,1239,0.0003814,43,73
+glm-5.3,Kacariyos,"""Kacariyos"" berarti diceritakan atau sudah diceritakan.",1,,,,,,2009,0.000198,44,31
+glm-5.3,Kaleh,"**Kaleh** (kalèh) berarti ""dengan"" (kata depan, dalam bahasa Jawa halus/sastra).",0,,,,,,1258,0.0004592,42,91
+glm-5.3,Kemecer,**Kemecer** berarti berceceran atau tumpah berhamburan (biasanya tentang cairan atau benda kecil yang jatuh berserakan).,0,,,,,,1814,0.0005164,42,104
+glm-5.3,Kesawat,**Kesawat** artinya terkena sengat (misalnya tersengat lebah atau kalajengking).,1,,,,,,2663,0.00070328,44,155
+glm-5.3,Kesuen,**Kesuen** artinya kesukaan atau hal yang paling disukai.,0,,,,,,1478,0.00016508,43,33
+glm-5.3,klotekan,"**Klotekan** berarti bunyi ""kukuruyuk"" ayam betina yang sedang bertelur atau berkotek.",0,,,,,,1283,0.000396,44,76
+glm-5.3,Kreak,**Kreak** berarti bunyi gemeretak atau berderit (seperti bunyi kayu atau benda kering yang bergesekan).,0,,,,,,3467,0.00070188,43,155
+glm-5.3,Kupret,**Kupret** artinya kecil/kerdil (biasanya untuk anak kecil yang lucu atau hinaan untuk orang yang kecil dan kurang sempurna).,0,,,,,,2684,0.00027208,44,57
+glm-5.3,Leksanani,**Leksanani** berarti menganiaya atau menyiksa (seseorang).,0,,,,,,1352,0.0004708,44,93
+glm-5.3,Lidis,**Lidis** berarti serpihan kayu atau bambu yang dipakai untuk membersihkan kotoran (misalnya setelah buang air besar).,0,,,,,,1148,0.0003932,42,76
+glm-5.3,Manahipun,"**Manahipun** berarti ""hatinya"" (dari kata *manah* = hati, dengan akhiran *-ipun* yang berarti ""nya"" dalam bahasa halus).",1,,,,,,1880,0.00035268,45,75
+glm-5.3,Mleding,**Mleding** artinya meledak atau meletus (seperti bunyi tembakan atau benda yang pecah berbunyi keras).,0,,,,,,2058,0.00017195,43,35
+glm-5.3,Ndaut,**Ndaut** artinya mengambil atau menjemput sesuatu/seseorang (misalnya mengambil barang yang letaknya agak jauh atau menjemput orang).,0,,,,,,937,0.0002436,42,42
+glm-5.3,Ndlogok,"**Ndlogok** artinya tersembunyi atau berada di tempat persembunyian (misalnya dalam frasa ""kayane ndlogok"" = rupanya tersembunyi).",0,,,,,,1759,0.000487,43,97
+glm-5.3,ndusel,**Ndusel** artinya menyelinap atau menyelipkan sesuatu secara diam-diam (misalnya menyelipkan uang tanpa sepengetahuan orang lain).,0,,,,,,2590,0.00053168,44,116
+glm-5.3,Ngeliwet,"**Ngeliwet** artinya menyimpang atau menghindar dari pokok pembicaraan (misalnya saat ditanya, jawabannya melantur ke hal lain).",0,,,,,,1168,0.000333,43,62
+glm-5.3,Ngleketer,**Ngleketer** artinya menempel atau berpegangan erat pada seseorang (biasanya anak yang menempel pada orang tuanya).,0,,,,,,1612,0.00023388,45,48
+glm-5.3,Ngriki,"**Ngriki** artinya ""ke sini"" atau ""kemari"" (arah menuju tempat pembicara).",1,,,,,,801,0.000245,43,42
+glm-5.3,Pakunjaran,**Pakunjaran** artinya penjara atau tempat orang dipenunggu (dipenjara).,1,,,,,,11565,0.00018988,45,38
+glm-5.3,Pangrasan,**Pangrasan** berarti perasaan atau kesan yang timbul dalam hati (intuisi).,1,,,,,,1656,0.000176,44,26
+glm-5.3,Pecetan,**Pecetan** berarti perihal mencubit atau cubitan (tindakan menjepit kulit dengan jari).,0,,,,,,2445,0.0005412,44,109
+glm-5.3,Pimen,"**Pimen** artinya ""yang mana"" (dipakai dalam pertanyaan memilih, misalnya ""pimen sing arep kok tuku"" = yang mana yang ingin kamu beli).",0,,,,,,1407,0.000283955,42,56
+glm-5.3,Sasmito,Sasmito berarti tanda atau isyarat (petunjuk tersembunyi).,1,,,,,,1444,0.00016648,44,33
+glm-5.3,Sedelat,**Sedelat** berarti kira-kira satu jam lamanya (satu jam waktu).,0,,,,,,1869,0.00037328,44,80
+glm-5.3,Semribit,"**Semribit** (sering ditulis *semrebit*) berarti ramai atau riuh, misalnya suasana yang bising oleh banyak orang.",0,,,,,,3173,0.0004562,43,90
+glm-5.3,Sirtu,"""Sirtu"" artinya ""kamu"" (kata ganti orang kedua dalam bahasa Jawa).",0,,,,,,3153,0.00056248,44,123
+glm-5.3,sompret,"**Sompret** artinya mencubit (biasanya dengan kuku, hingga terasa perih).",0,,,,,,2618,0.00024428,43,51
+glm-5.3,Speleng,"**Speleng** artinya gelap gulita atau sangat gelap (misalnya ""peteng speleng"" berarti gelap sekali).",0,,,,,,1173,0.0002846,43,51
+glm-5.3,Urugan,"**Urugan** artinya timbunan atau tanah (pasir, batu) yang ditimbun untuk mengisi atau menaikkan permukaan tanah.",1,,,,,,1173,0.0003022,43,55
+gpt-5.6-luna,Ageman,"Ageman berarti pakaian atau busana, sering kali bermakna pakaian kebesaran atau pakaian adat.",1,0.738,0.9999,0.6423,1,1,1746,1.98e-05,30,28
+gpt-5.6-luna,Anduweni,“Anduweni” berarti “memiliki” atau “mempunyai.”,1,0.3454,0.9489,0.7421,3,1,3072,4.87e-05,31,76
+gpt-5.6-luna,Badogan,Badogan berarti wadah atau tempat untuk menyimpan makanan.,1,0.3378,0.9439,0.5063,2,,4124,0.0001416,30,231
+gpt-5.6-luna,Biyayakan,“Biyayakan” berarti **membiayai atau mengeluarkan biaya untuk sesuatu**.,0,0.1505,0.5592,0.2092,3,1,3708,0.0001507,31,246
+gpt-5.6-luna,Biyuh,"“Biyuh” berarti seruan kaget atau kagum, seperti “wah” atau “astaga”.",1,0.5304,0.9948,0.561,3,1,3263,4.99e-05,31,78
+gpt-5.6-luna,Bladak,Bladak berarti **terbuka atau terlihat dengan jelas**.,0,0.1942,0.6982,0.0411,1,0,9143,0.0003247,31,536
+gpt-5.6-luna,Coeg,"“Coeg” adalah sapaan slang kasar dalam bahasa Jawa, kira-kira berarti “bro” atau “kawan.”",1,0.3469,0.9502,0.3812,3,1,6111,0.0001998,30,328
+gpt-5.6-luna,dadi'ne,“Dadi’ne” berarti “jadinya” atau “akhirnya.”,1,0.351,0.9534,0.5197,2,1,2863,7.33e-05,31,117
+gpt-5.6-luna,Dangak,“Dangak” berarti menengadah atau mendongak ke atas.,1,0.4338,0.9827,0.6308,1,1,4148,4.8e-05,30,75
+gpt-5.6-luna,Gakpati,“Gakpati” berarti “tidak terlalu” atau “tidak begitu.”,1,0.4071,0.9763,0.9102,3,1,3686,9.98e-05,32,161
+gpt-5.6-luna,Geluduk,“Geluduk” berarti bunyi guruh atau suara gemuruh yang keras.,1,0.5905,0.9971,0.4496,1,1,1842,1.5e-05,30,20
+gpt-5.6-luna,Gendakan,“Gendakan” berarti hubungan gelap atau perselingkuhan.,1,0.4712,0.988,0.7951,3,0,3283,6.55e-05,31,104
+gpt-5.6-luna,Gondes,"“Gondes” adalah sebutan slang, biasanya bernada merendahkan, untuk pemuda berambut gondrong bergaya kampungan atau “ndeso”.",1,0.3757,0.9641,0.3166,2,1,3036,9.24e-05,30,149
+gpt-5.6-luna,Gremet,“Gremet” berarti merayap atau berjalan perlahan-lahan.,1,0.7142,0.9996,0.7549,1,1,3589,0.0001453,31,237
+gpt-5.6-luna,Kacariyos,“Kacariyos” berarti “diceritakan” atau “konon.”,1,0.276,0.8774,0.8661,4,1,3670,7.22e-05,32,115
+gpt-5.6-luna,Kaleh,“Kaleh” berarti “dua” dalam bahasa Indonesia.,1,0.4284,0.9813,0.9997,3,1,2839,7.74e-05,30,124
+gpt-5.6-luna,Kemecer,“Kemecer” berarti ingin sekali atau ngiler melihat makanan.,1,0.4947,0.9914,0.5079,2,1,3708,4.92e-05,30,77
+gpt-5.6-luna,Kesawat,“Kesawat” berarti terkena lemparan atau terlempar.,1,0.711,0.9994,0.5749,2,1,6162,0.00018,30,295
+gpt-5.6-luna,Kesuen,“Kesuen” berarti “terlalu lama” atau “kelamaan.”,1,0.6245,0.9978,0.812,3,1,5802,5.94e-05,30,94
+gpt-5.6-luna,klotekan,**Klotekan** berarti bunyi ketukan atau benturan benda keras yang berulang-ulang.,1,0.2197,0.7673,0.4654,4,1,3863,6.01e-05,31,95
+gpt-5.6-luna,Kreak,“Kreak” berarti sok jagoan atau suka mencari gara-gara.,1,0.1365,0.5103,0.439,2,1,5623,0.0001812,30,297
+gpt-5.6-luna,Kupret,“Kupret” berarti **pelit atau menyebalkan** (tergantung konteks).,1,0.3994,0.9736,0.9311,3,1,6291,0.0001674,30,274
+gpt-5.6-luna,Leksanani,“Leksanani” berarti “laksanakanlah” atau “jalankanlah.”,0,0.2836,0.8893,0.6468,3,1,4461,6.32e-05,32,100
+gpt-5.6-luna,Lidis,“Lidis” berarti habis atau tidak tersisa sama sekali.,1,0.3932,0.9709,0.7935,2,1,3106,4.44e-05,30,69
+gpt-5.6-luna,Manahipun,“Manahipun” berarti “hatinya” atau “pikirannya.”,1,0.1356,0.5081,0.7433,2,1,3199,4.09e-05,31,63
+gpt-5.6-luna,Mleding,Mleding berarti melenceng atau menyimpang dari arah yang semestinya.,0,0.2712,0.8699,0.2284,2,0,3667,9.12e-05,30,147
+gpt-5.6-luna,Ndaut,“Ndaut” berarti mencabut atau menarik sesuatu hingga terlepas.,1,0.2349,0.803,0.5204,3,1,2655,9.18e-05,30,148
+gpt-5.6-luna,Ndlogok,“Ndlogok” berarti minum langsung dari wadahnya tanpa menggunakan gelas.,0,0.0819,0.3054,0.0894,4,0,3841,7.87e-05,31,126
+gpt-5.6-luna,ndusel,“Ndusel” berarti merapat atau menempel dengan manja pada seseorang.,1,0.306,0.9147,0.6669,2,1,4204,7.56e-05,30,121
+gpt-5.6-luna,Ngeliwet,Ngeliwet berarti memasak nasi (biasanya bersama lauk) dalam satu wadah.,1,0.589,0.997,0.8685,3,1,2560,1.63e-05,31,22
+gpt-5.6-luna,Ngleketer,"“Ngleketer” berarti gemetar atau bergetar, biasanya karena kedinginan atau ketakutan.",0,0.3298,0.9369,0.2991,3,0,4773,8e-05,32,128
+gpt-5.6-luna,Ngriki,“Ngriki” berarti “di sini” dalam bahasa Indonesia.,1,0.4293,0.9815,0.9995,2,1,1746,1.33e-05,31,17
+gpt-5.6-luna,Pakunjaran,“Pakunjaran” berarti penjara atau tempat tahanan.,1,0.5576,0.9958,0.8368,1,1,3214,3.92e-05,32,60
+gpt-5.6-luna,Pangrasan,“Pangrasan” berarti perasaan atau firasat.,1,0.5761,0.9967,0.7168,1,1,3880,6.19e-05,31,98
+gpt-5.6-luna,Pecetan,Pecetan berarti hasil atau sesuatu yang dipencet/tekan.,0,0.0493,0.1934,0.0358,5,0,6823,0.0002472,30,407
+gpt-5.6-luna,Pimen,“Pimen” berarti “bagaimana” atau “gimana.”,1,0.3511,0.9534,0.8497,3,1,4043,5.1e-05,30,80
+gpt-5.6-luna,Sasmito,"“Sasmito” berarti tanda, isyarat, atau firasat.",1,0.6838,0.9988,0.8374,4,1,3198,4.93e-05,31,77
+gpt-5.6-luna,Sedelat,“Sedelat” berarti **sebentar atau sekejap**.,1,0.3801,0.9657,0.8005,3,1,3923,4.45e-05,31,69
+gpt-5.6-luna,Semribit,Semribit berarti terasa sejuk karena hembusan angin yang lembut.,1,0.8304,1.0,0.6767,1,1,2666,6.07e-05,31,96
+gpt-5.6-luna,Sirtu,“Sirtu” berarti campuran pasir dan batu (kerikil).,1,0.6175,0.9975,0.6141,2,1,3889,5.59e-05,31,88
+gpt-5.6-luna,sompret,“Sompret” adalah umpatan untuk menyebut orang yang menyebalkan atau bodoh.,1,0.6856,0.999,0.7166,3,1,4148,0.0001134,30,184
+gpt-5.6-luna,Speleng,“Speleng” berarti aneh atau tidak waras.,0,0.1185,0.4461,0.1638,4,0,7037,0.0003036,30,501
+gpt-5.6-luna,Urugan,Urugan berarti timbunan atau bahan yang digunakan untuk menimbun tanah.,1,0.7447,0.9999,0.5886,3,1,2436,1.5e-05,30,20
+llama-3-1-8b-q4km-local,Ageman,Arti kata Ageman dalam bahasa Indonesia adalah kepercayaan.,0,,,,,,612,,40,16
+llama-3-1-8b-q4km-local,Anduweni,"Anduweni berarti ""menggigit"" dalam bahasa Indonesia.",0,,,,,,535,,42,18
+llama-3-1-8b-q4km-local,Badogan,"Badogan berarti ""menggigit"" dalam bahasa Indonesia.",0,,,,,,533,,40,16
+llama-3-1-8b-q4km-local,Biyayakan,Biyayakan berarti membantu.,0,,,,,,424,,42,10
+llama-3-1-8b-q4km-local,Biyuh,"Biyuh berarti ""menggigit"" dalam bahasa Indonesia.",0,,,,,,543,,41,17
+llama-3-1-8b-q4km-local,Bladak,Bladak berarti tempat tinggal atau rumah.,0,,,,,,534,,41,14
+llama-3-1-8b-q4km-local,Coeg,"Kata ""Coeg"" dalam bahasa Jawa berarti ""menggigit"".",0,,,,,,637,,40,20
+llama-3-1-8b-q4km-local,dadi'ne,"Dadi'ne berarti ""membuat kamu"" dalam bahasa Indonesia.",0,,,,,,636,,42,18
+llama-3-1-8b-q4km-local,Dangak,"Dangak berarti ""menganggur"" atau ""tidak bekerja"".",0,,,,,,633,,41,20
+llama-3-1-8b-q4km-local,Gakpati,Gakpati berarti tidak ada yang dapat mengalahkan.,0,,,,,,498,,42,15
+llama-3-1-8b-q4km-local,Geluduk,Geluduk berarti kotoran atau sisa makanan yang menempel pada gigi.,0,,,,,,644,,41,24
+llama-3-1-8b-q4km-local,Gendakan,Gendakan berarti menggenggam atau memegang.,0,,,,,,560,,41,15
+llama-3-1-8b-q4km-local,Gondes,Gondes berarti kuda.,0,,,,,,530,,41,9
+llama-3-1-8b-q4km-local,Gremet,"Gremet berarti ""menggigit""",0,,,,,,461,,41,12
+llama-3-1-8b-q4km-local,Kacariyos,"Kata ""Kacariyos"" dalam bahasa Jawa berarti ""sangat heran"" atau ""sangat terkejut"".",0,,,,,,811,,43,34
+llama-3-1-8b-q4km-local,Kaleh,"Kata ""Kaleh"" dalam bahasa Jawa berarti ""kaki"".",0,,,,,,632,,40,19
+llama-3-1-8b-q4km-local,Kemecer,"Kata ""Kemecer"" dalam bahasa Jawa berarti ""menggigit"" atau ""menggigitan"".",0,,,,,,840,,40,29
+llama-3-1-8b-q4km-local,Kesawat,"Kata ""Kesawat"" dalam bahasa Jawa berarti ""membeli"" dalam bahasa Indonesia.",0,,,,,,669,,41,26
+llama-3-1-8b-q4km-local,Kesuen,"Kata ""Kesuen"" dalam bahasa Jawa berarti ""kesepian"".",0,,,,,,562,,40,20
+llama-3-1-8b-q4km-local,klotekan,"Kata ""klotekan"" dalam bahasa Jawa berarti ""membuat kotor"" atau ""membuat berantakan"".",0,,,,,,770,,42,32
+llama-3-1-8b-q4km-local,Kreak,"Kata ""Kreak"" dalam bahasa Jawa berarti ""menggigit"" atau ""menggigitan"".",0,,,,,,740,,40,28
+llama-3-1-8b-q4km-local,Kupret,"Kata ""Kupret"" dalam bahasa Jawa berarti ""menggigit"" atau ""menggigitan"".",0,,,,,,736,,40,29
+llama-3-1-8b-q4km-local,Leksanani,"Leksanani berarti ""menghancurkan""",0,,,,,,632,,42,15
+llama-3-1-8b-q4km-local,Lidis,"Lidis berarti ""membeli"" dalam bahasa Indonesia.",0,,,,,,521,,40,15
+llama-3-1-8b-q4km-local,Manahipun,"Manahipun berarti ""mengalami kesulitan"".",0,,,,,,571,,42,16
+llama-3-1-8b-q4km-local,Mleding,"Mleding berarti ""membeli"" dalam bahasa Indonesia.",0,,,,,,516,,41,16
+llama-3-1-8b-q4km-local,Ndaut,"Ndaut berarti ""tidak ada"" dalam bahasa Indonesia.",0,,,,,,527,,40,15
+llama-3-1-8b-q4km-local,Ndlogok,Ndlogok berarti terlambat.,0,,,,,,535,,41,11
+llama-3-1-8b-q4km-local,ndusel,"Kata ndusel berarti ""menggigit"" dalam bahasa Indonesia.",0,,,,,,635,,41,19
+llama-3-1-8b-q4km-local,Ngeliwet,Ngeliwet berarti menangis.,0,,,,,,445,,42,11
+llama-3-1-8b-q4km-local,Ngleketer,"Ngleketer berarti ""menggigit""",0,,,,,,518,,42,13
+llama-3-1-8b-q4km-local,Ngriki,Ngriki berarti mengucapkan doa atau berdoa.,0,,,,,,633,,41,17
+llama-3-1-8b-q4km-local,Pakunjaran,Pakunjaran berarti tempat penjara.,1,,,,,,533,,42,14
+llama-3-1-8b-q4km-local,Pangrasan,Pangrasan berarti kekacauan.,0,,,,,,536,,41,13
+llama-3-1-8b-q4km-local,Pecetan,Pecetan berarti tempat tidur.,0,,,,,,450,,42,12
+llama-3-1-8b-q4km-local,Pimen,"Pimen berarti ""pemimpin"" dalam bahasa Jawa.",0,,,,,,534,,40,17
+llama-3-1-8b-q4km-local,Sasmito,Sasmito berarti orang yang memiliki jiwa atau semangat yang kuat.,0,,,,,,610,,41,20
+llama-3-1-8b-q4km-local,Sedelat,Sedelat berarti jauh.,0,,,,,,466,,41,11
+llama-3-1-8b-q4km-local,Semribit,Semribit berarti sembilan bit.,0,,,,,,499,,41,11
+llama-3-1-8b-q4km-local,Sirtu,Sirtu berarti tanah liat.,0,,,,,,539,,41,11
+llama-3-1-8b-q4km-local,sompret,Sompret berarti kotor.,0,,,,,,532,,40,9
+llama-3-1-8b-q4km-local,Speleng,"Speleng berarti ""menggigit"" dalam bahasa Jawa.",0,,,,,,545,,41,18
+llama-3-1-8b-q4km-local,Urugan,Urugan berarti tempat urug atau tempat pembuangan sampah.,0,,,,,,720,,41,19
+mistral-small-3,Ageman,"""Ageman"" berarti ""pemuda"" dalam bahasa Indonesia.",0,0.0396,0.1575,0.1519,5,0,1097,1.073e-05,189,16
+mistral-small-3,Anduweni,"Anduweni berarti ""di mana"" dalam bahasa Indonesia.",0,0.0926,0.3486,0.378,5,0,1177,1.062e-05,190,14
+mistral-small-3,Badogan,"Badogan berarti ""badan"" atau ""tubuh"" dalam bahasa Indonesia.",0,0.0571,0.2188,0.2456,5,0,1551,1.097e-05,189,19
+mistral-small-3,Biyayakan,"Biyayakan berarti ""membiayai"" atau ""membiayai"".",0,0.1166,0.4391,0.2678,4,0,1391,1.131e-05,191,22
+mistral-small-3,Biyuh,"""Biyuh"" dalam bahasa Jawa berarti ""biasa"" dalam bahasa Indonesia.",0,0.1269,0.4782,0.198,5,0,1171,1.11e-05,190,20
+mistral-small-3,Bladak,"""Bladak"" berarti ""banyak"" dalam bahasa Indonesia.",0,0.0259,0.1134,0.1124,5,0,1134,1.078e-05,190,16
+mistral-small-3,Coeg,"""Coeg"" dalam bahasa Jawa berarti ""kucing"" dalam bahasa Indonesia.",0,0.0883,0.33,0.0673,5,0,1194,1.089e-05,189,18
+mistral-small-3,Dangak,"""Dangak"" dalam bahasa Jawa berarti ""membuat kebingungan"" atau ""membingungkan"".",0,0.1385,0.5175,0.3173,5,0,1997,1.166e-05,190,27
+mistral-small-3,Gakpati,"""Gakpati"" dalam bahasa Indonesia berarti ""tidak ada"".",0,0.1411,0.526,0.3327,5,0,1131,1.091e-05,191,17
+mistral-small-3,Geluduk,"Geluduk berarti ""gelap"" dalam bahasa Indonesia.",0,0.101,0.381,0.3069,4,0,1070,1.057e-05,189,14
+mistral-small-3,Gendakan,"""Gendakan"" dalam bahasa Indonesia berarti ""membuat sesuatu menjadi lebih baik atau lebih baik lagi.""",0,0.0778,0.2914,0.1381,5,0,1879,1.15e-05,190,25
+mistral-small-3,Gondes,"Gondes berarti ""membuat senang"" atau ""membuat gembira"".",0,0.2882,0.8939,0.092,3,0,1354,1.121e-05,189,22
+mistral-small-3,Gremet,"Gremet berarti ""makanan yang enak dan lezat.""",0,0.0826,0.3083,0.1628,5,1,1439,1.086e-05,190,17
+mistral-small-3,Kacariyos,"Kata ""Kacariyos"" dalam bahasa Jawa berarti ""Kacamata"" dalam bahasa Indonesia.",0,0.0122,0.0815,0.0876,5,0,1195,1.147e-05,191,24
+mistral-small-3,Kaleh,"Kata ""kaleh"" dalam bahasa Jawa berarti ""kucing"" dalam bahasa Indonesia.",0,0.0487,0.1911,-0.0187,5,0,1490,1.113e-05,189,21
+mistral-small-3,Kemecer,"Kemecer berarti ""mencari"" atau ""mencari-cari"".",0,0.0873,0.3264,0.4224,5,0,1858,1.097e-05,189,19
+mistral-small-3,Kesawat,"Kesawat berarti ""kecewa"" dalam bahasa Indonesia.",0,0.1547,0.5736,0.2983,4,0,1313,1.065e-05,189,15
+mistral-small-3,Kesuen,"Kata ""Kesuen"" dalam bahasa Jawa berarti ""Kesukaan"" dalam bahasa Indonesia.",0,0.0713,0.2681,0.0604,4,0,1289,1.121e-05,189,22
+mistral-small-3,Kreak,"Kata ""kreak"" dalam bahasa Jawa berarti ""kering"" dalam bahasa Indonesia.",0,-0.0797,0.0011,0.0885,5,0,1749,1.105e-05,189,20
+mistral-small-3,Kupret,"Kata ""kupret"" dalam bahasa Jawa berarti ""kucing"" dalam bahasa Indonesia.",0,0.0075,0.0718,0.0739,5,0,1665,1.105e-05,189,20
+mistral-small-3,Leksanani,"Saya tidak memiliki informasi tentang kata ""Leksanani"" dalam bahasa Jawa.",0,-0.0309,0.0189,-0.0068,5,0,1403,1.107e-05,191,19
+mistral-small-3,Lidis,"""Lidis"" dalam bahasa Jawa berarti ""bisa"" atau ""dapat"" dalam bahasa Indonesia.",0,0.1173,0.4416,0.1869,4,0,1483,1.129e-05,189,23
+mistral-small-3,Manahipun,"Manahipun berarti ""mungkin"" atau ""bisa jadi"".",0,0.0215,0.1032,0.1509,5,0,1312,1.086e-05,190,17
+mistral-small-3,Mleding,"""Mleding"" dalam bahasa Jawa berarti ""menggiling"" dalam bahasa Indonesia.",0,0.186,0.6723,0.3073,4,0,2176,1.118e-05,190,21
+mistral-small-3,Ndaut,"""Ndaut"" dalam bahasa Jawa berarti ""membawa"" dalam bahasa Indonesia.",0,0.1187,0.4472,0.2645,5,0,1418,1.105e-05,189,20
+mistral-small-3,Ndlogok,"""Ndlogok"" dalam bahasa Jawa berarti ""membuat"" atau ""membuatkan"" dalam bahasa Indonesia.",0,0.0387,0.1539,0.1819,5,0,2529,1.174e-05,190,28
+mistral-small-3,Ngeliwet,"""Ngeliwet"" berarti ""menggelitikan"" atau ""menggelitkan"".",0,0.0915,0.3436,0.0584,5,0,1524,1.134e-05,190,23
+mistral-small-3,Ngleketer,"Ngleketer berarti ""menggigit"".",0,0.0556,0.2136,0.1154,5,0,2427,1.059e-05,191,13
+mistral-small-3,Ngriki,"""Ngriki"" dalam bahasa Jawa berarti ""membuat"" atau ""membuatkan"" dalam bahasa Indonesia.",0,0.0898,0.3365,0.1695,5,0,1743,1.166e-05,190,27
+mistral-small-3,Pakunjaran,"Pakunjaran berarti ""pengunjung"" dalam bahasa Indonesia.",0,0.035,0.1417,0.1945,5,0,1176,1.078e-05,190,16
+mistral-small-3,Pangrasan,"Pangrasan berarti ""pengasih"" atau ""pengasuh"".",0,0.1735,0.6341,0.127,5,0,1184,1.11e-05,190,20
+mistral-small-3,Pecetan,"Pecetan berarti ""penggunaan"" atau ""pengguna"".",0,0.1094,0.4124,0.0372,4,0,1432,1.11e-05,190,20
+mistral-small-3,Pimen,"Pimen berarti ""pintu"" dalam bahasa Indonesia.",0,0.1329,0.4984,0.0882,5,0,1603,1.057e-05,189,14
+mistral-small-3,Sasmito,"Sasmito berarti ""sangat baik"" atau ""sangat bagus"".",0,0.0246,0.11,0.0707,5,0,1757,1.11e-05,190,20
+mistral-small-3,Sedelat,"""Sedelat"" dalam bahasa Indonesia berarti ""selat"" atau ""selat laut"".",0,-0.0158,0.0331,0.2105,5,0,1236,1.126e-05,190,22
+mistral-small-3,Semribit,"Semribit berarti ""sedikit"" dalam bahasa Indonesia.",0,0.1741,0.6358,0.0946,5,0,1800,1.062e-05,190,14
+mistral-small-3,Sirtu,"Sirtu berarti ""pasir"".",1,0.4126,0.9775,0.9995,3,1,1227,1.03e-05,190,10
+mistral-small-3,Speleng,"Speleng berarti ""sampah"" dalam bahasa Indonesia.",0,-0.0182,0.0303,0.2237,5,0,1088,1.07e-05,190,15
+mistral-small-3,Urugan,"Urugan berarti ""penggalangan"" atau ""pengumpulan"".",0,0.1494,0.5543,0.277,4,0,1484,1.094e-05,190,18
+mistral-small-3,dadi'ne,"""Dadi'ne"" dalam bahasa Jawa berarti ""dari"" dalam bahasa Indonesia.",0,0.0108,0.0771,0.1194,5,0,1046,1.102e-05,190,19
+mistral-small-3,klotekan,"Kata ""klotekan"" dalam bahasa Jawa berarti ""membuat keributan"" atau ""membuat kericuhan"".",0,0.255,0.8441,0.4583,3,0,1854,1.203e-05,191,31
+mistral-small-3,ndusel,"""Ndusel"" dalam bahasa Jawa berarti ""menggunakan"" dalam bahasa Indonesia.",0,-0.0366,0.0146,0.1214,5,0,1056,1.105e-05,189,20
+mistral-small-3,sompret,"""Sompret"" dalam bahasa Jawa berarti ""sombong"" dalam bahasa Indonesia.",0,0.3126,0.9221,0.3564,5,0,1044,1.097e-05,189,19
+nemotron-3.5-lightning,Ageman,Ageman adalah kata Jawa yang berarti “kakak laki-laki” atau “orang yang lebih tua”.,0,,,,,,3669,0.0002183,42,1081
+nemotron-3.5-lightning,Anduweni,"Anduweni berarti “memiliki” atau “ada” dalam bahasa Indonesia, digunakan untuk menyatakan kepemilikan atau keberadaan sesuatu.",1,,,,,,3817,0.00017155,43,847
+nemotron-3.5-lightning,Badogan,"Secara umum, 'badogan' bukan kata Jawa standar; jika merujuk pada 'bawongan', artinya adalah kelompok atau kumpulan.",0,,,,,,6402,0.0005511,42,2745
+nemotron-3.5-lightning,Biyayakan,Menyebabakan seseorang berbicara.,0,,,,,,2574,0.000225,44,1114
+nemotron-3.5-lightning,Biyuh,Biyuh dalam bahasa Jawa berarti kupu-kupu.,0,,,,,,2632,0.00020175,43,998
+nemotron-3.5-lightning,Bladak,"""Bladak"" dalam Jawa berarti ""mengupas"" atau menghilangkan kulit luar benda seperti buah atau kayu.",0,,,,,,1489,0.00011915,43,585
+nemotron-3.5-lightning,Coeg,"""Coeg"" dalam bahasa Jawa berarti ""aku"" atau ""saya"" dalam bahasa Indonesia.",0,,,,,,1501,0.0001013,42,496
+nemotron-3.5-lightning,dadi'ne,"Dadi'ne dalam Jawa bermakna “menjadi” atau “telah menjadi” dalam bahasa Indonesia, di mana partikel “ne” menegaskan atau menambahkan nuansa pada kata “dadi”.",1,,,,,,2245,0.00018915,43,935
+nemotron-3.5-lightning,Dangak,"Dangak dalam Jawa berarti ""membawa di bahu"" atau ""menganggur"".",0,,,,,,5147,0.00018505,43,723
+nemotron-3.5-lightning,Gakpati,Artinya secara harfiah adalah “tidak mati” atau “terhindar dari kematian” dalam konteks bahasa Jawa.,0,,,,,,3502,0.0002546,44,1262
+nemotron-3.5-lightning,Geluduk,"Secara umum, ""geluduk"" dalam bahasa Jawa berarti ""duduk"" atau ""menguduk"".",0,,,,,,17532,0.0003549,42,1764
+nemotron-3.5-lightning,Gendakan,Gendakan adalah bentuk kata kerja Jawa yang berarti “mengetuk” atau “memukul”.,0,,,,,,4380,0.00020855,43,1032
+nemotron-3.5-lightning,Gondes,Gondes dalam bahasa Jawa berarti untuk mencari atau menelusuri.,0,,,,,,3755,0.0003403,42,1691
+nemotron-3.5-lightning,Gremet,Kata 'gremet' bukan merupakan kata Jawa yang umum dikenal atau terdaftar dalam kamus Jawa-basa.,0,,,,,,3513,0.00036275,43,1803
+nemotron-3.5-lightning,Kacariyos,"Kacariyos adalah bentuk gabungan Jawa dari “kaca riyo”, yang berarti cermin badan atau pantulan diri.",0,,,,,,3396,0.0001852,44,915
+nemotron-3.5-lightning,Kaleh,"""Kaleh"" dalam Jawa berarti ""kenyang"" atau ""cukup"", tergantung konteks penggunaannya.",0,,,,,,1460,0.0001025,42,502
+nemotron-3.5-lightning,Kemecer,"Kemecer dalam bahasa Jawa berarti ""sunyi"" atau ""tenang"".",0,,,,,,5486,0.0002612,42,1028
+nemotron-3.5-lightning,Kesawat,Kesawat dalam bahasa Jawa berarti 'menyelam'.,0,,,,,,3254,0.0003275,42,1627
+nemotron-3.5-lightning,Kesuen,"Kesuen"" dalam bahasa Jawa berarti ""terima kasih"".",0,,,,,,4648,0.0002529,42,1254
+nemotron-3.5-lightning,klotekan,"Klotekan dalam Jawa berarti menyebar atau tersebar, misalnya cairan yang mengalir atau benda yang tersebar ke berbagai tempat.",0,,,,,,11386,0.0004344,44,1720
+nemotron-3.5-lightning,Kreak,"""Kreak"" dalam Jawa berarti ""bersuara patah-patah"".",0,,,,,,3599,0.0003231,42,1605
+nemotron-3.5-lightning,Kupret,"""Kupret"" dalam bahasa Jawa berarti ""keringit"" atau ""kurang mau memberi"".",0,,,,,,7375,0.0001872,42,732
+nemotron-3.5-lightning,Leksanani,Leksanani dalam bahasa Jawa berarti perlengkapan atau peralatan.,0,,,,,,5529,0.0002119,44,830
+nemotron-3.5-lightning,Lidis,Lidis dalam Jawa berarti mendiami atau duduk merunduk.,0,,,,,,1707,0.0001229,42,604
+nemotron-3.5-lightning,Manahipun,“Manahipun” dalam Jawa bermakna “niatan” atau “pikiran dalam hati”.,1,,,,,,5061,0.00033495,43,1664
+nemotron-3.5-lightning,Mleding,Kata 'Mleding' tidak terdapat dalam kamus bahasa Jawa baku; kemungkinan besar merupakan varian dari 'Mledhung' yang berarti 'mau' atau 'ingin'.,0,,,,,,9406,0.0003293,43,1300
+nemotron-3.5-lightning,Ndaut,Ndaut berarti mencari atau mencari-cari dalam bahasa Indonesia.,0,,,,,,2540,0.0001241,42,610
+nemotron-3.5-lightning,Ndlogok,Ndlogok dalam bahasa Jawa berarti “untuk melihat” atau “untuk melihat sesuatu”.,0,,,,,,8940,0.00038355,43,1907
+nemotron-3.5-lightning,ndusel,"Ndusel dalam bahasa Jawa bermakna ""mengirimkan"" atau ""memberikan"" barang kepada seseorang.",0,,,,,,9353,0.00035095,42,1387
+nemotron-3.5-lightning,Ngeliwet,"Ngeliwet dalam Jawa berarti “untuk pergi” atau “berpaling”, bergantung konteks penggunaannya.",0,,,,,,7904,0.00035175,43,1748
+nemotron-3.5-lightning,Ngleketer,"Ngleketer artinya ""tertawa"" dalam bahasa Indonesia.",0,,,,,,3248,0.0001574,44,776
+nemotron-3.5-lightning,Ngriki,"Ngriki berarti ""diam"" atau ""bisu"" dalam bahasa Indonesia, tergantung konteks penggunaannya.",0,,,,,,8716,0.0004118,43,1630
+nemotron-3.5-lightning,Pakunjaran,Pakunjaran dalam bahasa Jawa berarti mengunjungi seseorang.,0,,,,,,8597,0.00046875,43,2333
+nemotron-3.5-lightning,Pangrasan,"Pangrasan dalam bahasa Jawa berarti 'rasa', 'perasaan', atau 'sensasi'.",0,,,,,,8460,0.0003433,43,1356
+nemotron-3.5-lightning,Pecetan,Artinya adalah pukulan atau perumpukan.,0,,,,,,1847,0.00017735,43,876
+nemotron-3.5-lightning,Pimen,"Kata 'pimen' dalam Jawa kemungkinan besar merujuk pada 'piman', yang berarti 'menanam' atau 'bibit tanaman'.",0,,,,,,3320,0.0003643,42,1811
+nemotron-3.5-lightning,Sasmito,"Sasmito adalah kata Jawa yang berarti ""suka tersenyum"".",0,,,,,,1662,0.00015055,43,742
+nemotron-3.5-lightning,Sedelat,"""Sedelat"" dalam Jawa berarti ""terlambat"" atau ""menunda"".",0,,,,,,1864,0.00017495,43,864
+nemotron-3.5-lightning,Semribit,"Semribit dalam Jawa berarti ""sudah digigit"" atau ""tergigit"".",0,,,,,,6073,0.0002113,43,828
+nemotron-3.5-lightning,Sirtu,"Kata ""sirtu"" bukan merupakan kata Jawa baku standar, kemungkinan besar merupakan varian atau kesalahan ketik dari ""sira"" yang berarti ""manusia"" atau ""orang"".",0,,,,,,2851,0.00025935,43,1286
+nemotron-3.5-lightning,sompret,Sompret dalam Jawa berarti bersin.,0,,,,,,1595,7.67e-05,42,373
+nemotron-3.5-lightning,Speleng,Saya tidak menemukan makna kata Jawa 'speleng'.,0,,,,,,8575,0.00043635,43,2171
+nemotron-3.5-lightning,Urugan,"""Urugan"" dalam Jawa berarti ""keturunan"" dalam bahasa Indonesia.",0,,,,,,1788,9.975e-05,43,488
+sahabatai-1-llama3-q4km,Ageman,"Ageman adalah istilah dalam bahasa Jawa yang berarti ""orang yang memiliki kekuatan atau kemampuan luar biasa"".",0,,,,,,945,,40,31
+sahabatai-1-llama3-q4km,Anduweni,"Anduweni adalah istilah dalam bahasa Jawa yang berarti ""mengangguk"" atau ""menyetujui"".",0,,,,,,617,,42,31
+sahabatai-1-llama3-q4km,Badogan,"Badogan adalah istilah dalam bahasa Jawa yang berarti ""makan"" atau ""memakan"".",1,,,,,,535,,40,24
+sahabatai-1-llama3-q4km,Biyayakan,Biyayakan berarti membiayai atau memberikan dana.,0,,,,,,422,,42,17
+sahabatai-1-llama3-q4km,Biyuh,Biyuh adalah ekspresi kekecewaan atau kesal dalam bahasa Jawa.,0,,,,,,538,,41,22
+sahabatai-1-llama3-q4km,Bladak,Bladak adalah istilah dalam bahasa Jawa yang berarti tanah atau lumpur.,0,,,,,,620,,41,22
+sahabatai-1-llama3-q4km,Coeg,"Coeg adalah istilah dalam bahasa Jawa yang berarti ""tidak tahu"" atau ""bodoh"".",0,,,,,,615,,40,27
+sahabatai-1-llama3-q4km,dadi'ne,"Dadi'ne berarti ""dari"" atau ""asalnya"".",0,,,,,,396,,42,16
+sahabatai-1-llama3-q4km,Dangak,"Dangak adalah istilah dalam bahasa Jawa yang berarti ""tidak tahu"" atau ""bodoh"".",0,,,,,,676,,41,28
+sahabatai-1-llama3-q4km,Gakpati,"Gakpati adalah istilah dalam bahasa Jawa yang berarti ""tidak ada"" atau ""kosong"".",0,,,,,,553,,42,27
+sahabatai-1-llama3-q4km,Geluduk,Geluduk adalah suara keras yang dihasilkan oleh banyak orang yang bersorak atau berteriak dengan keras.,0,,,,,,620,,41,27
+sahabatai-1-llama3-q4km,Gendakan,"Gendakan adalah istilah dalam bahasa Jawa yang berarti ""menggantung"" atau ""digantungkan"".",0,,,,,,621,,41,30
+sahabatai-1-llama3-q4km,Gondes,Gondes adalah sebutan untuk anak laki-laki yang lahir pada hari Rabu.,0,,,,,,488,,41,22
+sahabatai-1-llama3-q4km,Gremet,"Gremet adalah istilah dalam bahasa Jawa yang berarti ""kepala"" atau ""pemimpin"".",0,,,,,,570,,41,28
+sahabatai-1-llama3-q4km,Kacariyos,"Arti kata ""kacariyos"" dalam bahasa Indonesia adalah ""menarik perhatian"".",0,,,,,,517,,43,24
+sahabatai-1-llama3-q4km,Kaleh,"Kaleh adalah istilah dalam bahasa Jawa yang berarti ""sisa"" atau ""bekas"".",0,,,,,,528,,40,25
+sahabatai-1-llama3-q4km,Kemecer,"Kemecer adalah istilah dalam bahasa Jawa yang berarti ""kepala desa"" atau ""lurah"".",0,,,,,,595,,40,29
+sahabatai-1-llama3-q4km,Kesawat,"Kesawat adalah istilah dalam bahasa Jawa yang berarti ""keselamatan"" atau ""keamanan"".",0,,,,,,605,,41,29
+sahabatai-1-llama3-q4km,Kesuen,"Kesuen adalah istilah dalam bahasa Jawa yang berarti ""kesepian"" atau ""sendirian"".",0,,,,,,660,,40,27
+sahabatai-1-llama3-q4km,klotekan,Klotekan adalah istilah Jawa yang berarti mengintip atau melihat-lihat tanpa sepengetahuan orang lain.,0,,,,,,739,,42,32
+sahabatai-1-llama3-q4km,Kreak,"Kata ""kreak"" dalam bahasa Jawa memiliki arti ""menggigil"" atau ""merinding"".",0,,,,,,567,,40,27
+sahabatai-1-llama3-q4km,Kupret,Kupret adalah istilah dalam bahasa Jawa yang berarti orang yang suka menipu atau melakukan kejahatan.,0,,,,,,716,,40,29
+sahabatai-1-llama3-q4km,Leksanani,"Leksanani adalah istilah dalam bahasa Jawa yang berarti ""pembacaan"" atau ""pengucapan"".",0,,,,,,581,,42,29
+sahabatai-1-llama3-q4km,Lidis,"Lidis adalah istilah dalam bahasa Jawa yang berarti ""membuat"" atau ""menghasilkan"".",0,,,,,,573,,40,27
+sahabatai-1-llama3-q4km,Manahipun,"Manahipun berarti ""keinginannya"" atau ""kehendaknya"".",0,,,,,,546,,42,20
+sahabatai-1-llama3-q4km,Mleding,"Mleding adalah istilah dalam bahasa Jawa yang berarti ""membuang"" atau ""melempar"".",0,,,,,,574,,41,27
+sahabatai-1-llama3-q4km,Ndaut,Ndaut berarti menyerang atau menghantam dengan keras.,0,,,,,,414,,40,16
+sahabatai-1-llama3-q4km,Ndlogok,Ndlogok berarti menangkap atau mengambil sesuatu dengan cepat dan tepat.,0,,,,,,515,,41,22
+sahabatai-1-llama3-q4km,ndusel,ndusel berarti menelan atau meminum.,0,,,,,,434,,41,13
+sahabatai-1-llama3-q4km,Ngeliwet,Ngeliwet berarti menggantung atau menggantungkan sesuatu.,0,,,,,,533,,42,21
+sahabatai-1-llama3-q4km,Ngleketer,Ngleketer berarti mengikat atau membelenggu.,0,,,,,,388,,42,15
+sahabatai-1-llama3-q4km,Ngriki,Ngriki berarti menggali atau mengebor.,0,,,,,,386,,41,14
+sahabatai-1-llama3-q4km,Pakunjaran,Pakunjaran adalah istilah Jawa yang berarti penjara.,1,,,,,,441,,42,19
+sahabatai-1-llama3-q4km,Pangrasan,"Pangrasan adalah istilah dalam bahasa Jawa yang berarti ""pemimpin"" atau ""kepala"".",0,,,,,,615,,41,29
+sahabatai-1-llama3-q4km,Pecetan,"Pecetan adalah istilah dalam bahasa Jawa yang berarti ""tempat penampungan air"" atau ""waduk"".",0,,,,,,624,,42,31
+sahabatai-1-llama3-q4km,Pimen,Pimen adalah sebutan untuk orang yang memiliki keahlian atau kemampuan khusus.,0,,,,,,493,,40,22
+sahabatai-1-llama3-q4km,Sasmito,"Sasmito adalah nama pemberian yang berasal dari bahasa Jawa dan memiliki arti ""pemikiran"" atau ""ide"".",0,,,,,,700,,41,33
+sahabatai-1-llama3-q4km,Sedelat,Sedelat berarti sedikit atau tidak banyak.,0,,,,,,362,,41,13
+sahabatai-1-llama3-q4km,Semribit,Semribit adalah istilah dalam bahasa Jawa yang berarti sangat banyak atau sangat banyak sekali.,0,,,,,,526,,41,24
+sahabatai-1-llama3-q4km,Sirtu,Sirtu adalah istilah dalam bahasa Jawa yang berarti pasir.,1,,,,,,463,,41,19
+sahabatai-1-llama3-q4km,sompret,"Sompret adalah istilah dalam bahasa Jawa yang berarti ""kepala"" atau ""bagian atas"".",0,,,,,,545,,40,26
+sahabatai-1-llama3-q4km,Speleng,"Speleng adalah istilah dalam bahasa Jawa yang berarti ""tidak ada"" atau ""kosong"".",0,,,,,,572,,41,26
+sahabatai-1-llama3-q4km,Urugan,"Urugan adalah istilah dalam bahasa Jawa yang berarti ""menggali tanah dan menggunakannya untuk membangun atau menimbun sesuatu"".",1,,,,,,755,,41,40
+sea-lion-v4-5-e2b-q4km-local,Ageman,Ageman berarti keagungan atau kemuliaan.,0,,,,,,850,,31,12
+sea-lion-v4-5-e2b-q4km-local,Anduweni,Anduweni berarti memiliki atau memiliki hak atas sesuatu.,1,,,,,,895,,32,12
+sea-lion-v4-5-e2b-q4km-local,Badogan,Badogan berarti anak atau keturunan.,0,,,,,,842,,31,9
+sea-lion-v4-5-e2b-q4km-local,Biyayakan,Biyayakan berarti biaya atau pengeluaran.,0,,,,,,937,,32,11
+sea-lion-v4-5-e2b-q4km-local,Biyuh,Biyuh berarti betina atau perempuan.,0,,,,,,954,,32,10
+sea-lion-v4-5-e2b-q4km-local,Bladak,Bladak berarti sangat tajam atau sangat pedas.,0,,,,,,935,,32,13
+sea-lion-v4-5-e2b-q4km-local,Coeg,"Kata ""coeg"" dalam bahasa Jawa berarti laki-laki.",0,,,,,,1042,,31,14
+sea-lion-v4-5-e2b-q4km-local,dadi'ne,"""Dadi'ne"" berarti ""menjadi"" dalam bahasa Indonesia.",1,,,,,,945,,33,16
+sea-lion-v4-5-e2b-q4km-local,Dangak,Dangak berarti menunduk atau menundukkan kepala.,0,,,,,,959,,31,13
+sea-lion-v4-5-e2b-q4km-local,Gakpati,Gakpati berarti tidak memiliki atau tidak mengetahui.,0,,,,,,924,,32,11
+sea-lion-v4-5-e2b-q4km-local,Geluduk,Geluduk berarti petir.,1,,,,,,939,,31,7
+sea-lion-v4-5-e2b-q4km-local,Gendakan,Gendakan berarti tindakan atau perbuatan.,0,,,,,,948,,32,10
+sea-lion-v4-5-e2b-q4km-local,Gondes,Gondes berarti gonda atau gonda-gonda.,0,,,,,,843,,31,13
+sea-lion-v4-5-e2b-q4km-local,Gremet,Gremet berarti suara gaduh atau berisik.,0,,,,,,761,,32,13
+sea-lion-v4-5-e2b-q4km-local,Kacariyos,Kacariyos berarti cerita atau kisah dalam bahasa Indonesia.,1,,,,,,812,,32,13
+sea-lion-v4-5-e2b-q4km-local,Kaleh,"Kata ""kaleh"" dalam bahasa Jawa berarti ""semua"" dalam bahasa Indonesia.",0,,,,,,834,,31,19
+sea-lion-v4-5-e2b-q4km-local,Kemecer,Kemecer berarti bercahaya atau bersinar.,0,,,,,,755,,31,11
+sea-lion-v4-5-e2b-q4km-local,Kesawat,Kesawat berarti kesenangan atau kegembiraan.,0,,,,,,744,,31,11
+sea-lion-v4-5-e2b-q4km-local,Kesuen,Kesuen berarti kesenangan atau rasa suka.,0,,,,,,718,,31,10
+sea-lion-v4-5-e2b-q4km-local,klotekan,Klotekan berarti permainan atau kegiatan yang melibatkan ketukan atau pola tertentu.,1,,,,,,878,,32,16
+sea-lion-v4-5-e2b-q4km-local,Kreak,Kreak berarti suara berderit atau berderak.,0,,,,,,797,,31,13
+sea-lion-v4-5-e2b-q4km-local,Kupret,Kupret berarti mengumpulkan atau mengumpulkan sesuatu.,0,,,,,,835,,31,12
+sea-lion-v4-5-e2b-q4km-local,Leksanani,Leksanani berarti menanyakan atau meminta izin.,0,,,,,,844,,33,12
+sea-lion-v4-5-e2b-q4km-local,Lidis,Lidis berarti bunga.,0,,,,,,779,,31,6
+sea-lion-v4-5-e2b-q4km-local,Manahipun,Manahipun berarti hatinya.,1,,,,,,819,,32,8
+sea-lion-v4-5-e2b-q4km-local,Mleding,Mleding berarti lelah atau capek.,0,,,,,,835,,31,10
+sea-lion-v4-5-e2b-q4km-local,Ndaut,Ndaut berarti menarik atau menyeret.,0,,,,,,829,,31,9
+sea-lion-v4-5-e2b-q4km-local,Ndlogok,"Ndlogok berarti ""terlalu banyak"" atau ""berlebihan"".",0,,,,,,1047,,32,16
+sea-lion-v4-5-e2b-q4km-local,ndusel,Ndusel berarti bersandar atau menempel.,0,,,,,,842,,31,10
+sea-lion-v4-5-e2b-q4km-local,Ngeliwet,Ngeliwet berarti memasak nasi dengan santan dan lauk-pauk lainnya.,1,,,,,,941,,32,19
+sea-lion-v4-5-e2b-q4km-local,Ngleketer,Ngleketer berarti melihat atau memperhatikan dengan saksama.,0,,,,,,759,,33,14
+sea-lion-v4-5-e2b-q4km-local,Ngriki,Ngriki berarti di sini.,1,,,,,,713,,32,8
+sea-lion-v4-5-e2b-q4km-local,Pakunjaran,Pakunjaran berarti pengumuman atau pemberitahuan.,0,,,,,,947,,32,13
+sea-lion-v4-5-e2b-q4km-local,Pangrasan,Pangrasan berarti perasaan atau rasa.,1,,,,,,818,,32,10
+sea-lion-v4-5-e2b-q4km-local,Pecetan,Pecetan berarti makanan yang dibuat dengan cara tertentu atau hasil olahan.,0,,,,,,958,,31,16
+sea-lion-v4-5-e2b-q4km-local,Pimen,Pimen berarti dalam tahap awal atau belum matang.,0,,,,,,837,,31,12
+sea-lion-v4-5-e2b-q4km-local,Sasmito,"Sasmito berarti ""terkenal"" atau ""terpuji"".",0,,,,,,871,,31,15
+sea-lion-v4-5-e2b-q4km-local,Sedelat,"Sedelat berarti ""sedikit"" atau ""sedikit saja"".",0,,,,,,747,,31,14
+sea-lion-v4-5-e2b-q4km-local,Semribit,Semribit berarti sangat senang atau gembira.,0,,,,,,799,,32,12
+sea-lion-v4-5-e2b-q4km-local,Sirtu,Sirtu berarti roti dalam bahasa Indonesia.,0,,,,,,940,,32,10
+sea-lion-v4-5-e2b-q4km-local,sompret,Sompret berarti noda atau bercak.,0,,,,,,842,,31,10
+sea-lion-v4-5-e2b-q4km-local,Speleng,Speleng berarti menyalakan atau membakar.,0,,,,,,1052,,31,11
+sea-lion-v4-5-e2b-q4km-local,Urugan,Urugan berarti sampah atau kotoran.,0,,,,,,928,,32,11
+solar-pro4,Ageman,"Kata ""Ageman"" dalam bahasa Indonesia berarti orang yang beruntung atau sial.",0,,,,,,25388,4.77e-06,79,20
+solar-pro4,Anduweni,"Kata ""Anduweni"" dalam bahasa Jawa berarti ""kepada saya"" atau ""untuk saya"".",0,,,,,,15774,5.43e-06,81,25
+solar-pro4,Badogan,Badogan dalam bahasa Indonesia berarti bantuan atau pertolongan.,0,,,,,,18680,4.05e-06,79,14
+solar-pro4,Biyayakan,"Kata ""Biyayakan"" dalam bahasa Indonesia berarti ""memberikan"" atau ""memberikan sesuatu"".",0,,,,,,2912,5.19e-06,81,23
+solar-pro4,Biyuh,"Kata ""biyuh"" dalam bahasa Jawa berarti ""berbicara"" atau ""bicara"" dalam bahasa Indonesia.",0,,,,,,2652,5.52e-06,80,26
+solar-pro4,Bladak,"Kata ""Bladak"" dalam bahasa Indonesia berarti ""kadang-kadang"" atau ""suka-suka"".",0,,,,,,3455,5.76e-06,80,28
+solar-pro4,Coeg,"Kata ""coeg"" dalam bahasa Indonesia berarti keras kepala atau tidak mau mendengarkan nasihat orang lain.",0,,,,,,3141,5.37e-06,79,25
+solar-pro4,dadi'ne,"Kata tersebut berarti ""jadi"" atau ""hasilnya"" dalam bahasa Indonesia.",1,,,,,,31276,4.59e-06,81,18
+solar-pro4,Dangak,"Kata ""dangak"" dalam bahasa Jawa berarti berdiri atau posisinya tegak.",0,,,,,,4985,4.89e-06,79,21
+solar-pro4,Gakpati,Gakpati adalah istilah Jawa yang merujuk pada orang yang tidak memiliki pekerjaan atau penghasilan tetap.,0,,,,,,18254,5.55e-06,81,26
+solar-pro4,Geluduk,"Kata ""geluduk"" dalam bahasa Indonesia berarti berbaring atau bersandar dengan posisi tubuh yang agak condong atau rileks.",0,,,,,,2720,5.85e-06,79,29
+solar-pro4,Gendakan,"Kata ""gendakan"" dalam bahasa Indonesia berarti kejadian atau peristiwa yang terjadi secara tiba-tiba dan berulang.",0,,,,,,4076,6e-06,80,30
+solar-pro4,Gondes,"Gondes berarti berbicara atau berkata-kata dengan berlebihan, sering kali dengan nada menyindir atau meremehkan.",0,,,,,,9753,6.21e-06,79,32
+solar-pro4,Gremet,"Kata ""gremet"" dalam bahasa Jawa berarti kotor, berantakan, atau tidak rapi.",0,,,,,,3095,5.28e-06,80,24
+solar-pro4,Kacariyos,"Kacariyos dalam bahasa Indonesia berarti orang yang berani, pemberani, atau gagah berani.",0,,,,,,52574,5.43e-06,81,25
+solar-pro4,Kaleh,"Kata ""Kaleh"" dalam bahasa Jawa berarti kepala.",0,,,,,,25285,4.05e-06,79,14
+solar-pro4,Kemecer,Kemecer berarti pecah atau retak.,0,,,,,,46396,3.69e-06,79,11
+solar-pro4,Kesawat,"Kesawat berarti tidak selamat, berbahaya, atau mengancam jiwa.",0,,,,,,2386,4.77e-06,79,20
+solar-pro4,Kesuen,"Kesuen dalam bahasa Indonesia berarti ""kau"" atau ""engkau"" (kata ganti orang kedua).",0,,,,,,37274,5.37e-06,79,25
+solar-pro4,klotekan,"Kata ""klotekan"" dalam bahasa Indonesia berarti ""bermain"" atau ""bermain-main"".",0,,,,,,37863,5.04e-06,80,22
+solar-pro4,Kreak,Kreak dalam bahasa Jawa berarti kreatif atau memiliki banyak ide.,0,,,,,,21617,4.17e-06,79,15
+solar-pro4,Kupret,Kupret dalam bahasa Indonesia berarti kupu-kupu.,0,,,,,,7073,4.17e-06,79,15
+solar-pro4,Leksanani,"Kata ""Leksanani"" dalam bahasa Jawa berarti ""dibaca"" atau ""dengan cara membaca"" dalam bahasa Indonesia.",0,,,,,,72298,6.03e-06,81,30
+solar-pro4,Lidis,"Kata ""Lidis"" dalam bahasa Indonesia berarti ""liris"" atau ""sakit hati"" karena merasa tersinggung atau kecewa.",0,,,,,,60118,6.21e-06,79,32
+solar-pro4,Manahipun,"Kata tersebut berarti ""dia"" atau ""mereka"" dalam bahasa Indonesia, dengan konotasi hormat atau kuno.",0,,,,,,2835,5.64e-06,80,27
+solar-pro4,Mleding,Mleding dalam bahasa Indonesia berarti mabuk.,0,,,,,,1710,3.84e-06,80,12
+solar-pro4,Ndaut,"Kata ""Ndaut"" dalam bahasa Jawa berarti ""menghela napas"" atau ""bernapas"".",0,,,,,,2919,5.28e-06,80,24
+solar-pro4,Ndlogok,"Kata ""Ndlogok"" dalam bahasa Jawa berarti berjalan dengan tidak teratur atau melangkah melangkah.",0,,,,,,8189,5.52e-06,80,26
+solar-pro4,ndusel,"Kata ""ndusel"" dalam bahasa Indonesia berarti memasukkan sesuatu ke dalam mulut atau makan.",0,,,,,,2852,5.16e-06,80,23
+solar-pro4,Ngeliwet,Ngeliwet berarti memasak nasi dengan cara direndam dalam air panas hingga matang tanpa menggunakan api langsung atau wadah tertutup.,1,,,,,,2946,6.24e-06,80,32
+solar-pro4,Ngleketer,"Kata ""Ngleketer"" dalam bahasa Indonesia berarti berbicara dengan lancar, terus-menerus, atau tanpa henti.",0,,,,,,3772,6.15e-06,81,31
+solar-pro4,Ngriki,"Kata ""ngriki"" dalam bahasa Indonesia berarti ""di sini"" atau ""tempat ini"".",1,,,,,,3091,5.04e-06,80,22
+solar-pro4,Pakunjaran,"Pakunjaran dalam bahasa Indonesia berarti ""pencuri"" atau ""orang yang mencuri"".",0,,,,,,2798,4.8e-06,80,20
+solar-pro4,Pangrasan,"Pangrasan dalam bahasa Indonesia berarti ""tempat"" atau ""lokasi"".",0,,,,,,6807,4.56e-06,80,18
+solar-pro4,Pecetan,"Pecetan adalah istilah slang yang merujuk pada pukulan atau tamparan, seringkali digunakan dalam konteks perundungan atau kekerasan.",0,,,,,,31473,7.05e-06,79,39
+solar-pro4,Pimen,"Kata ""Pimen"" dalam bahasa Indonesia berarti ""pemimpin"" atau ""kepala"" (biasanya merujuk pada pemimpin komunitas atau organisasi).",0,,,,,,4255,6.93e-06,79,38
+solar-pro4,Sasmito,"Sasmito adalah nama diri yang berasal dari bahasa Jawa, secara harfiah berarti ""yang membawa pesan"" atau ""pembawa amanat"".",0,,,,,,12312,6.48e-06,80,34
+solar-pro4,Sedelat,"Kata ""Sedelat"" dalam bahasa Indonesia berarti ""satu setengah"" atau ""lima puluh persen lebih dari satu"".",0,,,,,,3704,6e-06,80,30
+solar-pro4,Semribit,"Kata ""Semribit"" dalam bahasa Indonesia berarti ""sedikit"" atau ""sebentar"".",0,,,,,,58697,5.04e-06,80,22
+solar-pro4,Sirtu,Sirtu dalam bahasa Indonesia berarti abu.,0,,,,,,58254,3.72e-06,80,11
+solar-pro4,sompret,"Kata ""sompret"" dalam bahasa Indonesia berarti **sombong** atau **arrogant**.",0,,,,,,2630,5.16e-06,80,23
+solar-pro4,Speleng,Speleng dalam bahasa Indonesia berarti pecahan uang logam yang kecil atau koin pecah.,0,,,,,,2556,4.92e-06,80,21
+solar-pro4,Urugan,"Urugan dalam bahasa Indonesia berarti tanah atau lapisan tanah yang ditumpuk/dibuang untuk menaikkan permukaan tanah, biasanya digunakan sebagai bahan perataan atau batas lahan.",1,,,,,,20804,7.44e-06,80,42
