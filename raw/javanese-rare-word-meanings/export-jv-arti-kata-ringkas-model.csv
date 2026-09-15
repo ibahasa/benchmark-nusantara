@@ -1,5 +1,6 @@
 model,set,tugas,penilai,rumusan,ulangan,versi_soal,versi_kunci,benar,benar_bobot,n_dinilai,n_item,skor,benar_tertahan,n_dinilai_tertahan,skor_tertahan,biaya_usd,tokens_in,tokens_out,latensi_median_ms,parsial,tanpa_skor,menunggu_vonis,beku,cap_token,dijalankan_pada,waktu_pasti
 deepseek-v4-flash-0731,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,22,,43,43,0.5116,0,0,,0.0025023830,,,4670,0,0,0,0,,2026-08-14T18:27:26+07:00,0
+deepseek-v4.1-flash,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,22,,43,43,0.5116,0,0,,0.0271190700,2485,29804,8310,0,0,0,0,9600,2026-09-15T22:08:10+0700,1
 gemini-3.5-flash,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,40,,43,43,0.9302,0,0,,0.1270050000,,,3418,0,0,0,0,,2026-08-14T18:27:26+07:00,0
 gemma-4-31b,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,26,,43,43,0.6047,0,0,,0.0005048000,,,1913,0,0,0,0,,2026-08-12T20:46:56+0700,1
 glm-5.3-flash,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,11,,43,43,0.2558,0,0,,0.0064942100,1847,18375,9488,0,0,0,0,6000,2026-09-02T23:30:13+0700,1
@@ -7,6 +8,7 @@ glm-5.3,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc0
 gpt-5.6-luna,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,35,,43,43,0.814,0,0,,0.0039585000,,,3708,0,0,0,0,,2026-08-14T18:27:26+07:00,0
 gpt-6-astra,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,33,,43,43,0.7674,0,0,,0.2200700000,1317,4138,4307,0,0,0,0,600,2026-09-07T10:01:34+0700,1
 llama-3-1-8b-q4km-local,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,1,,43,43,0.0233,0,0,,,1764,744,543,0,0,0,0,600,2026-08-15T16:36:04+0700,1
+mercury-2.5,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,13,,43,43,0.3023,0,0,,0.0017828000,845,11660,1056,0,0,0,0,600,2026-09-15T21:22:57+0700,1
 mistral-small-3-2501,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,1,,43,43,0.0233,0,0,,0.0004749600,,,1403,0,0,0,0,,2026-08-14T18:27:26+07:00,0
 nemotron-3.5-lightning,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,3,,43,43,0.0698,0,0,,0.0110987000,,,3669,0,0,0,0,,2026-08-12T21:02:03+0700,1
 sahabatai-1-llama3-q4km-local,jv-arti-kata,arti-kata,kunci-alias-v1,arti-kata-v1,1,6dfcc448bbd5,0a1bc07f67bc,4,,43,43,0.093,0,0,,,1764,1060,567,0,0,0,0,600,2026-08-15T00:52:38+0700,1

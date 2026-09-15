@@ -210,9 +210,15 @@ Jaraknya lebih lebar, tetapi kolom itu **memakai kunci**, sehingga ia tidak dapa
 dipakai memeriksa apakah kunci kami bias. Untuk keperluan itu hanya `sim_definisi`
 yang berdiri sendiri.
 
-Daya pisah kolom semantik terhadap vonis kunci, atas seluruh 172 baris: **0,937**.
-Terhadap vonis penutur: 0,73 sampai 0,94 bergantung model. Cukup untuk mengurutkan
-antrean baca, tidak cukup untuk memvonis.
+Daya pisah kolom semantik terhadap vonis kunci, atas seluruh 645 baris dari 15 model: **0,904**.
+Terhadap vonis penutur, pada 3 model yang punya vonis: 0,73 sampai 0,85. Cukup untuk
+mengurutkan antrean baca, tidak cukup untuk memvonis.
+
+Kolom semantik dihitung ulang pada 16 September 2026 karena 10 model sebelumnya
+tidak ikut dihitung. Persentil dan peringkat bersifat relatif terhadap seluruh panel,
+sehingga kedua kolom itu bergeser untuk semua model, termasuk yang angkanya sudah
+terbit. Sebelum penghitungan ulang, daya pisah terhadap vonis kunci tercatat 0,937
+atas 172 baris dari 4 model.
 
 ## Kolom irisan publik dan irisan tertahan di `ringkas-model.csv`
 
