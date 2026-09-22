@@ -1,12 +1,12 @@
 {
   "slug": "benchmark-results",
   "title": "Every published benchmark measurement in one table: one row per model per set per task per prompt per repetition, with the run date and whether that date was recorded or inferred. Generated from the same snapshot the website reads",
-  "published_at": "2026-09-15T18:51:24Z",
+  "published_at": "2026-09-22T14:40:42Z",
   "source_commit": "262603fb",
-  "fingerprint": "daf8b9cc61e317b0",
+  "fingerprint": "ef24e275e315d77e",
   "license": "CC BY 4.0",
   "files": [
-    { "file": "export-semua-hasil.csv", "source": "export/semua-hasil.csv", "bytes": 30652, "sha256": "cb31023cc7a35e7f494a27058738ac786c7f8da27dd117f4effbadb63d2c9367" },
+    { "file": "export-semua-hasil.csv", "source": "export/semua-hasil.csv", "bytes": 31947, "sha256": "d75e05b6a7bca2604349052b560a5a10912e77f302d9fb6439f3897712aaab63" },
     { "file": "export-PROVENANCE-hasil.md", "source": "export/PROVENANCE-hasil.md", "bytes": 9305, "sha256": "eb594465082943abba5b1cc2b49ce9040ec306e389fa15c37a493458de804f5d" }
   ]
 }
