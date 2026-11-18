@@ -1,16 +1,16 @@
 {
   "slug": "indonesian-slang-and-spelling",
   "title": "Indonesian slang comprehension and spell-check restraint: AI models on slang items and human-reviewed spelling suggestions, including one 8B model quantised to 4 bits and run on local hardware. Per-item verdicts for the public slice, so the per-model summary can be recomputed rather than trusted. Cost is blank rather than zero for the local row, and its latency is not comparable. Items and key withheld, figures only. See PROVENANCE",
-  "published_at": "2026-09-22T14:40:42Z",
+  "published_at": "2026-11-18T00:03:43Z",
   "source_commit": "262603fb",
-  "fingerprint": "3eb781e3b3b45c6f",
+  "fingerprint": "ce8c802c17b9ec4a",
   "license": "CC BY 4.0",
   "files": [
-    { "file": "export-id-B-ringkas-model.csv", "source": "export/id-B/ringkas-model.csv", "bytes": 5880, "sha256": "cd1d71573a4abb8fe60b6a02a03831d8af6d719b3251a9c55ba8f902a6adc376" },
-    { "file": "export-id-B-per-item.csv", "source": "export/id-B/per-item.csv", "bytes": 83118, "sha256": "4b78bb14c536a7fbcae8208668e23ec78c4c5382000d14da3c50a9f01abee36e" },
+    { "file": "export-id-B-ringkas-model.csv", "source": "export/id-B/ringkas-model.csv", "bytes": 6060, "sha256": "e0316ee1fb5eb186ccb7c8bea68af08fb853ebf58973b9995c024da1bcb4ee7b" },
+    { "file": "export-id-B-per-item.csv", "source": "export/id-B/per-item.csv", "bytes": 87389, "sha256": "af232023fcb7bc3802cb814032b268ad4699070ca27515dca50e3c88cf43fe77" },
     { "file": "export-id-B-PROVENANCE.md", "source": "export/id-B/PROVENANCE.md", "bytes": 9425, "sha256": "caa9a161db3598261a41abf959bc28a451e1798f2b62b5761d22a978cb6062e6" },
-    { "file": "export-id-W-ringkas-model.csv", "source": "export/id-W/ringkas-model.csv", "bytes": 3029, "sha256": "accc1ec0164a492564fa0b0f9e555ff1e15b102c6a8653b531864849fc6cd79e" },
-    { "file": "export-id-W-per-item.csv", "source": "export/id-W/per-item.csv", "bytes": 57222, "sha256": "2771c8877d8969deaf7195d4ec5cce35b15b42fb7239f8795ad12a260177547c" },
+    { "file": "export-id-W-ringkas-model.csv", "source": "export/id-W/ringkas-model.csv", "bytes": 3204, "sha256": "c3d91c9ce136c0a4c200795dd3bc2da02e8126f239a6ebf98b17f0ef591b9453" },
+    { "file": "export-id-W-per-item.csv", "source": "export/id-W/per-item.csv", "bytes": 60934, "sha256": "9336108db10ab2979d0d043e614f11a7d92ac951c718bd621b9ebb65b65f393f" },
     { "file": "export-id-W-PROVENANCE.md", "source": "export/id-W/PROVENANCE.md", "bytes": 6881, "sha256": "81257426ba8072b7505d401205aa47bc00ea9d8f0433d37ecfc293b9e439ec12" }
   ]
 }

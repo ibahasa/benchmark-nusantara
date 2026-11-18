@@ -1,6 +1,7 @@
 model,set,tugas,penilai,rumusan,ulangan,versi_soal,versi_kunci,benar,benar_bobot,n_dinilai,n_item,skor,benar_tertahan,n_dinilai_tertahan,skor_tertahan,biaya_usd,tokens_in,tokens_out,latensi_median_ms,parsial,tanpa_skor,menunggu_vonis,beku,cap_token,dijalankan_pada,waktu_pasti
 claude-haiku-4.5,id-B,pilihan-ganda,mcq-py1,mcq-py1,1,3e5973f02ae8,4e94e1cb7f25,26,,27,27,0.963,11,11,1.0,0.0104050000,9645,152,1405,0,0,0,1,600,2026-08-14T06:37:41+0700,1
 claude-haiku-4.5,id-B,pilihan-ganda,mcq-py1,mcq-py1,1,d3e8c01bc554,4e94e1cb7f25,38,,42,42,0.9048,18,18,1.0,0.0153630000,14163,240,1426,0,0,0,0,600,2026-08-17T23:08:21+0700,1
+claude-haiku-5.5,id-B,pilihan-ganda,mcq-py1,mcq-py1,1,d3e8c01bc554,4e94e1cb7f25,40,,42,42,0.9524,17,18,0.9444,0.0045958000,19318,5328,1211,0,0,0,0,2400,2026-11-17T16:28:28+0700,1
 deepseek-v4-flash-0731,id-B,pilihan-ganda,mcq-py1,mcq-py1,1,d3e8c01bc554,4e94e1cb7f25,39,,42,42,0.9286,18,18,1.0,0.0022297790,10888,4981,3281,0,0,0,0,2400,2026-08-17T23:04:31+0700,1
 deepseek-v4-flash-0731,id-B,pilihan-ganda,mcq-py1,mcq-py1,1,3e5973f02ae8,4e94e1cb7f25,25,,27,27,0.9259,10,11,0.9091,0.0017605604,7374,3835,3097,0,0,0,1,2400,2026-08-14T03:08:08+0700,1
 deepseek-v4.1-flash,id-B,pilihan-ganda,mcq-py1,mcq-py1,1,d3e8c01bc554,4e94e1cb7f25,41,,42,42,0.9762,17,18,0.9444,0.0194786500,12449,21239,2743,0,0,0,0,9600,2026-09-15T21:54:40+0700,1

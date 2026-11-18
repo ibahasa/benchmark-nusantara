@@ -1,13 +1,13 @@
 {
   "slug": "javanese-word-meanings-135",
   "title": "Javanese word meanings, 135 lemmas: model answers, multi-key answer sets with speaker-reviewed additional senses, and a key-free semantic cross-check column. Read-all-then-score protocol, pre-registered prediction, plus between-run variance on three models. The set also carries a held-back slice whose keys are never published; its scores are reported alongside the public ones in ringkas-model.csv, and the files here cover the public slice only. See PROVENANCE",
-  "published_at": "2026-09-22T14:40:42Z",
+  "published_at": "2026-11-18T00:03:43Z",
   "source_commit": "262603fb",
-  "fingerprint": "fcda24baaa9d7e80",
+  "fingerprint": "be8869ad7accd856",
   "license": "CC BY 4.0",
   "files": [
-    { "file": "export-jv-B-hasil-model.csv", "source": "export/jv-B/hasil-model.csv", "bytes": 380380, "sha256": "ca5dbc121dd618690af8e140e12714e1758333c0ee2fa28ff85427b9277b591b" },
-    { "file": "export-jv-B-ringkas-model.csv", "source": "export/jv-B/ringkas-model.csv", "bytes": 7113, "sha256": "65d3577f486dcc4fd8211f42cf0848697957ff0d3a11beeeaeaa80b6c8b14a11" },
+    { "file": "export-jv-B-hasil-model.csv", "source": "export/jv-B/hasil-model.csv", "bytes": 404787, "sha256": "588e03fc596efdf7f3d3181bad6460db890ae3c1eb2eba2ee8433124d429b920" },
+    { "file": "export-jv-B-ringkas-model.csv", "source": "export/jv-B/ringkas-model.csv", "bytes": 7302, "sha256": "d020201f327dcf6caff59b2fc8bf693d17aa32751bb1d116c0067e3f7b2da5e5" },
     { "file": "export-jv-B-kunci.csv", "source": "export/jv-B/kunci.csv", "bytes": 42862, "sha256": "42a764bcbf5350573c153ea364f678f2cdba8fbbf36791f80f28bfef5784577d" },
     { "file": "export-jv-B-ragam.csv", "source": "export/jv-B/ragam.csv", "bytes": 106731, "sha256": "e5205616b9da16c393ad03d1419a17abeb63e3dead985c78a828155048cb6d92" },
     { "file": "export-jv-B-CANARY.txt", "source": "export/jv-B/CANARY.txt", "bytes": 2344, "sha256": "357b59548f3bb72e4703f42ae3d35cbce711d3918d40169159ec7e9506b333a7" },
