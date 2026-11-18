@@ -1,14 +1,14 @@
 {
   "slug": "indonesian-normalization-prompt-arms",
   "title": "Indonesian text normalization: the same 69 items and answer key put to nine AI models under three different prompt wordings, one of them an 8B model quantised to 4 bits and run on local hardware, scored as two opposing abilities — substituting non-standard words versus leaving already-standard words alone. Sentences and key withheld, figures only. See PROVENANCE",
-  "published_at": "2026-11-18T00:03:43Z",
+  "published_at": "2026-11-18T01:36:52Z",
   "source_commit": "262603fb",
-  "fingerprint": "d68969664004b90c",
+  "fingerprint": "203405223980c80a",
   "license": "CC BY 4.0",
   "files": [
-    { "file": "export-id-N-ringkas-model.csv", "source": "export/id-N/ringkas-model.csv", "bytes": 7146, "sha256": "7a326bc6766420d4c0b961d6b0422517fbc8c3026fb500e7aeee49ba0d61f768" },
-    { "file": "export-id-N-per-item.csv", "source": "export/id-N/per-item.csv", "bytes": 379296, "sha256": "05318295e91640c82960f2384977c636a2cee24a6393b0cba7bee1184c5f18f2" },
-    { "file": "export-id-N-rumusan.csv", "source": "export/id-N/rumusan.csv", "bytes": 1237, "sha256": "1a3dbe641471bd351bc2d73eb2c7831bdbbc4516b32489418955cff0aaac63a6" },
+    { "file": "export-id-N-ringkas-model.csv", "source": "export/id-N/ringkas-model.csv", "bytes": 7606, "sha256": "34869b380e7046e8f959fa421ab4413e082044d75c310d6e97d28a8afd87f45c" },
+    { "file": "export-id-N-per-item.csv", "source": "export/id-N/per-item.csv", "bytes": 404802, "sha256": "7ef249297f28c6de72cea7998a172882a07cd486d9c6d2cd7e1b34cf0a734a28" },
+    { "file": "export-id-N-rumusan.csv", "source": "export/id-N/rumusan.csv", "bytes": 1237, "sha256": "a2b6b3d255d8e97ddcec52d45ff4b03179ae82cf8fb8eefb4cc99fbb5057a98a" },
     { "file": "export-id-N-PROVENANCE.md", "source": "export/id-N/PROVENANCE.md", "bytes": 9368, "sha256": "610de12e9fd30e73f99e34f6087e4292be58bea88aaa6f8af2b764c7d963244d" }
   ]
 }

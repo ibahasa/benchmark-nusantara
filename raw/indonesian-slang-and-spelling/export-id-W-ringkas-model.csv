@@ -1,6 +1,7 @@
 model,set,tugas,penilai,rumusan,ulangan,versi_soal,versi_kunci,benar,benar_bobot,n_dinilai,n_item,skor,benar_tertahan,n_dinilai_tertahan,skor_tertahan,biaya_usd,tokens_in,tokens_out,latensi_median_ms,parsial,tanpa_skor,menunggu_vonis,beku,cap_token,dijalankan_pada,waktu_pasti
 claude-haiku-4.5,id-W,terbuka,open-py1,open-py1,1,27af2c184856,82bbf3cc2f8a,20,,38,38,0.5263,12,16,0.75,0.0162620000,14517,349,1266,0,0,0,0,600,2026-08-14T06:42:10+0700,1
 claude-haiku-5.5,id-W,terbuka,open-py1,open-py1,1,27af2c184856,82bbf3cc2f8a,25,,38,38,0.6579,12,16,0.75,0.0090181000,20756,13885,1949,0,0,0,0,4000,2026-11-17T16:37:09+0700,1
+claude-sonnet-5.5,id-W,terbuka,open-py1,open-py1,1,27af2c184856,82bbf3cc2f8a,28,,38,38,0.7368,13,16,0.8125,0.1297820000,20756,8827,2719,0,0,0,0,4000,2026-11-18T07:15:58+0700,1
 deepseek-v4-flash-0731,id-W,terbuka,open-py1,open-py1,1,27af2c184856,82bbf3cc2f8a,23,,38,38,0.6053,12,16,0.75,0.0039268338,11085,13176,5016,0,0,0,0,9600,2026-08-14T03:09:51+0700,1
 gemma-4-31b,id-W,terbuka,open-py1,open-py1,1,27af2c184856,82bbf3cc2f8a,29,,38,38,0.7632,13,16,0.8125,0.0013040600,10323,190,1021,0,0,0,0,600,2026-08-13T14:58:19+0700,1
 glm-5.3-flash,id-W,terbuka,open-py1,open-py1,1,27af2c184856,82bbf3cc2f8a,25,,38,38,0.6579,13,16,0.8125,0.0094093300,12726,30195,11374,0,0,0,0,4000,2026-09-02T17:48:22+0700,1

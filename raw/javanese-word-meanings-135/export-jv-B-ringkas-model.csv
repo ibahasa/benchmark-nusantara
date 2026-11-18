@@ -2,6 +2,7 @@ model,set,tugas,penilai,rumusan,ulangan,versi_soal,versi_kunci,benar,benar_bobot
 claude-haiku-4.5,jv-B,arti-kata,kunci-alias-v1,arti-kata-v1,1,4e682041d284,873b6f168502,82,,135,135,0.6074,0,0,,0.0251450000,,,1662,0,0,0,1,,2026-08-17T01:18:03+07:00,0
 claude-haiku-4.5,jv-B,arti-kata,kunci-alias-v1,arti-kata-v1,1,a7ba9fa24e64,873b6f168502,86,,135,135,0.637,41,64,0.6406,0.0371060000,9041,5613,1635,0,0,0,0,600,2026-08-16T21:18:34+0700,1
 claude-haiku-5.5,jv-B,arti-kata,kunci-alias-v1,arti-kata-v1,1,a7ba9fa24e64,873b6f168502,108,,135,135,0.8,51,64,0.7969,0.0175920000,12585,32667,1429,0,0,0,0,6000,2026-11-17T16:54:52+0700,1
+claude-sonnet-5.5,jv-B,arti-kata,kunci-alias-v1,arti-kata-v1,1,a7ba9fa24e64,873b6f168502,122,,135,135,0.9037,54,64,0.8438,0.2880800000,12585,26291,1484,0,0,0,0,6000,2026-11-18T07:45:52+0700,1
 deepseek-v4-flash-0731,jv-B,arti-kata,kunci-alias-v1,arti-kata-v1,2,4e682041d284,873b6f168502,110,,135,135,0.8148,0,0,,0.0064652386,,,6361,0,0,0,1,4000,2026-08-13T01:04:18+0700,1
 deepseek-v4-flash-0731,jv-B,arti-kata,kunci-alias-v1,arti-kata-v1,3,4e682041d284,873b6f168502,110,,135,135,0.8148,0,0,,0.0067447092,,,4636,0,0,0,1,4000,2026-08-13T00:59:07+0700,1
 deepseek-v4-flash-0731,jv-B,arti-kata,kunci-alias-v1,arti-kata-v1,1,4e682041d284,873b6f168502,110,,135,135,0.8148,0,0,,0.0061266006,,,3933,0,0,0,1,,2026-08-14T18:27:26+07:00,0
